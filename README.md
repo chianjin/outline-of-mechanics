@@ -14,6 +14,14 @@ https://github.com/chianjin/outline-of-mechanics
 
 当然个人精力、水平有限，亦难免遗漏或者改错之处。阅读者如有发现，可前往上述网址讨论或提交相关信息。如有兴趣者，亦可在上述项目网址联系本人参与修订。
 
+## 下载地址
+
+GitHub : https://github.com/chianjin/outline-of-mechanics/raw/main/%E5%8A%9B%E5%AD%A6%E6%A6%82%E8%AE%BA.pdf
+
+百度网盘 : https://pan.baidu.com/s/1N9tjCX2CQ4zSLUp7xdOcgg?pwd=asm2
+
+阿里云盘 : https://www.aliyundrive.com/s/84WJTFsE9ox
+
 ## 字体设置
 
 ### 英文字体
