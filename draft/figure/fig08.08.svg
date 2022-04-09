@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg824"
+   width="191.36255"
+   height="97.711708"
+   viewBox="0 0 191.36255 97.711709"
+   sodipodi:docname="fig08.08.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs828">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22104" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview826"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:zoom="3.8116126"
+     inkscape:cx="100.22005"
+     inkscape:cy="64.933146"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g830" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g830"
+     transform="translate(-195.02311,-350.95847)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 379.1588,357.26194 -11.60694,3.04615 -1.52308,-5.80347 11.60694,-3.04615"
+       id="path1362-9" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect970"
+       width="3"
+       height="75"
+       x="275.60275"
+       y="358.83435" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 248.06286,381.27425 h 28.76387"
+       id="path21970" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       d="m 195.02311,381.27425 h 53.03975"
+       id="path1005" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 276.82673,381.27425 89.96359,-23.86789"
+       id="path1007" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 303.80484,448.17018 -5.46457,-10.68356 5.34177,-2.73228 5.46457,10.68356"
+       id="path1362" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 276.82673,381.27425 24.18443,54.84623"
+       id="path1631" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01;fill:#000000;fill-opacity:1;stroke:none"
+       x="198.07889"
+       y="394.58365"
+       id="text8931"><tspan
+         sodipodi:role="line"
+         id="tspan8929"
+         x="198.07889"
+         y="394.58365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">高能质子束</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal'"
+       x="312.99088"
+       y="446.53015"
+       id="text18981"><tspan
+         sodipodi:role="line"
+         id="tspan18979"
+         x="312.99088"
+         y="446.53015">计数器</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal'"
+       x="358.64087"
+       y="372.54575"
+       id="text19447"><tspan
+         sodipodi:role="line"
+         id="tspan19445"
+         x="358.64087"
+         y="372.54575">计数器</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal'"
+       x="273.11273"
+       y="444.16895"
+       id="text21071"><tspan
+         sodipodi:role="line"
+         id="tspan21069"
+         x="273.11273"
+         y="444.16895">靶</tspan></text>
+  </g>
+</svg>

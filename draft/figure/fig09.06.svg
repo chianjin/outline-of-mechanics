@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg824"
+   width="244.16176"
+   height="125.01709"
+   viewBox="0 0 244.16176 125.01709"
+   sodipodi:docname="fig09.06.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ns11="http://www.iki.fi/pav/software/textext/">
+  <defs
+     id="defs828">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path1641" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview826"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.1266498"
+     inkscape:cx="109.862"
+     inkscape:cy="82.676352"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g830" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g830"
+     transform="translate(-90.4879, -300.855)">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path970"
+       cx="319.03156"
+       cy="316.47293"
+       r="15.118111" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1096"
+       cx="131.13077"
+       cy="390.194"
+       r="34.015747" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1200"
+       cx="-41.881607"
+       cy="409.50284"
+       rx="41.574802"
+       ry="34.015747"
+       transform="rotate(-24.415305)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       id="path1322"
+       sodipodi:type="arc"
+       sodipodi:cx="131.13077"
+       sodipodi:cy="390.194"
+       sodipodi:rx="26.456694"
+       sodipodi:ry="26.456694"
+       sodipodi:start="0.15497023"
+       sodipodi:end="1.2840629"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 157.27041,394.27761 a 26.456694,26.456694 0 0 1 -18.65715,21.29293" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
+       x="309.67999"
+       y="319.80887"
+       id="text2654"><tspan
+         sodipodi:role="line"
+         id="tspan2652"
+         x="309.67999"
+         y="319.80887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">月球</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal'"
+       x="121.83389"
+       y="393.52994"
+       id="text3306"><tspan
+         sodipodi:role="line"
+         id="tspan3304"
+         x="121.83389"
+         y="393.52994">地球</tspan></text>
+    <g
+       transform="matrix(0.933331,0,0,0.933331,143.7952,400.51187)"
+       ns11:version="1.8.1"
+       ns11:texconverter="xelatex"
+       ns11:pdfconverter="inkscape"
+       ns11:text="$\\omega$"
+       ns11:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
+       ns11:scale="0.7"
+       ns11:alignment="middle center"
+       ns11:stroke-to-path="0"
+       ns11:inkscapeversion="1.1"
+       ns11:jacobian_sqrt="0.933331"
+       id="g14003">
+      <defs
+         id="id-1aeb6545-4a90-4e7f-b7fd-f016ce0bfdf1">
+        <g
+           id="id-6cc10970-b099-4b2f-9567-f0259b8ff645">
+          <symbol
+             overflow="visible"
+             id="id-d307bbac-303f-4ab2-9cbd-94b71c364310">
+            <path
+               style="stroke:none;stroke-width:0"
+               d="m 1.9375,-0.703125 h -1.25 v -5.78125 h 1.25 z M 2.625,0 V -7.1875 H 0 V 0 Z m 0,0"
+               id="id-4e545565-3fae-421b-a5c4-3be834835650" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="id-d40fa53e-5d23-4dca-ac5c-bdcfaf012cd5">
+            <path
+               style="stroke:none;stroke-width:0"
+               d="m 4.875,-4.46875 c 0.8125,0.09375 1.21875,0.390625 1.21875,1.40625 0,0.90625 -0.796875,2.859375 -1.71875,2.859375 -0.5625,0 -0.734375,-0.515625 -0.734375,-1.046875 0.375,-0.546875 0.8125,-1.375 0.8125,-2.046875 0,-0.265625 -0.140625,-0.5 -0.34375,-0.5 -0.765625,0 -1.015625,1.1875 -1.015625,1.953125 0,0.15625 0,0.390625 0.03125,0.546875 -0.140625,0.484375 -0.734375,1.09375 -1.34375,1.09375 -0.46875,0 -0.703125,-0.484375 -0.703125,-0.96875 0,-1.765625 1.15625,-3.296875 2.453125,-3.296875 L 3.5,-4.625 H 3.34375 c -1.859375,0 -3.140625,1.34375 -3.140625,3.046875 0,0.734375 0.390625,1.6875 1.453125,1.6875 0.703125,0 1.1875,-0.40625 1.625,-0.921875 C 3.3125,-0.28125 3.75,0.109375 4.375,0.109375 c 1.078125,0 2.5625,-1.265625 2.5625,-3.046875 0,-1.234375 -0.78125,-1.6875 -1.984375,-1.6875 z m 0,0"
+               id="id-471e6e45-cad7-4b8d-be18-282ed0d77370" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="id-ee810c3f-1afd-4d9f-bf49-59f6b8972636"
+         transform="translate(-154.971,-130.14)">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="id-fc86b871-04c8-4fb5-b9be-18d1c5ea4bdf">
+          <g
+             transform="translate(154.768,134.765)"
+             id="g13999">
+            <path
+               style="stroke:none;stroke-width:0"
+               d="m 4.875,-4.46875 c 0.8125,0.09375 1.21875,0.390625 1.21875,1.40625 0,0.90625 -0.796875,2.859375 -1.71875,2.859375 -0.5625,0 -0.734375,-0.515625 -0.734375,-1.046875 0.375,-0.546875 0.8125,-1.375 0.8125,-2.046875 0,-0.265625 -0.140625,-0.5 -0.34375,-0.5 -0.765625,0 -1.015625,1.1875 -1.015625,1.953125 0,0.15625 0,0.390625 0.03125,0.546875 -0.140625,0.484375 -0.734375,1.09375 -1.34375,1.09375 -0.46875,0 -0.703125,-0.484375 -0.703125,-0.96875 0,-1.765625 1.15625,-3.296875 2.453125,-3.296875 L 3.5,-4.625 H 3.34375 c -1.859375,0 -3.140625,1.34375 -3.140625,3.046875 0,0.734375 0.390625,1.6875 1.453125,1.6875 0.703125,0 1.1875,-0.40625 1.625,-0.921875 C 3.3125,-0.28125 3.75,0.109375 4.375,0.109375 c 1.078125,0 2.5625,-1.265625 2.5625,-3.046875 0,-1.234375 -0.78125,-1.6875 -1.984375,-1.6875 z m 0,0"
+               id="id-330149bf-a5a3-46d4-8d0f-39315c090fbd" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

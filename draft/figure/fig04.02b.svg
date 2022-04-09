@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg860"
+   width="415.13513"
+   height="591.56757"
+   viewBox="0 0 415.13513 591.56757"
+   sodipodi:docname="fig04.02.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata866">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs864" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview862"
+     showgrid="false"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:zoom="4.1458773"
+     inkscape:cx="199.77101"
+     inkscape:cy="123.67866"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g868" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g868">
+    <g
+       id="g2494"
+       transform="matrix(2.0197996,0,0,2.0198087,83.398132,-45.160376)"
+       style="stroke-width:1.87123">
+      <g
+         id="g2487"
+         style="stroke-width:1.87123">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.495097px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 26.458332,26.45833 7.7495116,41.734041 v 0 L 26.458332,57.009749 45.16715,41.734041 26.458332,26.45833"
+           id="path1723" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.495097px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 7.7495116,41.734041 V 57.009749 L 26.458332,72.28547 45.16715,57.009749 V 41.734041"
+           id="path1725" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.495097px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 26.458332,57.009749 V 72.28547"
+           id="path1727" />
+      </g>
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.495097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1741"
+         cx="26.45833"
+         cy="49.371902"
+         rx="22.913568"
+         ry="22.91357" />
+    </g>
+    <g
+       id="g2537"
+       transform="matrix(3.3925437,0,0,3.3925437,170.35856,-114.12587)"
+       style="stroke-width:0.29476407;stroke-miterlimit:4;stroke-dasharray:none">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1770"
+         cx="-26.45833"
+         cy="-49.371891"
+         r="12.07651"
+         transform="scale(-1)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 16.586989,55.079132 H 36.307708 L 26.447349,38.000488 Z"
+         id="path1835"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 26.458346,49.371879 -1.4e-5,-11.352368"
+         id="path2526" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 26.458332,49.37189 -9.871343,5.707242"
+         id="path2528" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 26.458332,49.371879 9.849375,5.707253"
+         id="path2530" />
+    </g>
+    <g
+       id="g2789"
+       transform="matrix(1.1215216,0,0,-1.1215216,-3.0628711,230.15093)"
+       style="stroke-width:3.37">
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:0.811246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2607"
+         sodipodi:sides="5"
+         sodipodi:cx="168.86559"
+         sodipodi:cy="110.87525"
+         sodipodi:r1="10.38256"
+         sodipodi:r2="8.3996668"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.1991149"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 168.86559,121.25781 -9.87441,-7.17417 3.77169,-11.60806 12.20543,0 3.77169,11.60806 z"
+         inkscape:transform-center-y="-1.0896034"
+         transform="matrix(0.33962807,-1.0452677,-1.0453322,-0.33964903,238.25429,314.22308)"
+         inkscape:transform-center-x="9.0854473e-06" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.891641;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2766"
+         cx="179.70407"
+         cy="100.05473"
+         r="18.785418" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.891645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.99794,109.28633 -4.20329,5.78562 10.94358,3.54433 10.87669,-3.54537 -4.20553,-5.78433"
+         id="path2768" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.891645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 190.61492,115.07091 6.74235,-9.28062 8e-5,-11.470868 -6.79995,2.20921"
+         id="path2770" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.891645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 197.35822,94.322116 -6.74386,-9.283952 -10.91732,-3.545001 0.008,7.151018"
+         id="path2774" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.891645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 179.69704,81.493163 -10.84532,3.625123 -6.80085,9.200906 6.80034,2.209437"
+         id="path2776" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.891645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 162.05167,94.316702 -7.9e-4,11.473358 6.74386,9.28189"
+         id="path2780" />
+    </g>
+    <g
+       id="g3510"
+       transform="matrix(0.36807537,0,0,0.36807779,96.57783,111.77474)"
+       style="stroke-width:10.2683">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.71683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 84.239104,165.16674 25.142916,-43.54881 25.14287,43.54881 z"
+         id="path3404" />
+      <path
+         id="path3406-3-7-9-0-1"
+         style="fill:none;stroke:#000000;stroke-width:2.71683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 152.93076,125.50757 1e-5,50.28577 m 0,0 -43.54875,25.14289 m 0,0 -43.548748,-25.1429 m 1.2e-5,-2e-5 3e-6,-50.28574 m 0,0 43.548733,-25.14288 m 0,0 43.54874,25.14288" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.71683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.382,121.61797 -43.548714,3.8896 18.405818,39.65917 -18.405821,10.62657"
+         id="path3496" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.71683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 84.239102,165.16674 25.142918,35.76949 25.14287,-35.76949 18.40588,10.6266"
+         id="path3498" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.71683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.38202,100.36469 v 21.25324 l 43.54874,3.88964 -18.40587,39.65917"
+         id="path3500" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:2.71683;stroke-linecap:round;stroke-linejoin:round"
+         id="path3502"
+         cx="109.38202"
+         cy="150.65047"
+         r="51" />
+    </g>
+    <g
+       id="g1554"
+       transform="matrix(0.26846281,0,0,0.26841691,110.80029,115.11593)"
+       style="stroke-width:3.72523">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.72523px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 270.59037,194.33647 56.93681,56.9359 56.93677,-56.9359 -56.93677,-56.9359 -56.93681,56.9359 h 113.87358"
+         id="path3551" />
+      <g
+         id="g1537"
+         style="stroke-width:3.72523">
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:3.72523;stroke-linecap:round;stroke-linejoin:round"
+           id="path3549"
+           cx="327.52716"
+           cy="194.33649"
+           rx="56.936787"
+           ry="56.935894" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.72523px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 327.52718,137.40057 v 113.8718"
+           id="path3553" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="132.172"
+       y="111.18938"
+       id="text1589"><tspan
+         sodipodi:role="line"
+         id="tspan1587"
+         x="132.172"
+         y="111.18938">土</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="255.54408"
+       y="111.15292"
+       id="text1593"><tspan
+         sodipodi:role="line"
+         id="tspan1591"
+         x="255.54408"
+         y="111.15292">木</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="168.60928"
+       y="138.52126"
+       id="text1597"><tspan
+         sodipodi:role="line"
+         id="tspan1595"
+         x="168.60928"
+         y="138.52126">火</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="132.26314"
+       y="196.79326"
+       id="text1601"><tspan
+         sodipodi:role="line"
+         id="tspan1599"
+         x="132.26314"
+         y="196.79326">地</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="193.92183"
+       y="196.7989"
+       id="text1605"><tspan
+         sodipodi:role="line"
+         id="tspan1603"
+         x="193.92183"
+         y="196.7989">金</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="255.58054"
+       y="196.81714"
+       id="text1609"><tspan
+         sodipodi:role="line"
+         id="tspan1607"
+         x="255.58054"
+         y="196.81714">水</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="171.8333"
+       y="15.072057"
+       id="text1613"><tspan
+         sodipodi:role="line"
+         id="tspan1611"
+         x="171.8333"
+         y="15.072057">六</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="294.91647"
+       y="18.863878"
+       id="text1617"><tspan
+         sodipodi:role="line"
+         id="tspan1615"
+         x="294.91647"
+         y="18.863878">四</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="219.01854"
+       y="103.95247"
+       id="text1621"><tspan
+         sodipodi:role="line"
+         id="tspan1619"
+         x="219.01854"
+         y="103.95247">十二</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="154.44194"
+       y="155.53719"
+       id="text1625"><tspan
+         sodipodi:role="line"
+         id="tspan1623"
+         x="154.44194"
+         y="155.53719">二十</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+       x="214.18723"
+       y="158.43536"
+       id="text1629"><tspan
+         sodipodi:role="line"
+         id="tspan1627"
+         x="214.18723"
+         y="158.43536">八</tspan></text>
+    <g
+       id="g1640"
+       transform="translate(-3.0159485,-1.2230046)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 263.13556,183.78468 15.2854,-15.28256 -15.2854,-15.28255 -15.28542,15.28255 z"
+         id="path3551-1"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path3549-3"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         d="m 271.20344,168.50212 h -16.13576 c 0,-4.45491 3.61211,-8.06633 8.06788,-8.06633 4.45577,0 8.06788,3.61142 8.06788,8.06633 z"
+         sodipodi:nodetypes="ccsc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 263.13555,153.21957 v 30.56509"
+         id="path3553-5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 247.85014,168.50212 h 30.57082"
+         id="path1633" />
+    </g>
+  </g>
+</svg>

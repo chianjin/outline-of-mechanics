@@ -1,0 +1,52 @@
+\clearpage
+\pagestyle{plain}
+\ctexset{
+    chapter={
+        beforeskip=-2.5em,
+        afterskip=1em,
+    },
+}
+
+\chapter*{全~部~习~题~答~案}
+\addcontentsline{toc}{chapter}{全部习题答案}
+\setlength{\mathindent}{4em}
+\setcounter{chapter}{0}
+\setcounter{figure}{0}
+\newcounter{answer}
+
+\renewcommand{\figurename}{答案图}
+
+\newcommand{\achapter}{
+    \setcounter{answer}{0}
+    \setcounter{figure}{0}
+    \addtocounter{chapter}{1}
+    \begin{center}
+        \textsf{第~~\chinese{chapter}~~章}
+    \end{center}
+}
+
+\newlength{\itemwidth}
+\settowidth{\itemwidth}{88.}
+\setlength{\parindent}{1.75em}
+\newcommand{\answer}{
+    \noindent
+    \addtocounter{answer}{1}
+    \makebox[\itemwidth][l]{\theanswer .}
+}
+
+\newlength{\xindent}
+\settowidth{\xindent}{(2) }
+\newcommand{\aindent}{\makebox[\xindent]{}}
+
+\input{body/M13.01-Answers-Chp01}
+\input{body/M13.02-Answers-Chp02}
+\input{body/M13.03-Answers-Chp03}
+\input{body/M13.04-Answers-Chp04}
+\input{body/M13.05-Answers-Chp05}
+\input{body/M13.06-Answers-Chp06}
+\input{body/M13.07-Answers-Chp07}
+\input{body/M13.08-Answers-Chp08}
+\input{body/M13.09-Answers-Chp09}
+\input{body/M13.10-Answers-Chp10}
+\input{body/M13.11-Answers-Chp11}
+\input{body/M13.12-Answers-Chp12}

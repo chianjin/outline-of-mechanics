@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg670"
+   width="140mm"
+   height="203mm"
+   viewBox="0 0 529.13387 767.24409"
+   sodipodi:docname="F00-frontpage.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata676">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs674">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <filter
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter50">
+      <feGaussianBlur
+         stdDeviation="38.9632 38.3497"
+         result="blur"
+         id="feGaussianBlur44" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 "
+         result="colormatrix"
+         id="feColorMatrix46" />
+      <feComposite
+         in="colormatrix"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite48" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     id="namedview672"
+     showgrid="false"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.4689763"
+     inkscape:cx="305.31505"
+     inkscape:cy="607.33508"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g678"
+     inkscape:document-rotation="0">
+    <sodipodi:guide
+       position="243.28316,613.36751"
+       orientation="1,0"
+       id="guide852" />
+    <sodipodi:guide
+       position="299.23829,615.19213"
+       orientation="1,0"
+       id="guide854" />
+    <sodipodi:guide
+       position="275.82228,646.81894"
+       orientation="0,-1"
+       id="guide856" />
+    <sodipodi:guide
+       position="290.41927,607.58954"
+       orientation="0,-1"
+       id="guide858" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g678">
+    <rect
+       style="fill:#642121;fill-opacity:1;stroke-width:7.74222"
+       id="rect1771"
+       width="529.13385"
+       height="767.24408"
+       x="0"
+       y="0" />
+    <path
+       id="rect840"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.00344"
+       d="M 3.4140625 361.06836 A 126.61417 126.61417 0 0 0 0 361.12109 L 0 363.00977 A 124.72441 124.72441 0 0 1 3.5976562 362.95703 A 124.72441 124.72441 0 0 1 128.32227 487.68164 A 124.72441 124.72441 0 0 1 3.5976562 612.40625 A 124.72441 124.72441 0 0 1 0 612.35352 L 0 614.24609 A 126.61417 126.61417 0 0 0 3.5976562 614.29688 A 126.61417 126.61417 0 0 0 30.708984 611.35938 L 0 623.83398 L 0 625.87305 L 529.13477 410.9082 L 529.13477 408.86914 L 70.417969 595.22656 A 126.61417 126.61417 0 0 0 130.21094 487.68164 A 126.61417 126.61417 0 0 0 3.5976562 361.06836 A 126.61417 126.61417 0 0 0 3.4140625 361.06836 z M 3.5976562 368.62695 A 119.05511 119.05511 0 0 0 0 368.68164 L 0 370.57422 A 117.16535 117.16535 0 0 1 3.4179688 370.51758 A 117.16535 117.16535 0 0 1 3.5976562 370.51758 A 117.16535 117.16535 0 0 1 120.76367 487.68164 A 117.16535 117.16535 0 0 1 3.5976562 604.84766 A 117.16535 117.16535 0 0 1 0 604.79297 L 0 606.68359 A 119.05511 119.05511 0 0 0 3.5976562 606.73828 A 119.05511 119.05511 0 0 0 122.65234 487.68164 A 119.05511 119.05511 0 0 0 3.5976562 368.62695 z M 529.13477 418.31641 L 0 633.28125 L 0 635.32227 L 529.13477 420.35938 L 529.13477 418.31641 z M 529.13477 428.13281 L 0 643.0957 L 0 645.13672 L 529.13477 430.17188 L 529.13477 428.13281 z M 529.13477 436.86719 L 0 651.83203 L 0 653.87109 L 529.13477 438.90625 L 529.13477 436.86719 z M 529.13477 445.61133 L 0 660.57422 L 0 662.61719 L 179.22461 589.80469 A 39.495555 39.68504 0 0 0 164.35352 620.83203 A 39.495555 39.68504 0 0 0 203.84961 660.51562 A 39.495555 39.68504 0 0 0 243.3457 620.83203 A 39.495555 39.68504 0 0 0 203.84961 581.14648 A 39.495555 39.68504 0 0 0 200.09375 581.32617 L 529.13477 447.65039 L 529.13477 445.61133 z M 203.84961 583.03516 A 37.614816 37.795277 0 0 1 241.46484 620.83203 A 37.614816 37.795277 0 0 1 203.84961 658.62695 A 37.614816 37.795277 0 0 1 166.23438 620.83203 A 37.614816 37.795277 0 0 1 203.84961 583.03516 z M 203.85156 586.81641 A 33.853332 34.015747 0 0 0 169.99609 620.83203 A 33.853332 34.015747 0 0 0 203.85156 654.84766 A 33.853332 34.015747 0 0 0 237.70312 620.83203 A 33.853332 34.015747 0 0 0 203.85156 586.81641 z M 203.85156 588.70703 A 31.972592 32.125984 0 0 1 235.82227 620.83203 A 31.972592 32.125984 0 0 1 203.85156 652.95898 A 31.972592 32.125984 0 0 1 171.87695 620.83203 A 31.972592 32.125984 0 0 1 203.85156 588.70703 z " />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:49.8797px;line-height:1.25;font-family:'Source Han Sans';-inkscape-font-specification:'Source Han Sans Medium';letter-spacing:15.03px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.247;"
+       x="124.01896"
+       y="193.02057"
+       id="text868"
+       transform="scale(1.2469924,0.80192951)"><tspan
+         sodipodi:role="line"
+         id="tspan866"
+         x="124.01896"
+         y="193.02057"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.205px;font-family:FZHei-B01;-inkscape-font-specification:FZHei-B01;stroke-width:1.247;fill:#ffffff;fill-opacity:1;"
+         dy="0">力学概论</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:8.6px;fill:#ffffff;fill-opacity:1;stroke:none;"
+       x="229.47272"
+       y="209.44557"
+       id="text880"><tspan
+         sodipodi:role="line"
+         id="tspan878"
+         x="229.47272"
+         y="209.44557"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6667px;font-family:FZShuSong-Z01S;-inkscape-font-specification:FZShuSong-Z01S;fill:#ffffff;fill-opacity:1;"
+         dx="0">方励之</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:8.6px;fill:#ffffff;fill-opacity:1;stroke:none;"
+       x="315.54178"
+       y="209.46225"
+       id="text880-6"><tspan
+         sodipodi:role="line"
+         id="tspan878-4"
+         x="315.54178"
+         y="209.46225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6667px;font-family:FZShuSong-Z01S;-inkscape-font-specification:FZShuSong-Z01S;fill:#ffffff;fill-opacity:1;">李淑娴</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="431.39325"
+       y="196.1759"
+       id="text906"><tspan
+         sodipodi:role="line"
+         id="tspan904"
+         x="431.39325"
+         y="196.1759" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
+       x="401.50217"
+       y="209.70856"
+       id="text880-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan878-4-3"
+         x="401.50217"
+         y="209.70856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:FZShuSong-Z01S;-inkscape-font-specification:FZShuSong-Z01S;fill:#ffffff;fill-opacity:1;">著</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.6667px;line-height:1.25;font-family:sans-serif"
+       x="234.5784"
+       y="696.33856"
+       id="text1751"><tspan
+         sodipodi:role="line"
+         id="tspan1749"
+         x="234.5784"
+         y="696.33856" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:6.46px;fill:#ffffff;fill-opacity:1;stroke:none;"
+       x="231.68086"
+       y="698.91541"
+       id="text880-7"><tspan
+         sodipodi:role="line"
+         id="tspan878-9"
+         x="231.68086"
+         y="698.91541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:FZShuSong-Z01S;-inkscape-font-specification:FZShuSong-Z01S;fill:#ffffff;fill-opacity:1;">安徽科学技术出版社</tspan></text>
+  </g>
+</svg>
