@@ -254,3 +254,4 @@ TSWLatexianTemp*
 # generated if using elsarticle.cls
 *.spl
 *.xcp
+/tex/outline-of-mechanics.pdf
