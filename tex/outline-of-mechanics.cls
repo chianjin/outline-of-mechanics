@@ -113,11 +113,18 @@
 }
 
 % 目录
-%\RequirePackage{titletoc}
-%\RequirePackage{titlesec}
-%
-%\dottedcontents{chapter}[4em]{\vspace{-0.3518em}\heiti}{5em}{0.5pc}
-%\dottedcontents{section}[4em]{\vspace{-0.3518em}}{2em}{0.5pc}
+\RequirePackage[subfigure]{tocloft}
+\tocloftpagestyle{foreword}
+\renewcommand{\contentsname}{\bfseries\zihao{-3}\hfill 目\qquad 录\hfill\vspace{-1em}}
+\renewcommand{\cftchapfont}{\heiti\zihao{-5}}
+\renewcommand{\cftsecfont}{\zihao{-5}}
+\renewcommand{\cftdot}{\ensuremath{\cdots}}
+\renewcommand{\cftdotsep}{0}
+\renewcommand{\cftchapdotsep}{0}
+\cftbeforetoctitleskip=2em
+\cftaftertoctitleskip=6em
+\cftbeforechapskip=-0.14em
+\cftbeforesecskip=-0.14em
 
 % 思考题，按节处理
 \newcounter{question}
@@ -250,8 +257,11 @@
     colorlinks=true,
     allcolors=black,
     pdfstartview=Fit,
-    breaklinks=true
+    breaklinks=true,
+    bookmarksnumbered=true,
+    pdfpagelabels=true
 }
+\RequirePackage{bookmark}
 
 % 摘录
 \RequirePackage[
