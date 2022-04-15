@@ -14,7 +14,7 @@
 这里有一个很大的疑问，为什么能把地球和落体间的距离看为$ R $？
 如果说在讨论月亮运动时，把地球和月亮看作质点是一个足够好
 的近似，那么讨论落体运动时，把地球看作质点显然是不合理的
-\begin{wrapfigure}[11]{r}{17em}
+\begin{wrapfigure}[12]{r}{17em}
   \centering
   \includegraphics{figure/fig04.09}
   \caption{多质点体系的引力}
@@ -24,7 +24,7 @@
 为$ R $，从理论上来说是有欠缺的。后来，他给出了严格的证明。为了
 研究这个问题，我们必须来讨论一下多质点体系的引力问题。
 
-现在我们先来讨论一种简单情况。如图\ref{fig:04.09}~
+现在我们先来讨论一种简单情况。如图\ref{fig:04.09}
 % 145.jpg
 所示，在原点有一质量为$ m $的质点，空间分布着质量分别为$ m _ { 1 } , m _ { 2 } , m _ { 3 } , \cdots , m _ { i } $的若干个质点，它们的位置矢径分别为$ r _ { 1 } , r _ { 2 } ,
   r _ { 3 } , \cdots , r _ { i } $。为了求质点$ m $所受到的引力，必须把式\eqref{eqn:04.07.01}作
@@ -32,13 +32,13 @@
 {\setlength{\mathindent}{2em}
 \begin{equation}\label{eqn:04.07.03}
   \begin{aligned}
-    \mbox{} & \text{第一个质点对}\,m\,\text{的引力为}
+    & \text{第一个质点对}\,m\,\text{的引力为}
             & \vec{F} _ { 1 } = \frac { G m m _ { 1 } } { r _ 1 ^ { 2 } } \cdot \frac { \vec{r} _ { 1 } } { r _ { 1 } } \\
-    \mbox{} & \text{第二个质点对}\,m\,\text{的引力为}
+    & \text{第二个质点对}\,m\,\text{的引力为}
             & \vec{F} _ { 2 } = \frac { G m m _ { 2 } } { r _ 2 ^ { 2 } } \cdot \frac { \vec{r} _ { 2 } } { r _ { 2 } } \\
-    \mbox{} & \cdots \cdots \cdots \cdots                                                                               \\
-    \mbox{} & \text{第}\;i\;\text{个质点对}\,m\,\text{的引力为}
-            & \vec{F} _ { i } = \frac { G m m _ { i } } { r _ i ^ { 2 } } \cdot \frac { \vec{r} _ { i } } { r _ { i } } \\
+     & \cdots \cdots \cdots \cdots                                                                               \\
+    & \text{第}\;i\;\text{个质点对}\,m\,\text{的引力为}
+            & \vec{F} _ { i } = \frac { G m m _ { i } } { r _ i ^ { 2 } } \cdot \frac { \vec{r} _ { i } } { r _ { i } }
   \end{aligned}
 \end{equation}}%
 式中$ \dfrac { \vec{r} _ { i } } { r _ { i } } $表示第$ i $个质点对$ m $的引力的方向。因此，可以自然地认
@@ -46,7 +46,7 @@
 \begin{equation}\label{eqn:04.07.04}
   \begin{aligned}
     \vec{F} & =  \vec{F} _ { 1 } + \vec{F} _ { 2 } + \cdots + \vec{F} _ { i }                                        \\
-                                                                              & = \sumx _ i { \dfrac { G m m _ { i } } { r _ { i } ^ 2 } \cdot \dfrac { \vec{r} _ { i } } { r _ { i } } }
+                                                                              & = \sum _ i { \dfrac { G m m _ { i } } { r _ { i } ^ 2 } \cdot \dfrac { \vec{r} _ { i } } { r _ { i } } }
   \end{aligned}
 \end{equation}
 
@@ -68,20 +68,21 @@
 用力，这力的大小应当与该小块的质量成正比，而与它和$ P $点之
 间的距离的平方成反比，方向沿着它们之间的连线。然后，我们
 再求球壳上所有部分对$ P $点的合力。
-\begin{figurex}
+\begin{figure}[h]
   \centering
   \includegraphics{figure/fig04.10}
   \caption{球壳的引力}
   \label{fig:04.10}
-\end{figurex}\vspace{-0.5em}
+  \vspace{-0.8em}
+\end{figure}
 
 %{\renewcommand{\CJKglue}{\hskip 0pt plus 0.09pt}
-设在球壳\,$ A $\,点处的一小块对\,$ m $\,的引力为\,$ \vec{F} _ { 1 } $，由球壳的对称性，
-我们可以找到与\,$ A $\,相对称的\,$ B $\,点，该处的一小块对\,$ m $\,的引力为\,$ \vec{F} _ { 2 } $\,。
-由于对称，故\,$ \vec{F} _ { 1 } $\,与\,$ \vec{F} _ { 2 } $\,这两个力的竖直分量彼此抵消，而水平分量
-\,$ F _ { 1 } \cos \alpha $\,与\,$ F _ { 2 } \cos \alpha $\,相等。通过把球壳分为这样一对一对的小块，我
-们立刻可以看出，所有作用在\,$ m $\,上的力的竖直分量都成对地相互
-抵消了。为了求出球壳对\,$ m $\,的合引力，我们只需考虑水平分量。
+设在球壳$ A $点处的一小块对$ m $的引力为$ \vec{F} _ { 1 } $，由球壳的对称性，
+我们可以找到与$ A $相对称的$ B $点，该处的一小块对$ m $的引力为$ \vec{F} _ { 2 } $。
+由于对称，故$ \vec{F} _ { 1 } $与$ \vec{F} _ { 2 } $这两个力的竖直分量彼此抵消，而水平分量
+$ F _ { 1 } \cos \alpha $与$ F _ { 2 } \cos \alpha $相等。通过把球壳分为这样一对一对的小块，我
+们立刻可以看出，所有作用在$ m $上的力的竖直分量都成对地相互
+抵消了。为了求出球壳对$ m $的合引力，我们只需考虑水平分量。
 %}
 
 如图\ref{fig:04.10}，考虑球壳上的一环带，该环带长为$ 2 \uppi \left( r \sin \theta \right) $，宽
@@ -100,11 +101,11 @@ $ \dif M $对位于$ P $点处的质量$ m $所施的力是水平的，其值为
 % & = 2 \uppi G t \rho m r ^ { 2 } \frac { \sin \theta \dif \theta } { x ^ { 2 } } \cos \alpha
 % \end{aligned}
 %\end{equation}
-\begin{equation*}
-  \dif F = G \frac { m \dif M } { x ^ { 2 } } \cos \alpha \\
-\end{equation*}
 \begin{equation}\label{eqn:04.07.05}
-  \mbox{} \qquad = 2 \uppi G t \rho m r ^ { 2 } \frac { \sin \theta \dif \theta } { x ^ { 2 } } \cos \alpha
+  \begin{split}
+      \dif F &= G \frac { m \dif M } { x ^ { 2 } } \cos \alpha \\
+  &= 2 \uppi G t \rho m r ^ { 2 } \frac { \sin \theta \dif \theta } { x ^ { 2 } } \cos \alpha
+  \end{split}
 \end{equation}
 % 147.jpg
 其中$ x , \alpha $和$ \theta $之间满足下列关系
@@ -115,18 +116,16 @@ $ \dif M $对位于$ P $点处的质量$ m $所施的力是水平的，其值为
 \begin{equation}\label{eqn:04.07.07}
   x ^ { 2 } = R ^ { 2 } + r ^ { 2 } - 2 R r \cos \theta
 \end{equation}
-即\vspace{-1.56em}
-\begin{equation}\label{eqn:04.07.08}
-  r \cos \theta = \frac { R ^ { 2 } + r ^ { 2 } - x ^ { 2 } } { 2 R }
-\end{equation}
+\begin{align}\label{eqn:04.07.08}
+  \beforetext{即} r \cos \theta = \frac { R ^ { 2 } + r ^ { 2 } - x ^ { 2 } } { 2 R }
+\end{align}
 对式\eqref{eqn:04.07.06}进行微分，得
 \begin{equation*}
   2 x \dif x = 2 R r \sin \theta \dif \theta
 \end{equation*}
-即\vspace{-1.56em}
-\begin{equation}\label{eqn:04.07.09}
-  \sin \theta \dif \theta = \frac { x } { R r } \dif x
-\end{equation}
+\begin{align}\label{eqn:04.07.09}
+  \beforetext{即} \sin \theta \dif \theta = \frac { x } { R r } \dif x
+\end{align}
 将式\eqref{eqn:04.07.08}代入式\eqref{eqn:04.07.06}，再将式\eqref{eqn:04.07.06}、\eqref{eqn:04.07.09}代入式
 \eqref{eqn:04.07.05}，从而消去$ \theta $与$ \alpha $，得
 \begin{equation}\label{eqn:04.07.10}
@@ -168,8 +167,7 @@ $ R + r $，所以
 其实，地球并不是标准的球体，而是有点象梨的形状，“梨”
 的较小一端在北半球。因此，式\eqref{eqn:04.07.12}是不严格的。若考虑地
 球的真实形状，引力表达式将非常复杂。譬如，在地球附近运行
-\begin{wrapfigure}[11]{r}{16em}
-  \vspace{-0.5em}
+\begin{wrapfigure}[14]{r}{17em}
   \centering
   \includegraphics{figure/fig04.11}
   \caption{对球壳内部的引力}

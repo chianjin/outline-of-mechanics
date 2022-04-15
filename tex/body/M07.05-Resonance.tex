@@ -26,11 +26,10 @@ $ \left( - \eta \dfrac { \dif x } { \dif t } \right) $
 \end{equation*}
 % 211.jpg
 
-\clearpage\noindent
-或\vspace{-2.5em}
-\begin{equation*}
-  \frac { \dif ^ { 2 } x } { \dif t ^ { 2 } } + \frac { \eta } { m } \cdot \frac { \dif x } { \dif t } + \frac { k } { m } x = \frac { F _ { 0 } } { m } \cos \omega t
-\end{equation*}
+\clearpage
+\begin{align*}
+  \beforetext{或}\frac { \dif ^ { 2 } x } { \dif t ^ { 2 } } + \frac { \eta } { m } \cdot \frac { \dif x } { \dif t } + \frac { k } { m } x = \frac { F _ { 0 } } { m } \cos \omega t
+\end{align*}
 引入符号$ \omega _ { 0 } ^ { 2 } = \dfrac { k } { m } $，$ 2 \beta = \dfrac { \eta } { m } $，$ f _ { 0 } = \dfrac { F _ { 0 } } { m } $，则得
 \begin{equation}\label{eqn:07.05.01}
   \frac { \dif ^ { 2 } x } { \dif t ^ { 2 } } + 2 \beta \frac { \dif x } { \dif t } + \omega _ { 0 } ^ { 2 } x = \frac { F _ { 0 } } { m } \cos \omega t
@@ -103,32 +102,27 @@ $ \omega_{ 0 } $时，振子才能有效地吸收外力所提供的能量，而�
 称为共振吸收。
 
 如果阻力$ \beta $很小，$ \omega \approx \omega _ { 0 } $发生共振，由式\eqref{eqn:07.05.06}给出共振时
-的吸收功率为\vspace{-0.5em}
+的吸收功率为
 \begin{equation*}
   \frac { \eta f _ { 0 } ^ { 2 } } { 8 \beta ^ { 2 } } = \frac { m f _ { 0 } ^ { 2 } } { 4 \beta }
 \end{equation*}
 这里使用了$ \beta = \eta / 2 m $。当外力频率稍偏离$\omega_{ 0 }$时，吸收功率下降。
 现在来求：吸收功率为上述极大值的一半时，外力频率$ \omega $与振子
-的固有频率$ \omega_{ 0 } $差多少。即解方程\vspace{-0.2em}
+的固有频率$ \omega_{ 0 } $差多少。即解方程
 \begin{equation*}
   \frac { \eta f _ { 0 } ^ { 2 } } { 16 \beta ^ { 2 } }  = \frac { \eta f _ { 0 } ^ { 2 } \omega ^ { 2 } } { 2 \left[ \left( \omega_{ 0 } ^ { 2 } - \omega ^ { 2 } \right) ^ { 2 } + 4 \beta ^ { 2 } \omega ^ { 2 } \right] }
-\end{equation*}\vspace{-0.3em}
+\end{equation*}
 采用$ \omega \approx \omega _ { 0 } $，则
-\vspace{-0.5em}
 \begin{equation*}
   \begin{aligned}
     \left( \omega _ { 0 } ^ { 2 } - \omega ^ { 2 } \right) & = \left( \omega _ { 0 } + \omega \right) \left( \omega _ { 0 } - \omega \right) \\
-                                                           & \approx 2 \omega _ { 0 } \left( \omega _ { 0 } - \omega \right)
+    & \approx 2 \omega _ { 0 } \left( \omega _ { 0 } - \omega \right)
   \end{aligned}
 \end{equation*}
-上式成为\vspace{-1.56em}
-\begin{equation*}
-  \frac { f _ { 0 } ^ { 2 } } { 16 \beta ^ { 2 } }  = \frac { f _ { 0 } ^ { 2 } } { 2 \left[ 4 \left( \omega_{ 0 } - \omega ) ^ { 2 } \right) ^ { 2 } + 4 \beta ^ { 2 } \right] }
-\end{equation*}
-解得\vspace{-1.56em}
-\begin{equation*}
-  \left| \omega _ { 0 } - \omega \right| \approx \beta
-\end{equation*}
+\begin{align*}
+    \beforetext{上式成为} &\frac { f _ { 0 } ^ { 2 } } { 16 \beta ^ { 2 } }  = \frac { f _ { 0 } ^ { 2 } } { 2 \left[ 4 \left( \omega_{ 0 } - \omega ) ^ { 2 } \right) ^ { 2 } + 4 \beta ^ { 2 } \right] } \\
+  \beforetext{解得} &\left| \omega _ { 0 } - \omega \right| \approx \beta
+\end{align*}
 所以，只要外力的频率在下列范围
 \begin{equation}\label{eqn:07.05.07}
   \omega _ { 0 } - \beta < \omega < \omega _ { 0 } + \beta

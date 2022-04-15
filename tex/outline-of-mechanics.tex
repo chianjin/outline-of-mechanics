@@ -1,8 +1,8 @@
 \documentclass{outline-of-mechanics}
 
 \begin{document}
-\widowpenalty0
-\clubpenalty0
+%\widowpenalty0
+%\clubpenalty0
 
 % 封面
 \includepdf{body/F00-Frontpage.pdf}
@@ -28,9 +28,15 @@
 \clearpage
 \pagestyle{heading}
 \setcounter{page}{1}
+\setcounter{chapter}{-1}
 % 公式与上下文本距离调整
-\setlength\abovedisplayskip{3pt plus 3pt minus 1pt}
-\setlength\belowdisplayskip{3pt plus 3pt minus 1pt}
+\baselineskip=1.5em
+\lineskip=0.25em
+\lineskiplimit=0.25em
+\abovedisplayskip=0.25em plus 0.25em minus 0.25em
+\belowdisplayskip=\abovedisplayskip
+\abovedisplayshortskip=0em plus 0.25em minus 0.25em
+\belowdisplayshortskip=\abovedisplayshortskip
 
 % 绪论
 \input{body/M00.00-Introduction}
@@ -71,17 +77,15 @@
 % 第十二章
 \input{body/M12.00-Kinetic and Non-Inertial Reference Frame}
 
-
 % 习题答案
 \input{body/M13.00-Answers}
-
 
 % 重排后记
 \clearpage{\pagestyle{empty}\cleardoublepage}
 \input{body/Z01-Afterword}
 
 % 重排校注
-% \clearpage{\pagestyle{empty}\cleardoublepage}
-% \input{body/Z02-Errata Note}
+%\clearpage{\pagestyle{empty}\cleardoublepage}
+%\input{body/Z02-Errata Note}
 
 \end{document}

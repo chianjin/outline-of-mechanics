@@ -24,7 +24,7 @@
 \eqref{eqn:10.04.04}作为研究的起点，即
 
 % 307.jpg
-~\vspace{-1.56em}
+\clearpage~\vspace{-1.56em}
 \begin{equation}\label{eqn:10.05.01}
     \frac {  \dif \vec{L} } {  \dif t } = \vec{M}
 \end{equation}
@@ -37,14 +37,14 @@
 的重力矩为
 \begin{equation*}
     \begin{split}
-        \vec{M} &= \sumx_{ i = 1 } ^ n \left( \vec{r} _ i \times m _ { i } \vec{g} \right) \\
-                &= \Bigg( \sumx_{ i = 1 } ^ n m _ i \vec{r} _ { i } \Bigg) \times \vec{g} \\
-                &= \Bigg( \frac { \sumx _{ i = 1 } ^ n m _ i \vec{r} _ i } { m } \Bigg) \times m \vec{g} \\
+        \vec{M} &= \sum_{ i = 1 } ^ n \left( \vec{r} _ i \times m _ { i } \vec{g} \right) \\
+                &= \Bigg( \sum_{ i = 1 } ^ n m _ i \vec{r} _ { i } \Bigg) \times \vec{g} \\
+                &= \Bigg( \frac { \sum _{ i = 1 } ^ n m _ i \vec{r} _ i } { m } \Bigg) \times m \vec{g} \\
                 &= \vec{r} _ { c } \times m \vec{g}
     \end{split}
 \end{equation*}
-\begin{wrapfigure}[10]{r}{13em}
-    \vspace{-3em}
+\begin{wrapfigure}[12]{r}{13em}
+    \vspace{-1em}
     \centering
     \includegraphics{figure/fig10.22}
     \caption{陀螺的动力学}
@@ -79,28 +79,16 @@ $ Z $轴，因此，角动量$ L $的顶端就只能是绕一水平圆周的运�
 动。
 
 由图\ref{fig:10.22} 可求得进动角速率$ \omega _ \text{进} $。用该图中的符号，即有
-\begin{equation*}
-    \omega _ \text{进} = \frac { \Delta \varphi } { \Delta t }
-\end{equation*}
-以及\vspace{-1.56em}
-\begin{equation*}
-    \begin{split}
+\begin{align*}
+    \omega _ \text{进} &= \frac { \Delta \varphi } { \Delta t } \\
+    \beforetext{以及}
         \Delta \varphi &= \frac { \Delta L } { L \sin \theta } \\
-            &= \frac { M \Delta t } { L \sin \theta }
-    \end{split}
-\end{equation*}
-又因\vspace{-1.56em}
-\begin{equation*}
-    M = r _ { c } m g \sin \theta
-\end{equation*}
-故\vspace{-1.56em}
-\begin{equation*}
-    \begin{split}
-        \Delta \varphi &= \frac { r _ { c } m g \sin \theta \Delta t } { L \sin \theta } \\
+            &= \frac { M \Delta t } { L \sin \theta } \\
+    \beforetext{又因} M &= r _ { c } m g \sin \theta \\
+    \beforetext{故}    \Delta \varphi &= \frac { r _ { c } m g \sin \theta \Delta t } { L \sin \theta } \\
             &= \frac { r _ { c } m g \Delta t } { L }
-    \end{split}
-\end{equation*}
-最终得到\vspace{-1.56em}
+\end{align*}
+最终得到
 \begin{equation}\label{eqn:10.05.02}
     \begin{split}
         \omega _ \text{进} &= \frac { \Delta \varphi } { \Delta t } \\
@@ -111,6 +99,7 @@ $ Z $轴，因此，角动量$ L $的顶端就只能是绕一水平圆周的运�
 % 309.jpg
 来说，自旋角动量愈大，则进动角速率愈小。
 
+\clearpage
 地球就是一个陀螺。地球的自转轴相当于陀螺的轴，自转速
 率是每24小时一周。当然，地球的自转中并不存在一个固定的顶
 点，与前面讨论的情况不完全相同。但若选择地心(大体也就是
@@ -118,13 +107,12 @@ $ Z $轴，因此，角动量$ L $的顶端就只能是绕一水平圆周的运�
 是地球绕太阳的公转，而转动部分就类似于一个陀螺。
 
 \vspace{1.5em}
-\begin{figurex}
+\begin{figure}[h]
     \centering
     \includegraphics{figure/fig10.23}
     \caption{地球的进动}
     \label{fig:10.23}
-\end{figurex}
-\vspace{1.5em}
+\end{figure}
 
 如图\ref{fig:10.23}，地球的自转轴并不垂直于地球的公转平面，它与
 该平面的法线之间的夹角为$ 23.5 ^ \circ $。如果地球质量分布相对于自

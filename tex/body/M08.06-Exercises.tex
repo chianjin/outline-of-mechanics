@@ -92,14 +92,14 @@ $ \left( m _ { A } = m _ { B } = m _ { c } \right) $，
 $ v _ { A _ { 0 } } = 80 $米/秒，
 $ v _ { B _ { 0 } } = 0 $；碰撞后分别沿与原$ A $球运动方向成
 $ 30 ^ \circ $和$ 45 ^ { \circ } $角前进，如图\ref{fig:08.12}所示。试求：
-\begin{figurex}
+\begin{figure}[h]
   \vspace{-0.5em}
   \centering
   \includegraphics{figure/fig08.12}
   \vspace{-0.5em}
   \caption{}
   \label{fig:08.12}
-\end{figurex}
+\end{figure}
 % 246.jpg
 
 \clearpage
@@ -168,12 +168,12 @@ $ m _ { A } $和$ m _ { B } $。在一轻弹簧的作用下彼此
 分开，各自以$ v _ { A } $和$ v _ { B } $
 的速度作惯性运动。试证明分开之后，两物体的动能之比为
 $ \dfrac { E _ { k A } } { E _ { k B } } = \dfrac { m _ { B } } { m _ { A } } $(图\ref{fig:08.15})。
-\begin{figurex}
+\begin{figure}[h]
   \centering
   \includegraphics{figure/fig08.15}
   \caption{}
   \label{fig:08.15}
-\end{figurex}
+\end{figure}
 
 \exercise 质量分别为$ m _ { 1 } = 5.0 $千克和
 $ m _ { 2 } = 3.00 $千克的两球，分别以
@@ -220,17 +220,20 @@ $ m _ { 2 } = 3.00 $千克的两球，分别以
 
 \exercise 一个三级火箭，各级重量如下表所示，不考虑重力，火箭
 的初速为零。
-\begin{tablex}
-  \begin{tabularx}{\linewidth}{C*{3}{|R}}
+\begin{table}[h]
+    \vspace{-0.8em}
+    \zihao{-5}\fangsong
+  \begin{tblr}{rightsep=1em,colspec={c*{3}{|X[r]}}}
     \toprule
-    级\qquad 别 & \makecell[c]{发射总质量}    & \makecell[c]{燃料}            & \makecell[c]{燃料外壳}       \\
+    级\hspace{1em}别 & \SetCell{c}发射总质量    & \SetCell{c}燃\hspace{1em}料  & \SetCell{c}燃料外壳 \\
     \midrule
-    一\qquad 级 & $ 60 $吨\hspace{1.5em}\null & 40吨\hspace{1.5em}\null       & 10吨\hspace{1.5em}\null      \\
-    二\qquad 级 & $ 10 $吨\hspace{1.5em}\null & $ 20/3 $吨\hspace{1.5em}\null & $ 7/3 $吨\hspace{1.5em}\null \\
-    三\qquad 级 & $ 1 $吨\hspace{1.5em}\null  & $ 2/3 $吨\hspace{1.5em}\null  &                              \\
+    一\hspace{1em}级 & $ 60 $吨\qquad & $ 40 $吨\qquad & $ 10 $吨\qquad  \\
+    二\hspace{1em}级 & $ 10 $吨\qquad & $ 20/3 $吨\qquad & $ 7/3 $吨\qquad \\
+    三\hspace{1em}级 & $ 1 $吨\qquad & $ 2/3 $吨\qquad & \\
     \bottomrule
-  \end{tabularx}
-\end{tablex}
+  \end{tblr}
+\vspace{-0.8em}
+\end{table}
 
 (1)若燃料相对于火箭喷出速率为$ u = 2500 $米/秒，每级燃料
 外壳在燃料用完时将脱离火箭主体，设外壳脱离主体时，相对于主
@@ -243,7 +246,6 @@ $ m _ { 2 } = 3.00 $千克的两球，分别以
 \exercise 一宇宙飞船以恒速$ \vec { v } $在空间飞行，飞行过程中
 遇到一股微尘粒子流，这些微尘粒子流以
 $ \dfrac { \dif m } { \dif t } $的速率沉积在飞船上，尘粒
-\clearpage\noindent
 在
 % 249.jpg
 落到飞船之前的速度为$ \vec { u }$。在时刻$ t $，飞船的总质量
@@ -366,25 +368,26 @@ $ v _ { A } $，$ V _ { A } $，$ v _ { B } $，$ V _ { B } $
 (2)在这两种情况下，$ m $与$ M $分开后机械能的变化各为多少？
 部分损失的机械能到哪里去了？
 % TODO: \usepackage{graphicx} required
-\begin{figurex}
+\begin{figure}[h]
   \centering
   \includegraphics{figure/fig08.21}
   \caption{}
   \label{fig:08.21}
-\end{figurex}
+\end{figure}
 
 \lhbrak 提示：对于$ A $的情况，$ m $实际上是沿图\ref{fig:08.21}中虚线到达
-水平
+水
 % 252.jpg
-面，$ m $的速度方向与水平面夹角为$ \beta $。$ m $与桌子平面的碰
+\clearpage\noindent
+平面，$ m $的速度方向与水平面夹角为$ \beta $。$ m $与桌子平面的碰
 撞在竖直方向是完全非弹性碰撞，系统只在水平方向保持动量守恒：
 $ m v _ \text {斜} \cos \beta = M V _ { A }$。\rhbrak
 
 \exercise 有一固定的光滑斜面，倾角为$ \theta $有一小物体，质量
 为$ m $，从高$ H $处自由下滑，滑到斜面底$ C $点之后，继续沿水平
 面平稳
-\begin{wrapfigure}[7]{r}{13.2em}
-  %\vspace{-1.56em}
+\begin{wrapfigure}[7]{r}{14em}
+  \vspace{1.5em}
   \centering
   \includegraphics{figure/fig08.22}
   \caption{}
@@ -403,8 +406,8 @@ $ m v _ \text {斜} \cos \beta = M V _ { A }$。\rhbrak
 由静止开始下滑，然后又在水平面上继续前进一段距离$ s $后停止
 (图\ref{fig:08.23})。设物体与斜面和平面的摩擦系数都为$ \mu _ { 0 } $。求：
 
-\begin{wrapfigure}[7]{r}{13.2em}
-  %\vspace{-1.56em}
+\begin{wrapfigure}[7]{r}{14em}
+  \vspace{1.5em}
   \centering
   \includegraphics{figure/fig08.23}
   \caption{}

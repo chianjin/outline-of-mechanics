@@ -1,4 +1,4 @@
-\section{动量守恒}\label{sec:08.01}
+\section[动量守恒]{动~量~守~恒}\label{sec:08.01}
 
 迄今为止，我们大都讨论单个质点的运动。在这一章里，我
 们要讨论由许多质点构成的体系的运动规律。这种问题，常称为
@@ -20,9 +20,9 @@
 它是由许多原子组成，原子之间的相互作用远大于其他分子的作
 用，这样，我们也可以把这个大分子看作近似的孤立体系。再如，
 % 227.jpg
-在加速器的实验中，高能粒子束打到靶上，发生各种反应，我们
+在加速器的实验中，高能粒子束打到靶上，发生各种反应，我们称
 \clearpage\noindent
-称之为碰撞。看起来这个系统非常复杂，但由于碰撞时作用很强，
+之为碰撞。看起来这个系统非常复杂，但由于碰撞时作用很强，
 我们可以把一个高能粒子与它所撞上的一个粒子作为孤立体系来
 处理，其他作用全可不顾及。
 
@@ -66,7 +66,8 @@
   \frac { \dif \vec { P } } { \dif t } = 0
 \end{equation}
 % 228.jpg
-最终得到\vspace{-1.56em}
+\clearpage\noindent
+最终得到\vspace{-1em}
 \begin{equation}\label{eqn:08.01.05}
   \vec { P } = \text { 不变量 }
 \end{equation}
@@ -80,14 +81,13 @@
 明体系的总动量不随时间变化，即
 \begin{equation}\label{eqn:08.01.06}
   \begin{aligned}
-    P & = m _ { 1 } \vec { v } _ { 1 } + m _ { 2 } \vec { v } _ { 2 } + \cdots + m _ { n } \vec { v } _ { n } \\
+    \vec{P} & = m _ { 1 } \vec { v } _ { 1 } + m _ { 2 } \vec { v } _ { 2 } + \cdots + m _ { n } \vec { v } _ { n } \\
       & = \text { 不变量 }
   \end{aligned}
 \end{equation}
-或者\vspace{-1.56em}
-\begin{equation}\label{eqn:08.01.07}
-  \frac { \dif \vec { P } } { \dif t } = 0
-\end{equation}
+\begin{align}\label{eqn:08.01.07}
+  \beforetext{或者}\frac { \dif \vec { P } } { \dif t } = 0
+\end{align}
 这就是动量守恒定律。
 
 对于单个质点，我们也可以定义它的动量为$ \vec { P } = m \vec { v } $ ，那么，
@@ -151,12 +151,12 @@
 % 230.jpg
 不变。在图\ref{fig:08.02}所示的坐标系中，在$ x $方向
 % TODO: \usepackage{graphicx} required
-\begin{figurex}
+\begin{figure}[h]
   \centering
   \includegraphics{figure/fig08.02}
   \caption{}
   \label{fig:08.02}
-\end{figurex}
+\end{figure}
 \begin{equation*}
   \begin{split}
     m v &= \frac { m } { 2 } \left( v _ { 1 } \cos 60 ^ { \circ } + v _ { 2 } \cos \theta \right)  \\
@@ -181,17 +181,13 @@
 \begin{equation*}
   \tg \theta = \frac { \sin 60 ^ { \circ } } { 2 - \cos 60 ^ { \circ } } = \frac { 1 } { \sqrt { 3 } }
 \end{equation*}
-即\vspace{-1.56em}
-\begin{equation*}
-  \theta = 30 ^ { \circ }
-\end{equation*}
-又\vspace{-1.56em}
-\begin{equation*}
-  \begin{split}
-    v _ { 2 } &= \frac { \sin 60 ^ { \circ } } { \sin 3 0 ^ { \circ } } v \\
+\begin{align*}
+  \beforetext{即} \theta = 30 ^ { \circ }
+\end{align*}
+\begin{align*}
+  \beforetext{又}  v _ { 2 } &= \frac { \sin 60 ^ { \circ } } { \sin 3 0 ^ { \circ } } v \\
     &= \sqrt { 3 } v = 1.73 v
-  \end{split}
-\end{equation*}
+\end{align*}
 %\clearpage
 %\vspace{-1.56em}
 %\begin{equation*}
@@ -235,13 +231,10 @@
     &\frac { 1 } { 2 } \left( m _ { 1 } + m _ { 2 } \right) u ^ { 2 } = \left( m _ { 1 } + m _ { 2 } \right) g h
   \end{split}
 \end{equation*}
-解得\vspace{-1.56em}
-\begin{equation*}
-  \begin{split}
-    &u = \sqrt { 2 g h }  \\
+\begin{align*}
+    \beforetext{解得} &u = \sqrt { 2 g h }  \\
     &v = \left( \frac { m _ { 1 } + m _ { 2 } } { m _ { 2 } } \right) \sqrt { 2 g h }
-  \end{split}
-\end{equation*}
+\end{align*}
 % 232.jpg
 由几何关系知
 \begin{equation*}
@@ -254,4 +247,4 @@
 \begin{equation*}
   v = \frac { 2 \left( m _ { 1 } + m _ { 2 } \right) } { m _ { 2 } } \sqrt { g l } \sin \frac { \alpha } { 2 }
 \end{equation*}
-其中$ m _ 1 $，$ m _ 2 $，$ g $，$ l $都是已知数，通过测量$ \alpha $可算出$ v $。
+其中$ m _ 1 , m _ 2 , g , l $都是已知数，通过测量$ \alpha $可算出$ v $。

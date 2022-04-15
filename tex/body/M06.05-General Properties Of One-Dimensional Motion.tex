@@ -8,20 +8,18 @@
   A _ { 1 \to 2 } = \int _ { x _ { 1 }} ^ { x _ { 2 } } F  \dif x
 \end{equation*}\label{err:06.05.01}
 以及力是保守的，即
-\begin{equation*}
-  A _ { 1 \to 2 } = V \left( x _ { 1 } \right) - V \left( x _ { 2 } \right)
-\end{equation*}
-有\vspace{-1.56em}
-\begin{equation*}
-  V \left( x _ { 1 } \right) - V \left( x _ { 2 } \right) = \int _ { x _ { 1 }} ^ { x _ { 2 } } F \dif x
-\end{equation*}\label{err:06.05.02}
+\begin{align*}
+  &A _ { 1 \to 2 } = V \left( x _ { 1 } \right) - V \left( x _ { 2 } \right) \\
+  \beforetext{有} &V \left( x _ { 1 } \right) - V \left( x _ { 2 } \right) = \int _ { x _ { 1 }} ^ { x _ { 2 } } F \dif x
+\end{align*}\label{err:06.05.02}
 由此可知，一维情况下的保守力$ F $可表示为
 \begin{equation}\label{eqn:06.05.01}
   F = - \frac { \dif V } { \dif x }
 \end{equation}
-或者，凡是能表示成式\eqref{eqn:06.05.01}形式的力一定是保守力。例如，对
+或者，凡是能表示成式\eqref{eqn:06.05.01}形式的力一定是保守力。例如，对于
 % 183.jpg
-于自由落体运动，如果取坐标$ x $为从地面算起的高度，则
+\clearpage\noindent
+自由落体运动，如果取坐标$ x $为从地面算起的高度，则
 其势能函数分别为
 \begin{equation*}
   F = - m g  \qquad V = m g x + V _ 0
@@ -35,7 +33,7 @@ $ x = 0 $)处的势能为零，则$  V _ { 0 } = 0  $ 。
 \end{equation}
 由于质点的动能
 $ \dfrac { 1 } { 2 } m \left( \dfrac { \dif x } { \dif t } \right) ^ { 2 }  $
-不能为负值，所以上式给我们一个不等式\vspace{-1em}
+不能为负值，所以上式给我们一个不等式
 \begin{equation}\label{eqn:06.05.03}
   E \geqslant V \left( x \right)
 \end{equation}
@@ -44,20 +42,23 @@ $ \dfrac { 1 } { 2 } m \left( \dfrac { \dif x } { \dif t } \right) ^ { 2 }  $
 点的能量，不必详细求解运动方程，质点的运动范围就完全确定
 了。下面举例说明。
 
-设质点的势能函数$  V \left( x \right)   $如图\ref{fig:06.12}\;所示，这种曲线常称为势能
+设质点的势能函数$  V \left( x \right)   $如图\ref{fig:06.12}所示，这种曲线常称为势能
+\begin{figure}[h]
+    \centering
+    \includegraphics{figure/fig06.12}
+    \caption{势能函数及运动性质}
+    \label{fig:06.12}
+    \vspace{-0.8em}
+\end{figure}
 % 184.jpg
-曲线，图\ref{fig:06.02}\;中的$ mgz $线就是重力势能曲线。
-\begin{figurex}
-  \centering
-  \includegraphics{figure/fig06.12}
-  \caption{势能函数及运动性质}
-  \label{fig:06.12}
-\end{figurex}
+\clearpage\noindent
+曲线，图\ref{fig:06.02}中的$ mgz $线就是重力势能曲线。
+
 
 由图\ref{fig:06.12}，如果质点的能量$ E=E_2 $，则不等式\eqref{eqn:06.05.03}要求$x _ 1
     < x < x _ 2$，这表示具有能量$ E_2 $的质点只能在$ x_1 $与$ x_2 $之间运动，$ x_1 $与
 $ x_2 $是方程$ V \left(x\right) = E_2 $的两个根。这种在有限范围中的运动称为束
-缚运动。对于图\ref{fig:06.12}\;所表示的势能函数，当质点能量在$ E_1 \leqslant E \leqslant 0 $时，都是作束缚运动。
+缚运动。对于图\ref{fig:06.12}所表示的势能函数，当质点能量在$ E_1 \leqslant E \leqslant 0 $时，都是作束缚运动。
 
 当质点能量$  E > 0  $时，运动范围可以延伸到无限远。例如，当
 $ E = E _ 3 $时，质点可以在$ -\infty < x \leqslant x_3 $，或者$ x_4 \leqslant x < \infty $两个无限的
@@ -139,7 +140,7 @@ $ \dfrac { \dif V } { \dif x } > 0   $
 就称为方势阱，它的势能曲线见图\ref{fig:06.13}。
 
 \begin{wrapfigure}[9]{r}{15em}
-  \vspace{-1.56em}
+  \vspace{-2em}
   \centering
   \includegraphics{figure/fig06.13}
   \caption{无限深的方势阱}
@@ -152,6 +153,7 @@ $ \dfrac { \dif V } { \dif x } > 0   $
 $ - \dfrac { l } { 2 } \leqslant x \leqslant \dfrac { l } { 2 }   $之间它的运
 动周期，按式\eqref{eqn:06.05.07}可以
 求得为
+
 \begin{equation*}
   T = \sqrt { \frac { 2 m } { E } } \int _ { - \frac { l } { 2 } } ^ { \frac { l } { 2 } } \dif x = \sqrt { \frac { 2 m } { E } } l
 \end{equation*}
@@ -163,6 +165,7 @@ $ - \dfrac { l } { 2 } \leqslant x \leqslant \dfrac { l } { 2 }   $之间它的�
 % 187.jpg
 时间。
 
+\clearpage
 \example 注意第五章的式\eqref{eqn:05.05.07}，即
 \begin{equation}\label{eqn:06.05.08}
   \left[ \frac { 1 } { R _ { 0 } } \left( \frac { \dif R } { \dif t } \right) \right] ^ { 2 }- \frac { 8 \uppi G } { 3 } \rho _ 0 \frac { 1 } { \left( \dfrac { R } { R _ { 0 } } \right) } = K
@@ -180,7 +183,7 @@ $ - \dfrac { l } { 2 } \leqslant x \leqslant \dfrac { l } { 2 }   $之间它的�
 \begin{equation}\label{eqn:06.05.09}
   t = 2 \frac { 1 } { R _ { 0 } } \int _ 0 ^ { R _ { \max } } \frac { \dif R } { \sqrt { \dfrac { 8 \uppi G } { 3 } \rho _ { 0 } R _ { 0 } \dfrac { 1 } { R } - | K | } }
 \end{equation}
-其中\vspace{-1.56em}
+其中
 \begin{equation*}
   R _ { \max } = \frac { 8 \uppi G \rho _ { 0 } R _ { 0 } } { 3 | K | }
 \end{equation*}
@@ -196,7 +199,7 @@ $ - \dfrac { l } { 2 } \leqslant x \leqslant \dfrac { l } { 2 }   $之间它的�
   \end{aligned}
 \end{equation}
 % 188.jpg
-如果我们当今宇宙中的平均质量密度$ \rho _ 0 $是临界密度$ \rho _ c $的2倍，即\vspace{-1.56em}
+如果我们当今宇宙中的平均质量密度$ \rho _ 0 $是临界密度$ \rho _ c $的2倍，即
 \begin{equation}\label{eqn:06.05.11}
   \rho _ { 0 } = 2 \rho _ { c } = 2 \frac { 3 H _ 0 ^ { 2 } } { 8 \uppi G }
 \end{equation}

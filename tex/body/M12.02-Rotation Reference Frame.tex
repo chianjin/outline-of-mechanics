@@ -1,13 +1,14 @@
 \section{转动参考系}\label{sec:12.02}
 
-\begin{wrapfigure}[6]{r}{10em}
-    \vspace{-4em}
+
+现在，我们选择一个相对于惯性系作转动运动的物体为一新
+\begin{wrapfigure}[7]{r}{11em}
+    %\vspace{-4em}
     \centering
     \includegraphics{figure/fig12.03}
     \caption{转动参考系}
     \label{fig:12.03}
 \end{wrapfigure}
-现在，我们选择一个相对于惯性系作转动运动的物体为一新
 的参考物。这样一个参考系称为转动
 参考系，也是一种非惯性系。因为地球
 参考系是个转动参考系，所以关于转
@@ -24,10 +25,9 @@
 \begin{equation*}
     \vec{F} _ \text{总} = 0
 \end{equation*}
-或\vspace{-1.8em}
-\begin{equation}\label{eqn:12.02.01}
-    \vec{F} _ \text{真} + \vec{F} _ {in} = 0
-\end{equation}
+\begin{align}\label{eqn:12.02.01}
+    \beforetext{或} \vec{F} _ \text{真} + \vec{F} _ {in} = 0
+\end{align}
 在惯性系$ K $中看来，质点$ A $是作以$ r $为半径的匀速圆周运动，它
 具有向心加速度$ \omega ^ 2 r $，作用在$ A $上的真实力是向心力$ \vec{F} _ \text{真} $，其大小
 应为\vspace{-1.7em}
@@ -63,10 +63,9 @@ $ m $的质点$ A $相对于圆盘参考系$ K' $沿着
 \begin{equation*}
     \vec{F} _ \text{真} + \vec{F} _ {in} = 0
 \end{equation*}
-或\vspace{-1.8em}
-\begin{equation*}
-    \vec{F} _ {in} = - \vec{F} _ \text{真}
-\end{equation*}
+\begin{align*}
+    \beforetext{或}\vec{F} _ {in} = - \vec{F} _ \text{真}
+\end{align*}
 因此，要求出$ A $所受的惯性力$ \vec{F} _ {in} $，只要求得真实力$ \vec{F} _ \text{真} $就可以
 
 \noindent 了。
@@ -76,7 +75,7 @@ $ m $的质点$ A $相对于圆盘参考系$ K' $沿着
 \begin{equation*}
     \vec{F} _ \text{真} = m \vec{a}
 \end{equation*}
-$\vec{a}$是质点$ A $相对于$ K $的加速度。所以只要求出加速度$\vec{a}$，就可推知\vspace{-1.8em}
+$\vec{a}$是质点$ A $相对于$ K $的加速度。所以只要求出加速度$\vec{a}$，就可推知
 \begin{equation*}
     \vec{F} _ {in} = - m \vec{a}
 \end{equation*}
@@ -90,30 +89,25 @@ $\vec{a}$是质点$ A $相对于$ K $的加速度。所以只要求出加速度$
 于圆盘是匀速直线运动，所以$ \vec{v} ' $在径向$\vec{r}'$的方向，其大小为$  v ^ { \prime } = v $；
 现在圆盘$ A $处的速度是$ \vec{v} _ c ^ \prime $，其大小为$  v _ c ^ { \prime } = \omega r ^ { \prime } , r ^ { \prime } = r + v \Delta t $，故质
 点$ A $相对于$ K $的速度为$ \vec{v} _ c ^ \prime + \vec{v} ^ \prime $。\vspace{-0.5em}
-\begin{figurex}
+\begin{figure}[h]
     \centering
     \subfigure[\label{fig:12.05a}]{\includegraphics{figure/fig12.05a}}\qquad
     \subfigure[\label{fig:12.05b}]{\includegraphics{figure/fig12.05b}}\qquad
     \subfigure[\label{fig:12.05c}]{\includegraphics{figure/fig12.05c}}
     \caption{推求科里奥利力}
     \label{fig:12.05}
-\end{figurex}
+\end{figure}
 
 根据定义，质点$ A $在$ K $中的加速度为
 \begin{equation*}
     \vec{a} = \lim _ { \Delta t \to 0 } \frac { ( \vec{v} _ { c } ^ { \prime } + \vec{v} _ { \prime } ) - ( \vec{v} _ { c } + \vec{v} ) } { \Delta t }
 \end{equation*}
 下面我们将$ a $分解成平行于$\vec{v}$方向的分量$ a _ {//} $及垂直于$\vec{v}$的分量$ a _ \bot $。
-根据图\ref{fig:12.05c}，有
-\begin{equation*}
-    a _ { // } = \lim_{ \Delta t \to 0 } \frac { v _ { c// } ^ { \prime } + v _ { // } ^ { \prime } - v _ { c// } - v _ { // } } { \Delta t }
-\end{equation*}
-% 358.jpg
-
-~\vspace{-1.8em}
+根据图\ref{fig:12.05c}，有\\
 \begin{equation}\label{eqn:12.02.04}
-    \begin{aligned}
-        ~~~~~&=\lim _{\Delta t \to 0} \frac{-v_{c}^{\prime} \sin \Delta \varphi+v^{\prime} \cos \Delta \varphi-0-v}{\Delta t} \\
+        \begin{aligned}
+    a _ { // } &= \lim_{ \Delta t \to 0 } \frac { v _ { c// } ^ { \prime } + v _ { // } ^ { \prime } - v _ { c// } - v _ { // } } { \Delta t } \\
+       &=\lim _{\Delta t \to 0} \frac{-v_{c}^{\prime} \sin \Delta \varphi+v^{\prime} \cos \Delta \varphi-0-v}{\Delta t} \\
         &=\lim _{\Delta t \to 0} \frac{-\omega(r+v \Delta t) \Delta \varphi+v-v}{\Delta t} \\
         &=-\omega^{2} r
     \end{aligned}
@@ -206,9 +200,9 @@ $ \vec{F}_g $指向地心，而$ \vec{F} $并不指向地心，且这种偏离�
 是向右偏到达2，从2向3时，不是沿直径到达$ 3' $，而是到达
 3，如此等等，就会使摆平面转动。1851年，佛科在巴黎的伟人
 祠内大圆屋顶下公开表演了这个实验，看到了摆平面的转动。由
-摆平面的转动，我们能严格地求得地球相对惯性系的转动角速度。
+摆平面的转动，我们能严格地求得地球相对惯性系的转动角速度。可
 
-\begin{figurex}[h]
+\begin{figure}[h]
     \begin{minipage}[b]{0.5\linewidth}
         \centering
         \includegraphics{figure/fig12.07}
@@ -221,9 +215,9 @@ $ \vec{F}_g $指向地心，而$ \vec{F} $并不指向地心，且这种偏离�
         \caption{佛科摆锤轨道}
         \label{fig:12.08}
     \end{minipage}
-\end{figurex}% 361.jpg
+\end{figure}% 361.jpg
 \noindent
-可以说，直到这时，才算真正把亚里士多德的地心说与哥白
+以说，直到这时，才算真正把亚里士多德的地心说与哥白
 尼的日心说之争分清了。
 
 \example 如图\ref{fig:12.09a}所示，用长为$ l $的绳将质量为$ m $的小球
@@ -231,13 +225,13 @@ $ \vec{F}_g $指向地心，而$ \vec{F} $并不指向地心，且这种偏离�
 绳与竖直方向的夹角$ \theta $不变。这个装置称为圆锥摆。试求此圆锥
 摆的周期$ T $。
 
-\begin{figurex}
+\begin{figure}[h]
     \centering
     \subfigure[\label{fig:12.09a}]{\includegraphics{figure/fig12.09a}}\qquad
     \subfigure[\label{fig:12.09b}]{\includegraphics{figure/fig12.09b}}
     \caption{}
     \label{fig:12.09}
-\end{figurex}
+\end{figure}
 
 \solution 可以从两种参考系来解这个题。一为地面惯性系，在此，
 摆锥受两个力的作用，即张力$ T $及重力$ mg $；二是随$ m $一起运动的
@@ -294,14 +288,14 @@ $ \vec{F}_g $指向地心，而$ \vec{F} $并不指向地心，且这种偏离�
     T _ { T } &= m a_\text{绝对} \\
     a_\text{绝对} &= \frac { v _\text{绝对} ^ { 2 } } { l }
 \end{align*}
-因为\vspace{-2em}
+
 % 363.jpg
-\begin{equation*}
-    \vec{v}_\text{绝对} = \vec{v}_\text{相对} + \vec{v}_\text{牵连}
-\end{equation*}
-所以\vspace{-1.4em}
+\clearpage
 \begin{align*}
-    v_\text{绝对} &= v - l \omega \\
+    \beforetext{因为} \vec{v}_\text{绝对} = \vec{v}_\text{相对} + \vec{v}_\text{牵连}
+\end{align*}
+\begin{align*}
+    \beforetext{所以} v_\text{绝对} &= v - l \omega \\
     a_\text{绝对} &= \frac { \left( v - l \omega \right) ^ { 2 } } { l } \\
                  &= \frac { v ^ { 2 } } { l } + l \omega ^ { 2 } - 2 v \omega \\
             T &= m \frac { v ^ { 2 } } { l } + m l \omega ^ { 2 } - 2 m v \omega
@@ -317,19 +311,10 @@ $ \vec{F}_g $指向地心，而$ \vec{F} $并不指向地心，且这种偏离�
     - m \frac { v _\text{牵连} ^ { 2 } } { l } = - m l \omega ^ { 2 }
 \end{equation*}
 和科里奥利力($ f'' $)
-\begin{equation*}
-    2 m v \omega
-\end{equation*}
-所以\vspace{-1.8em}
-\begin{equation*}
-    \vec{T} + \vec{f} ^ { \prime } + \vec{f} ^ { \prime \prime } = m \vec{a} _ \text{相对}
-\end{equation*}
-即\vspace{-1.8em}
-\begin{equation*}
-    T + 2 m v \omega - m l \omega ^ { 2 } = m \frac { v ^ { 2 } } { l }
-\end{equation*}
-故\vspace{-1.8em}
-\begin{equation*}
-    T = m \frac { v ^ { 2 } } { l } + m l \omega ^ { 2 } - 2 m v \omega
-\end{equation*}
+\begin{align*}
+    &2 m v \omega \\
+    \beforetext{所以} &\vec{T} + \vec{f} ^ { \prime } + \vec{f} ^ { \prime \prime } = m \vec{a} _ \text{相对} \\
+   \beforetext{即} &T + 2 m v \omega - m l \omega ^ { 2 } = m \frac { v ^ { 2 } } { l } \\
+   \beforetext{故} &T = m \frac { v ^ { 2 } } { l } + m l \omega ^ { 2 } - 2 m v \omega
+\end{align*}
 与上述结果相同。

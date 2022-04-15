@@ -4,7 +4,7 @@
 引力决定行星运动的观念。但是怎样定量的描写引力？太阳引力
 如何决定行星的运动？等等，都是不清楚的。
 
-牛顿首先把他的动力学基本方程\eqref{eqn:03.02.01}~作为力的定义，来研
+牛顿首先把他的动力学基本方程\eqref{eqn:03.02.01}作为力的定义，来研
 究导致开普勒三定律的力应是怎样的。
 
 为了简便，可把行星轨道看作圆形。这样，根据面积定律，
@@ -18,8 +18,7 @@
 \begin{equation*}
   T \propto r ^ { \frac { 3 } { 2 } }
 \end{equation*}
-
-又注意到$ v = \frac { 2 \uppi r } { T }   $，故有
+又注意到$ v = \dfrac { 2 \uppi r } { T }   $，故有
 \begin{equation}\label{eqn:04.02.02}
   v \propto \frac { r } { r ^ \frac { 3 } {2}} = \frac { 1 } { r ^ {  \frac { 1 } { 2 } } }
 \end{equation}
@@ -50,20 +49,21 @@
 关键性的。我们一再强调，寻找各种不同运动的统一原因，是物
 理学的追求，引力的万有性就是基于这种统一观的一种猜测。
 
+\clearpage
 如何来检验这一猜测呢？既然引力是普适的，那么，地球和
 月亮之间也应当存在这类力，月亮之所以绕地球运动，应当是地
 球施于月亮的吸引力，就象太阳有吸引行星的力那样，即地球对
-月亮的吸引力也应当有式\eqref{eqn:04.02.04}~的形式，即
+月亮的吸引力也应当有式\eqref{eqn:04.02.04}的形式，即
 \begin{equation}\label{eqn:04.02.05}
   F _ { \text{地} \to \text{月}} = m _ {\text{月}} \frac { \alpha ' } { l ^ { 2 } }
 \end{equation}
-显然，其中$ \alpha ' $应不同于式\eqref{eqn:04.02.04}~中的$ \alpha $，因为$ \alpha $标志太阳的性质，
-而$ \alpha ' $应标志地球的性质。另外，在式\eqref{eqn:04.02.05}~中，$ m _ {\text{月}} $是月亮的质
+显然，其中$ \alpha ' $应不同于式\eqref{eqn:04.02.04}中的$ \alpha $，因为$ \alpha $标志太阳的性质，
+而$ \alpha ' $应标志地球的性质。另外，在式\eqref{eqn:04.02.05}中，$ m _ {\text{月}} $是月亮的质
 量，$ l $是地球到月亮的距离。这时，月亮的加速度可表示为
 \begin{equation}\label{eqn:04.02.06}
   a _ { \text{月} } = \frac { F _ { \text{地} \to \text{月}} } { m _ {\text{月}} } = \frac { \alpha ' } { l ^ { 2 } }
 \end{equation}
-这里，是把动力学基本方程\eqref{eqn:03.02.01}~作为定律来使用。
+这里，是把动力学基本方程\eqref{eqn:03.02.01}作为定律来使用。
 
 另一方面，由式\eqref{eqn:04.02.05}，地球对地面上落体的引力应是
 \begin{equation}\label{eqn:04.02.07}
@@ -74,24 +74,23 @@
 \begin{equation}\label{eqn:04.02.08}
   g = \frac { \alpha ' } { R ^ { 2 } }
 \end{equation}
-从式\eqref{eqn:04.02.06}~及式\eqref{eqn:04.02.08}，得
+从式\eqref{eqn:04.02.06}及式\eqref{eqn:04.02.08}，得
 \begin{equation}\label{eqn:04.02.09}
   l = R \sqrt { { \frac { g } { a _ { \text{月} } }} }
 \end{equation}
-又\vspace{-1.8em}
-\begin{equation*}
-  a _ { \text{月} } = \frac { v ^ { 2 } } { l } \qquad
+\begin{align*}
+  \beforetext{又} a _ { \text{月} } = \frac { v ^ { 2 } } { l } \qquad
   v = \frac { 2 \uppi l } { T }
-\end{equation*}
-其中，$ v $是月亮的速率；$ T $是月亮运动周期。将上式代入式\eqref{eqn:04.02.08}~
+\end{align*}
+其中，$ v $是月亮的速率；$ T $是月亮运动周期。将上式代入式\eqref{eqn:04.02.08}
 并整理，得到
-
 % 129.jpg
-~\vspace{-1.8em}
 \begin{equation}\label{eqn:04.02.10}
   l ^ { 3 } = \frac { 1 } { 4 \uppi ^ { 2 } } R ^ { 2 } g T ^ { 2 }
 \end{equation}
-式\eqref{eqn:04.02.10}~就是从引力普适性得出的预言。在这个关系式中，所
+
+\clearpage\noindent
+式\eqref{eqn:04.02.10}就是从引力普适性得出的预言。在这个关系式中，所
 有量都是可测量的，因此，可以用实验加以检验。其中有关量的
 数值为
 \begin{align*}
@@ -112,9 +111,9 @@
 
 牛顿的上述论证说明，地上物体的运动规律与月亮运动的规
 律实质上是一样的。这个结果的意义很重大，它打破了亚里士多
-\begin{wrapfigure}[9]{r}{10.5em}
+\begin{wrapfigure}[11]{r}{10.5em}
   \centering
-  \vspace{-1em}
+  %\vspace{-1em}
   \includegraphics[width=10em]{figure/fig04.03}
   \caption{天体运动和地面运动无原则差别}
   \label{fig:04.03}
@@ -136,7 +135,7 @@
 法。
 
 上面的讨论我们只利用了开普勒的第二、第三定律，还应当
-证明万有引力定律式\eqref{eqn:04.02.04}~或式\eqref{eqn:04.02.05}~也符合开普勒的轨道定
+证明万有引力定律式\eqref{eqn:04.02.04}或式\eqref{eqn:04.02.05}也符合开普勒的轨道定
 律。牛顿在1677年完成了这个证明，使万有引力理论形成了完整
 的体系。关于轨道定律的证明，已超出本课程的范围，故不在这
 里论述这个证明过程了。

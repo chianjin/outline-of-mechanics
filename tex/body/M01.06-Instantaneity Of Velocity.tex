@@ -123,23 +123,8 @@ $\Delta t$为无限小，或者相当于$\Delta t \rightarrow 0$的
 语言描写并不是一件自然的事情，而是物理研究的一个核心课题。\ziju{0}
 
 \begin{wrapfigure}[10]{r}{13em}
-  \small \vspace{-1.2em}
   \centering
-  \begin{tikzpicture}
-    \tkzInit[xmax=3.5,ymax=4]
-    \tkzDrawX[label=$t$,noticks]
-    \tkzDrawY[label=$x$,noticks]
-    \draw[domain=0:3.1]plot(\x,0.4*\x*\x) node[left]{$x\left(t\right)$};
-    \tkzDefPoints{1/0.4/A, 2.5/2.5/B, 3/2/C}
-    \tkzDrawLine[dashed,add = 0.2 and 0.5](A,B)
-    \tkzLabelPoint[right](3.2,3.5){\small 割线}
-    \tkzDrawLine[dashed](A,C)
-    \tkzLabelPoint[right](3.2,2.3){\small 切线}
-    \tkzDrawSegment[dashed](A,(0,0.4))
-    \tkzDrawSegment[dashed](A,(1,0))
-    \tkzDrawSegment[dashed](B,(0,2.5))
-    \tkzDrawSegment[dashed](B,(2.5,0))
-  \end{tikzpicture}
+  \includegraphics{figure/fig01.10}
   \caption{直线运动的$x \mathdash t$图}
   \label{fig:01.10}
 \end{wrapfigure}

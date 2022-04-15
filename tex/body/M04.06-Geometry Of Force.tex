@@ -1,6 +1,6 @@
 \section{力的几何性}\label{sec:04.06}
 
-在\ref{sec:04.02}~节中，当我们分析行星的运动时，只考虑太阳对行星的
+在\ref{sec:04.02}节中，当我们分析行星的运动时，只考虑太阳对行星的
 引力；在分析月亮的运动时，只考虑地球对它的引力。实际上，
 这样的分析是不严格的，因为月亮不仅受地球的引力作用，而且
 也要受太阳的引力作用。计算一下就会发现，太阳对月亮的引力
@@ -18,29 +18,25 @@
 
 “作用效果完全一样”，用数学语言来说，就是在下列方程
 中，$ v_\text{月} $和$v_\text{地}$相等。
-\begin{equation}\label{eqn:04.06.01}
-  m _ { \text{月} } \frac { v _ { \text{月} } ^ { 2 } } { r } = \frac { G m _ { \text{月} } M _ { \text{日} } } { r ^ { 2 } }
-\end{equation}
-\begin{equation}\label{eqn:04.06.02}
-  m _ { \text{地} } \frac { v _ { \text{地} } ^ { 2 } } { r } = \frac { G m _ { \text{地} } M _ { \text{日} } } { r ^ { 2 } }
-\end{equation}
-{\ziju{-0.0075pt}其中$ m _ { \text{月} } , m _ { \text{地} } , v _ { \text{月} } , v _ { \text{地} } $分别是月球和地球的质量与速度；\!$ M _ { \text{日} } $是
-太阳的质量；$ r $是地球到太阳的距离。\!应当注意，\!方程\eqref{eqn:04.06.01}和
-方程 \eqref{eqn:04.06.02}两边质量的物理含义并不相同。\!方程左边的质量是牛
-顿第二定律$  F = m a   $中的质量，\!它的意义是力与加速度之比，\!是物
-体惯性大小的度量，\!质量越大的物体，\!速度越难改变，\!所以称为
-惯性质量。\!而方程右边的质量是牛顿引力定律$  F = m a / r ^ { 2 }   $中的质
-量，\!它是质点感受外物引力大小的度量，\!质量越大，\!感受到外物
-的引力越大，\\\!称为引力质量。\!为清楚起见，\!我们把式\eqref{eqn:04.06.01}、\!
-\eqref{eqn:04.06.02}改写为}
-\begin{equation}\label{eqn:04.06.03}
+\begin{align}
+  m _ { \text{月} } \frac { v _ { \text{月} } ^ { 2 } } { r } &= \frac { G m _ { \text{月} } M _ { \text{日} } } { r ^ { 2 } } \label{eqn:04.06.01} \\
+  m _ { \text{地} } \frac { v _ { \text{地} } ^ { 2 } } { r } &= \frac { G m _ { \text{地} } M _ { \text{日} } } { r ^ { 2 } } \label{eqn:04.06.02}
+\end{align}
+其中$ m _ { \text{月} } , m _ { \text{地} } , v _ { \text{月} } , v _ { \text{地} } $分别是月球和地球的质量与速度；$ M _ { \text{日} } $是
+太阳的质量；$ r $是地球到太阳的距离。应当注意，方程\eqref{eqn:04.06.01}和
+方程 \eqref{eqn:04.06.02}两边质量的物理含义并不相同。方程左边的质量是牛
+顿第二定律$  F = m a   $中的质量，它的意义是力与加速度之比，是物
+体惯性大小的度量，质量越大的物体，速度越难改变，所以称为
+惯性质量。而方程右边的质量是牛顿引力定律$  F = m a / r ^ { 2 }   $中的质
+量，它是质点感受外物引力大小的度量，质量越大，感受到外物
+的引力越大，称为引力质量。为清楚起见，我们把式\eqref{eqn:04.06.01}、
+\eqref{eqn:04.06.02}改写为
+\begin{align}
   \left(m _ { \text{月} }\right) _ {\text{惯}}
-  \frac { v _ { \text{月} } ^ 2 } { r } = \frac { G \left(m _ { \text{月} }\right) _ {\text{引}} M _ { \text{日} } } { r ^ { 2 } }
-\end{equation}
-\begin{equation}\label{eqn:04.06.04}
+  \frac { v _ { \text{月} } ^ 2 } { r } &= \frac { G \left(m _ { \text{月} }\right) _ {\text{引}} M _ { \text{日} } } { r ^ { 2 } }\label{eqn:04.06.03} \\
   \left(m _ { \text{地} }\right) _ {\text{惯}}
-  \frac { v _ { \text{地} } ^ 2 } { r } = \frac { G \left(m _ { \text{地} }\right) _ {\text{引}} M _ { \text{日} } } { r ^ { 2 } }
-\end{equation}
+  \frac { v _ { \text{地} } ^ 2 } { r } &= \frac { G \left(m _ { \text{地} }\right) _ {\text{引}} M _ { \text{日} } } { r ^ { 2 } }\label{eqn:04.06.04}
+\end{align}
 其中下标“惯”表示惯性质量，“引”表示引力质量由式\eqref{eqn:04.06.03}
 % 140.jpg
 、\eqref{eqn:04.06.04}可知，要求$ v _ { \text{月}}=v _ { \text{地} } $，等价于
@@ -53,22 +49,22 @@
   \frac { \left(m _ { A }\right) _ {\text{惯}} } { \left(m _ { A }\right) _ {\text{引}} } = \frac { \left(m _ { \text{地} }\right) _ {\text{惯}} } { \left(m _ { \text{地} }\right) _ {\text{引}} }
 \end{equation}
 因此，任一物体的惯性质量与引力质量之比都应等于一普适常数，
-即\vspace{-1.2em}
+即
 \begin{equation}\label{eqn:04.06.07}
   \frac { m _ {\text{惯}} } { m _ {\text{引}} } = \text{普适常数}
 \end{equation}
 显然，只要单位选择适当，总可以使这个普适常数为1。
 
 对于上述论断，在历史上曾多次用实验来检验。最著名的实
-验是 E\"otv\"os 在1890年做的，他的仪器如图\ref{fig:04.05}~所示。先调整扭秤
-处于“自然”状态(即扭丝没有扭转)，安放于图\ref{fig:04.05b}~所示的位
+验是 E\"otv\"os 在1890年做的，他的仪器如图\ref{fig:04.05}所示。先调整扭秤
+处于“自然”状态(即扭丝没有扭转)，安放于图\ref{fig:04.05b}所示的位
 置，然后把两个引力质量相等但材料不同的物体$ A, B $分别放置在
 扭秤的两臂上\lhbrak 图\ref{fig:04.05a}\rhbrak 。因为$\left(m _ { A }\right) _ {\text{引}} = \left(m _ { B }\right) _ {\text{引}} $，所以$ A , B $受
 到太阳的引力作用相等。如果$ A , B $的惯性质量不等，设$  \left(m _ { A }\right) _ {\text{惯}}  > \left(m _ { B }\right) _ {\text{惯}} $，则当$ A , B $随地球绕太阳公转时，所受向心力不等，故
-悬丝将产生一扭转，杆将处于如图\ref{fig:04.05c}~所示的状态(图中$ C $点
+悬丝将产生一扭转，杆将处于如图\ref{fig:04.05c}所示的状态(图中$ C $点
 为地球上的观察者)。12小时后，由于地球自转，地球上的观察
 者$ C $将由靠近太阳的一侧，转到远离太阳的一侧。同上分析，杆
-转到如图\ref{fig:04.05d}~所示的状态。因此，对地球上的观察者$ C $来说，
+转到如图\ref{fig:04.05d}所示的状态。因此，对地球上的观察者$ C $来说，
 他看到扭秤将有以$ 24 $小时为周期的摆动。
 
 E\"otv\"os 用一些不同材料的物体悬在扭秤上做过多次实验，
@@ -77,7 +73,7 @@ E\"otv\"os 用一些不同材料的物体悬在扭秤上做过多次实验，
 常数。1964年， Dicke 把实验精度提高到$  1 0 ^ { - 1 0 }  $， 1971 年，又提高
 % 141.jpg
 到$  1 0 ^ { - 1 1 }  $。E\"otv\"os 实验是到目前为止精度最高的著名物理实验之一。
-\begin{figurex}[t]
+\begin{figure}[t]
   \centering
   \subfigure[\label{fig:04.05a}]{\includegraphics{figure/fig04.05a}} \qquad
   \subfigure[\label{fig:04.05b}]{\includegraphics{figure/fig04.05b}}
@@ -85,7 +81,8 @@ E\"otv\"os 用一些不同材料的物体悬在扭秤上做过多次实验，
   \subfigure[\label{fig:04.05d}]{\includegraphics{figure/fig04.05d}}
   \caption{E\"otv\"os 实验示意图}
   \label{fig:04.05}
-\end{figurex}
+  \vspace{-0.8em}
+\end{figure}
 
 其实，在 E\"otv\"os 之前，就有人做过这类实验。伽利略的比
 萨斜塔实验以及斜面实验，证明了不同物体的自由落体运动是一
@@ -109,7 +106,7 @@ E\"otv\"os 用一些不同材料的物体悬在扭秤上做过多次实验，
 定律，它只涉及度量行星运动的时间量和度量轨道的空间量，即
 仅仅涉及几何量，而并没有涉及到行星本身的任何物性。运动学
 只涉及几何量，动力学则应当涉及物性。因为动力学是研究物体
-\begin{wrapfigure}[10]{r}{14em}
+\begin{wrapfigure}[10]{r}{15em}
   \centering
   \includegraphics{figure/fig04.06}
   \caption{一维运动的时-空图}
@@ -119,19 +116,19 @@ E\"otv\"os 用一些不同材料的物体悬在扭秤上做过多次实验，
 一般是和物性有关的。但开普勒第三定律中却不含物
 性，这就是引力几何性的一个反映。
 
-对于质点运动，我们可以用时-空图来表示，图\ref{fig:04.06}~
+对于质点运动，我们可以用时-空图来表示，图\ref{fig:04.06}
 是一维运动的时空图。如果已知质点轨道方程为
 \begin{equation*}
   x = x \left( t \right)
 \end{equation*}
-\begin{wrapfigure}[10]{l}{15em}
-  \vspace{-1em}
-  \centering
-  \includegraphics{figure/fig04.07}
-  \caption{$ A $，$ B $之间可能的运动}
-  \label{fig:04.07}
-\end{wrapfigure}
 我们可在时一空图上绘出相应的曲线。从曲线上，可求得在任何时
+\begin{wrapfigure}[10]{l}{16em}
+    \vspace{-1em}
+    \centering
+    \includegraphics{figure/fig04.07}
+    \caption{$ A $，$ B $之间可能的运动}
+    \label{fig:04.07}
+\end{wrapfigure}
 刻质点的位置、速度等。因此，它能完全表达质点的运动。
 
 从运动学来说，如果只告诉我们质点在$ t_1 $时位于
@@ -171,7 +168,7 @@ $ x _ { 1 }   ,  t _ { 2 }   $时刻运动到$  x _ { 2 }   $，那么它的轨�
 \begin{equation*}
   m a = \frac { G m M } { r ^ { 2 } }
 \end{equation*}
-可得\vspace{-1em}
+可得
 \begin{equation*}
   a = \frac { G M } { r ^ { 2 } }
 \end{equation*}

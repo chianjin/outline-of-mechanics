@@ -19,16 +19,15 @@
 % 297.jpg
 ~\vspace{-2.56em}
 \begin{equation}\label{eqn:10.04.03}
-    \vec{L} = \sumx_{ i = 1 } ^ n \vec{l} _ i
+    \vec{L} = \sum_{ i = 1 } ^ n \vec{l} _ i
 \end{equation}
 这样，由式\eqref{eqn:10.04.02}可得
 \begin{equation}\label{eqn:10.04.04}
     \frac {  \dif \vec{L} } {  \dif t } = \vec{M }
 \end{equation}
-其中\vspace{-1.56em}
-\begin{equation}\label{eqn:10.04.05}
-    \vec{M} = \sumx_{ i = 1 } ^ n \vec{m} _ { i }
-\end{equation}
+\begin{align}\label{eqn:10.04.05}
+    \beforetext{其中} \vec{M} = \sum_{ i = 1 } ^ n \vec{m} _ { i }
+\end{align}
 是刚体所受到的总外力矩。
 
 \begin{wrapfigure}[9]{r}{12em}
@@ -64,7 +63,7 @@
 已经用了关系式$ v _ i = r _ i \omega $。这样，刚体角动量$\vec{L}$沿$ OZ $轴的分量就
 应等于\vspace{-0.8em}
 \begin{equation}\label{eqn:10.04.06}
-    L _ { z } = \Big( \sumx_{ i = 1 } ^ { n } m _ { i } r _ i  ^ { 2 } \Big) \omega = I \omega
+    L _ { z } = \Big( \sum_{ i = 1 } ^ { n } m _ { i } r _ i  ^ { 2 } \Big) \omega = I \omega
 \end{equation}
 
 % 298.jpg
@@ -75,10 +74,9 @@
 \begin{equation}\label{eqn:10.04.07}
     \frac {  \dif L _ { z } } {  \dif t } = M _ { z }
 \end{equation}
-或
-\begin{equation}\label{eqn:10.04.08}
-    \frac {  \dif } {  \dif t } \left( I \omega \right) = M _ { z }
-\end{equation}
+\begin{align}\label{eqn:10.04.08}
+    \beforetext{或}\frac {  \dif } {  \dif t } \left( I \omega \right) = M _ { z }
+\end{align}
 其中$ M _ { z } $是力矩$\vec{M}$在$ OZ $方向的分量。
 
 如果作用在刚体上的外力矩在$ OZ $轴方向的分量为零，则有
@@ -97,38 +95,34 @@
 
 \solution 中子星中的物质可以简单地看成密排的中子，估计其密
 度
-$ \rho _ { n } = \dfrac { m _ { p } } { \dfrac { 4 \uppi } { 3 } r _ 0 ^ { 3 } } = \dfrac { 1 . 6 7 \times 1 0 ^ { - 2 7 } \text{公斤} } { \dfrac { 4 \uppi } { 3 } \left( 1 . 5 \times 1 0 ^ { - 15 } \text{米} \right) ^ { 3 } } = 1 . 1 8 \times 1 0 ^ { 1 7 } \text{公斤/米} $。已
-知太阳质量 $ M _ { \text{日} } = 1 . 9 8 9 \times 1 0 ^ { 3 0 }  \text{公斤} $，太阳半径 $ R _ { \text{日} } = 6 . 9 5 9 9 \times 1 0 ^ { 8 } \text{米} $，太阳若坍缩成中子星，则半径将变为$ R $。它满足下面的关
+$ \rho _ { n } = \dfrac { m _ { p } } { \dfrac { 4 \uppi } { 3 } r _ 0 ^ { 3 } } = \dfrac { 1 . 6 7 \times 1 0 ^ { - 2 7 } \text{ 公斤} } { \dfrac { 4 \uppi } { 3 } \left( 1 . 5 \times 1 0 ^ { - 15 } \text{ 米} \right) ^ { 3 } } = 1 . 1 8 \times 1 0 ^ { 1 7 } \text{ 公斤/米} $。已
+知太阳质量 $ M _ { \text{日} } = 1 . 9 8 9 \times 1 0 ^ { 3 0 }  \text{公斤} $，太阳半径 $ R _ {\text{日} } = 6 . 9 5 9 9 \times 1 0 ^ { 8 } \text{ 米} $，太阳若坍缩成中子星，则半径将变为$ R $。它满足下面的关
 系：
 \begin{equation*}
-    R ^ { \prime 3 } = \frac { M _ { \text{日} } } { \frac { 4 \uppi } { 3 } \rho _ { n } }= 4 . 0 2 4 \times 1 0 ^ { 1 2 } \text{米} ^ 3
+    R ^ { \prime 3 } = \frac { M _ { \text{日} } } { \frac { 4 \uppi } { 3 } \rho _ { n } }= 4 . 0 2 4 \times 1 0 ^ { 1 2 } \text{ 米} ^ 3
 \end{equation*}
-所以
-\begin{equation*}
-    R ^ { \prime } = 1 . 5 9 \times 1 0 ^ { 4 } \text{米}
-\end{equation*}
+\begin{align*}
+    \beforetext{所以} R ^ { \prime } = 1 . 5 9 \times 1 0 ^ { 4 } \text{ 米}
+\end{align*}
 根据式\eqref{eqn:10.04.09}，得
 
 % 299.jpg
-~\vspace{-1.56em}
+~\vspace{-1.5em}
 \begin{equation*}
     \begin{split}
         \omega _ { 2 } &= \frac { I _ { 1 } } { I _ { 2 } } \omega _ { 1 } \\
         &= \frac { \dfrac { 2 } { 5 } M _ { \text {日} } R _  {\text{日}} ^2 } { \dfrac { 2 } { 5 } M _ { \text {日} } R ^ { \prime 2 } } \\
-        &= \left( \frac { R _ { \text{日} } } { R ^ { \prime } } \right) ^ { 2 } \omega _ { 1 } \\
+        &= \left( \frac { R _ { \text {日} } } { R ^ { \prime } } \right) ^ { 2 } \omega _ { 1 } \\
         &= \left( \frac { 6 . 9 5 9 9 \times 1 0 ^ { 8 } } { 1 . 5 9 \times 1 0 ^ { 4 } } \right) ^ { 2 } \times \frac { 2 \uppi } { 2 2 \times 2 4 \times 6 0 \times 6 0 } \\
-        &= 6 . 3 3 \times 1 0 ^ { 8 } \text{弧度/秒}
+        &= 6 . 3 3 \times 1 0 ^ { 8 } \text{ 弧度/秒}
     \end{split}
 \end{equation*}
-或者\vspace{-1.56em}
-\begin{equation*}
-    \begin{split}
-        T _ { 2 } &= \left( \frac { R ^ { \prime } } { R _ { \text{日} } } \right) ^ { 2 } T _ { 1 } \\
-        &= \left( \frac { 1 . 5 9 \times 1 0 ^ { 4 } } { 6 . 9 5 9 9 \times 1 0 ^ { 8 } } \right) ^ { 2 } \times 2 2 \text{天} \\
-        &= 1 . 1 5 \times 1 0 ^ { - 8 }  \text{天} \\
-        &\approx 0.99 \text{毫秒}
-    \end{split}
-\end{equation*}
+\begin{align*}
+        \beforetext{或者} T _ { 2 } &= \left( \frac { R ^ { \prime } } { R _ { \text{日} } } \right) ^ { 2 } T _ { 1 } \\
+        &= \left( \frac { 1 . 5 9 \times 1 0 ^ { 4 } } { 6 . 9 5 9 9 \times 1 0 ^ { 8 } } \right) ^ { 2 } \times 2 2 \text{ 天} \\
+        &= 1 . 1 5 \times 1 0 ^ { - 8 }  \text{ 天} \\
+        &\approx 0.99 \text{ 毫秒}
+\end{align*}
 
 由此得，若太阳坍缩成中子星，其转速是$ 0.99 $毫秒转一周。
 
@@ -140,41 +134,30 @@ $ \rho _ { n } = \dfrac { m _ { p } } { \dfrac { 4 \uppi } { 3 } r _ 0 ^ { 3 } }
 \end{equation*}
 如果取质心为基点，动能可写为平动动能与转动动能之和，则上式
 成为
-\begin{equation*}
-    \begin{split}
-        A =& \left( \frac { 1 } { 2 } m v _ { c 2 } ^ { 2 } + \frac { 1 } { 2 } I _ { c } \omega _ 2 ^ { 2 } \right) \\
-           &- \left( \frac { 1 } { 2 } m v _ { c 1 } ^ { 2 } + \frac { 1 } { 2 } I _ { c } \omega _ 1 ^ { 2 } \right)
-    \end{split}
-\end{equation*}
-
-% 300.jpg
-~\vspace{-2em}
-\begin{equation*}
-    \begin{split}
-        ~~=& \left( \frac { 1 } { 2 } m v _ { c 2 } ^ { 2 } - \frac { 1 } { 2 } m v _ { c 1 } ^ { 2 } \right) \\
-        &+ \left( \frac { 1 } { 2 } I _ { c } \omega _ 2 ^ { 2 } - \frac { 1 } { 2 } I _ { c } \omega _ 1 ^ { 2 } \right)
-    \end{split}
-\end{equation*}
+\begin{align*}
+        A &= \left( \frac { 1 } { 2 } m v _ { c 2 } ^ { 2 } + \frac { 1 } { 2 } I _ { c } \omega _ 2 ^ { 2 } \right) - \left( \frac { 1 } { 2 } m v _ { c 1 } ^ { 2 } + \frac { 1 } { 2 } I _ { c } \omega _ 1 ^ { 2 } \right) \\
+        &= \left( \frac { 1 } { 2 } m v _ { c 2 } ^ { 2 } - \frac { 1 } { 2 } m v _ { c 1 } ^ { 2 } \right)
+        + \left( \frac { 1 } { 2 } I _ { c } \omega _ 2 ^ { 2 } - \frac { 1 } { 2 } I _ { c } \omega _ 1 ^ { 2 } \right)
+\end{align*}
 
 由式\eqref{eqn:10.04.01}易证
 \begin{equation*}
     \frac { 1 } { 2 } m v _ { c 2 } ^ { 2 } - \frac { 1 } { 2 } m v _ { c 1 } ^ { 2 } = \int _ { ( 1 \to 2 ) } \vec{F} \cdot  \dif \vec{r} _ { c }
 \end{equation*}
 其中积分是沿着质心轨迹。又由式\eqref{eqn:10.04.08}，并注意$ \omega = \dfrac {  \dif \varphi } {  \dif t } $，则
-不难证明\vspace{-1.56em}
+不难证明
 \begin{equation*}
     \frac { 1 } { 2 } I _ { c } \omega _ 2 ^ { 2 } - \frac { 1 } { 2 } I _ { c } \omega _ 1 ^ { 2 } = \int _ {\varphi_{ 1 }} ^ {\varphi_{ 2 }}  M  \dif \varphi
 \end{equation*}
-所以\vspace{-1.56em}
-\begin{equation}\label{eqn:10.04.10}
-    A = \int _ { ( 1 \to 2 ) } \vec{F} \cdot  \dif \vec{r} _ { c } + \int _ {\varphi_{ 1 }} ^ {\varphi_{ 2 }}  M  \dif \varphi
-\end{equation}
+\begin{align}\label{eqn:10.04.10}
+    \beforetext{所以} A = \int _ { ( 1 \to 2 ) } \vec{F} \cdot  \dif \vec{r} _ { c } + \int _ {\varphi_{ 1 }} ^ {\varphi_{ 2 }}  M  \dif \varphi
+\end{align}
 式中右边第一项是外力引起平动动能增加而作的功；第二项是外
 力矩引起转动动能的增加而作的功。如果不取质心为基点，就不
 能分解为平动和转动两项，我们再次看到质心作为基点的优越性。
 
 由于式\eqref{eqn:10.04.10}对于$\vec{F}$及$ M $是线性的，所以，当刚体受到多个
-外力的情况，第$ i $个外力$\vec{F}$，及其力矩所作的功也类似可以写成为\vspace{-1.56em}
+外力的情况，第$ i $个外力$\vec{F}$，及其力矩所作的功也类似可以写成为
 \begin{equation}\label{eqn:10.04.11}
     A _ i = \int _ { ( 1 \to 2 ) } \vec{F} _ i \cdot  \dif \vec{r} _ { c } + \int _ {\varphi_{ 1 }} ^ {\varphi_{ 2 }}  M _ i \dif \varphi
 \end{equation}
@@ -191,13 +174,13 @@ $ \rho _ { n } = \dfrac { m _ { p } } { \dfrac { 4 \uppi } { 3 } r _ 0 ^ { 3 } }
     \end{split}
 \end{equation*}
 
-\begin{figurex}
+\clearpage
+\begin{figure}[h]
     \centering
     \includegraphics{figure/fig10.13}
     \caption{纯滚动中的摩擦力不作功}
     \label{fig:10.13}
-\end{figurex}
-\noindent
+\end{figure}
 式中力矩$  M = F r _ { 0 }   $取负号，是因为它使车轮绕质心的转动方向上
 增加的方向相反。又因是纯滚动，故有
 \begin{equation*}
@@ -241,7 +224,7 @@ $ \rho _ { n } = \dfrac { m _ { p } } { \dfrac { 4 \uppi } { 3 } r _ 0 ^ { 3 } }
 速度即为质心$ C $的加速度，方向向左因此，静摩擦力$\vec{f}$的方向应
 当向右，与$\vec{F}$反向。
 
-\begin{figurex}
+\begin{figure}[h]
     \begin{minipage}{0.5\linewidth}
         \centering
         \includegraphics{figure/fig10.14}
@@ -254,30 +237,30 @@ $ \rho _ { n } = \dfrac { m _ { p } } { \dfrac { 4 \uppi } { 3 } r _ 0 ^ { 3 } }
         \caption{}
         \label{fig:10.15}
     \end{minipage}
-\end{figurex}
+\end{figure}
 
 现有一半径为$ r $，质量为$ m $的小球在粗糙的半圆形碗底作纯滚
 动，此时小球质心受到切向外力，其大小为$  | \vec{F} _ t | = m g \sin \theta  $， $ \vec{F} _ t $ 总
 是指向平衡位置$ O $，如图\ref{fig:10.16} 所示。根据前面的判断方法，$\vec{f}$总是
 与$ \vec{F} _ t $反向，并总是背向平衡点$ O $；在小球位于平衡点时， $ \vec{f} = 0 $。
 
-\begin{figurex}
+\begin{figure}[h]
     \centering
     \includegraphics{figure/fig10.16}
     \caption{}
     \label{fig:10.16}
-\end{figurex}
+\end{figure}
 
 % 303.jpg
 \clearpage
-\example 有一匀质圆柱，重$ 200 $公斤，如果加上一通过其质心、
+\example 有一匀质圆柱，重$ 200 $公斤，如果加上一通过其质
 \begin{wrapfigure}[6]{r}{11em}
     \centering
     \includegraphics{figure/fig10.17}
     \caption{}
     \label{fig:10.17}
 \end{wrapfigure}
-与$ 30^\circ $倾角的固定斜面相平行、方向朝
+心、与$ 30^\circ $倾角的固定斜面相平行、方向朝
 上的$ 150 $公斤力，使其向上作无滑动
 的纯滚动(如图\ref{fig:10.17})。试求圆柱体质
 心的线性加速度以及斜面与圆柱间的
@@ -313,7 +296,9 @@ $\vec{f}$及外加力$ \vec{F}=150 $公斤作用下作加速运动，$\vec{f}$�
 
 \example 设小球在力$ F $作用下在平直地面上作纯滚动，$ F $不是
 作用在质心$ C $上，而是作用在$ O' $上，$ O' $是接触点$ O $与
-质心连线上的
+质心连
+\clearpage\noindent
+线上的
 一点， $ C O ^ { \prime } = d $，如图\ref{fig:10.18} 所示。设小球半径为$ r $，质
 量为$ m $。试
 % 304.jpg
@@ -362,21 +347,23 @@ $ R $，质量为$ m $的线轴，以力$ \vec{F} $拉线，拉线处距轴中�
 动？
 
 \solution 先判定$ \vec{f} $的方向。设若$ \vec{f} $不存在，则得方程
-% 305.jpg
 
-~
-\begin{wrapfigure}[10]{r}{11em}
-    \centering
-    \includegraphics{figure/fig10.19}
-    \caption{}
-    \label{fig:10.19}
-\end{wrapfigure}
+\clearpage
+\begingroup
+\mathindent=2em
 \begin{equation*}
     \begin{split}
         F \cos \theta &= m a _ c \\
         F r &= - I _ { c } \beta
     \end{split}
 \end{equation*}
+\begin{wrapfigure}[11]{r}{13em}
+    \vspace{-4em}
+    \centering
+    \includegraphics{figure/fig10.19}
+    \caption{}
+    \label{fig:10.19}
+\end{wrapfigure}
 (在此，顺钟向为$ \beta $正方向。\!\!) $~ O $
 点的切向加速度为
 \begin{equation*}
@@ -385,7 +372,8 @@ $ R $，质量为$ m $的线轴，以力$ \vec{F} $拉线，拉线处距轴中�
                   &= F \left( \frac { \cos \theta } { m } + R \frac { r } { I _ { c } } \right)
     \end{split}
 \end{equation*}
-在$ \theta < 90 ^ \circ $情况F，$ a _ 0 $恒大于零，
+\endgroup
+在$ \theta < 90 ^ \circ $情况F，$ a _ 0 $恒大于零，\\
 即与$ \vec{F} $同方向。所以$\vec{f}$与$\vec{F}$反向，如图\ref{fig:10.19} 所示。
 
 进一步列出线轴纯滚动方程：
@@ -417,10 +405,11 @@ $ \theta _ { 0 } = \cos ^ { - 1 } \left( \dfrac { r } { R } \right) $
 使线轴向后作纯滚动。
 
 % 306.jpg
+\clearpage
 \example 汽车主动轮的运动情况，类似于车轮受力偶的作
 用，如图\ref{fig:10.20} 所示。
 
-\begin{wrapfigure}[7]{r}{11em}
+\begin{wrapfigure}[7]{r}{13em}
     \vspace{-1.56em}
     \centering
     \includegraphics{figure/fig10.20}

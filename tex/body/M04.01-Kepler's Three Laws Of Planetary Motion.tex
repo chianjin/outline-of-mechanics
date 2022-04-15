@@ -1,6 +1,6 @@
 \section{开普勒的行星运动三定律}\label{sec:04.01}
 % 123.jpg
-牛顿第二定律\lhbrak 式\eqref{eqn:03.02.01}\rhbrak 是物体运动的动力学基本规律。然
+牛顿第二定律\lbr 式\eqref{eqn:03.02.01}\rbr 是物体运动的动力学基本规律。然
 而，如果没有关于力的详细知识，这个规律是不能应用的。在这
 个意义上，我们可以说牛顿第二定律的含义是：研究物体的动力
 学的关键是研究物体之间的相互作用力。牛顿在《原理》一书中
@@ -35,27 +35,28 @@
 表\ref{tab:04.01}~中给出了九个大行星的有关数据。其中是以AU为
 单位的，AU是地球轨道的半长轴，称为天文单位，其值是
 \begin{equation*}
-  1 \symrm{AU} = \num{149.6e8} \text{公里}
+  1 \symrm{AU} = \num{149.6e8} \text{ 公里}
 \end{equation*}
 
 图\ref{fig:04.01}~画出了$ \ln T $与$ \ln r $之间的关系。它是一条直线，斜率为
 3/2，就是式\eqref{eqn:04.01.01}~的图示。
-\begin{figurex}
+\begin{figure}[h]
   \centering
   \includegraphics{figure/fig04.01}
   \caption{行星的$T\mbox{-}r$周期}
   \label{fig:04.01}
-\end{figurex}
+  \vspace{-0.5em}
+\end{figure}
 
 根据行星运动的这三条规律，牛顿得出了万有引力。在讲万
 有引力之前，我们要说明，“从运动现象去研究力”这种方法并
 不是唯一的。
 
-\begin{table}
+\begin{table}[h]
   \caption{行星的周期和轨道半长轴的值}
   \label{tab:04.01}
-  \setlength{\tabcolsep}{2em}
-  \begin{tabularx}{\linewidth}{c|S|S}
+  \zihao{-5}
+  \begin{tblr}{row{2-Z}={rowsep=1pt},colsep=2.5em,colspec={c|ZZ}}
     \toprule
     行\quad 星 & $r\text{(AU)}$ & $T\text{(日)}$ \\
     \midrule
@@ -69,30 +70,30 @@
     海王星     & 30.0578        & 60189          \\
     冥王星     & 39.44          & 90465          \\
     \bottomrule
-  \end{tabularx}
+  \end{tblr}
+\vspace{-1em}
 \end{table}
 开普勒本人在得到上述的行星运动的规律之后，也曾企图寻
 找运动的原因，来解释行星运动的现象。但是他并不着眼于力，
 而是着眼于对称性。开普勒首先要解释行星半长轴为什么有表
-\ref{tab:04.01}~所列出的值。他认为这是宇宙的对称和和谐的表现。他设计了
+\ref{tab:04.01}所列出的值。他认为这是宇宙的对称和和谐的表现。他设计了
 % 125.jpg
-一个由正多面体构成的宇宙。如图\ref{fig:04.02}~所示，土星的轨道在最外的
+一个由正多面体构成的宇宙。如图\ref{fig:04.02}所示，土星的轨道在最外的
 一个大圆上；在该球内作一内接的正六面体，木星轨道在该六面体
 的内切球面上在这球内再作一正四面体，火星轨道则在该四面体
 的内切球面上；相继地，再在这球面内作一内接正十二面体，地球
-轨道在这十二面体的内切球面上；再继续作一内接的正
-\begin{figurex}
+轨道在这十二面体的内切球面上；再继续作一内接的正%
+\begin{figure}[h]
   \centering
-  \includegraphics[height=13em]{figure/fig04.02a}
-\end{figurex}
-\begin{figurex}
+  \includegraphics[height=14.5em]{figure/fig04.02a}
+\end{figure}%
+\begin{figure}[h]
   \centering
   \includegraphics{figure/fig04.02b}
   \caption{开普勒的宇宙模型}
   \label{fig:04.02}
-\end{figurex}
-
-\noindent 二十面体，金星轨道就在二十面体的内切球面上；最后，作内接的正八面体，
+\end{figure}%
+二十面体，金星轨道就在二十面体的内切球面上；最后，作内接的正八面体，
 其内切球面就是水星的轨道所在之处。
 
 我们知道，正多面体的种类是不多的，用上述的一系列正多

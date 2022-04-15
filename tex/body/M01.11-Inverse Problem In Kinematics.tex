@@ -26,7 +26,7 @@ t的质点的坐标$x\left(t\right)$。
 \begin{equation}\label{eqn:01.11.01}
   \begin{aligned}
     x\left(t\right)-x\left(0\right) & =\Delta x_{1}+\Delta x_{2}+\Delta x_{3}+\cdots    \\[-1pt]
-                                    & \approx \sumx_{i} v\left(t_{i}\right) \Delta t_{i}
+                                    & \approx \sum_{i} v\left(t_{i}\right) \Delta t_{i}
   \end{aligned}
 \end{equation}
 各时间间隔$\Delta t_i$取得越小，计算结果就越准确，当所有$\Delta t_i\rightarrow 0$时，
@@ -34,7 +34,7 @@ t的质点的坐标$x\left(t\right)$。
 
 ~\vspace{-1.56em}
 \begin{equation}\label{eqn:01.11.02}
-  x\left(t\right)=x\left(0\right)+\lim _{\Delta t_{i} \rightarrow 0} \sumx_{i} v\left(t_{i}\right) \Delta t_{i}
+  x\left(t\right)=x\left(0\right)+\lim _{\Delta t_{i} \rightarrow 0} \sum_{i} v\left(t_{i}\right) \Delta t_{i}
 \end{equation}
 上式取极限的项，与积分的定义是一样的。所以它可写成
 \begin{equation}\label{eqn:01.11.03}
@@ -51,7 +51,7 @@ t的质点的坐标$x\left(t\right)$。
 
 利用这种几何性质，对一些简单情况，计算式\eqref{eqn:01.11.03}中的
 积分是很容易的。下面举两个例子。
-\begin{figurex}[!h]
+\begin{figure}[!h]
   \begin{minipage}[b]{14em}
     \centering
     \includegraphics[width=0.8\linewidth]{figure/fig01.24}
@@ -64,8 +64,9 @@ t的质点的坐标$x\left(t\right)$。
     \caption{匀速运动的$v-t$图}
     \label{fig:01.25}
   \end{minipage}
-\end{figurex}
+\end{figure}
 
+\setcounter{example}{0}
 \example 匀速运动。
 
 如果质点的速度是常数$v_0$，它的$v-t$图就如图\ref{fig:01.25}~所示。由0
@@ -90,7 +91,7 @@ t的质点的坐标$x\left(t\right)$。
   \end{minipage}
 \end{figure}
 
-\vspace{-1em}\example 匀加速运动。
+\example 匀加速运动。
 
 设质点的速度与时间成正比，$v=at$，在图\ref{fig:01.26}~中画出这个
 关系。零到$t$的横轴与曲线$v$围成一个直角三角形，它的面积是
@@ -107,14 +108,14 @@ $\dfrac{1}{2} a t^2$，代入式\eqref{eqn:01.11.03}，就得到轨迹函数为�
 \begin{equation}\label{eqn:01.11.05}
   \begin{aligned}
     v\left(t\right)-v\left(0\right) & =\Delta v_{1}+\Delta v_{2}+\cdots                 \\
-                                    & \approx \sumx_{i} a\left(t_{i}\right) \Delta t_{i}
+                                    & \approx \sum_{i} a\left(t_{i}\right) \Delta t_{i}
   \end{aligned}
 \end{equation}
 其中$v\left(0\right)$是$t=0$时质点的速度，称为初速度。
 同样，取所有$\Delta t _ i \to 0$的极限，就得到速度变化的精确表达式为，
 \begin{equation}\label{eqn:01.11.06}
   \begin{aligned}
-    v\left(t\right) & =v\left(0\right)+\lim _{\Delta t_{i} \rightarrow 0} \sumx _ i a\left(t_{i}\right) \Delta t_{i} \\
+    v\left(t\right) & =v\left(0\right)+\lim _{\Delta t_{i} \rightarrow 0} \sum_ i a\left(t_{i}\right) \Delta t_{i} \\
                     & =v\left(0\right)+\int_{0}^{t} a\left(t\right) {~\mathrm d}  t
   \end{aligned}
 \end{equation}
@@ -125,8 +126,8 @@ $\dfrac{1}{2} a t^2$，代入式\eqref{eqn:01.11.03}，就得到轨迹函数为�
 {\setlength{\mathindent}{4em}
 %\setlength\abovedisplayskip{0pt}
 %\setlength\belowdisplayskip{0pt}
-\setlength{\lineskip}{-1pt}
-\setlength{\lineskiplimit}{-1pt}
+%\setlength{\lineskip}{-1pt}
+%\setlength{\lineskiplimit}{-1pt}
 \begin{eqnarray}
   \label{eqn:01.11.07}
   \begin{aligned}
@@ -151,8 +152,8 @@ $\dfrac{1}{2} a t^2$，代入式\eqref{eqn:01.11.03}，就得到轨迹函数为�
 来计算。式\eqref{eqn:01.11.07}等价于下列三式。
 {%\setlength\abovedisplayskip{0pt}
 %\setlength\belowdisplayskip{0pt}
-\setlength{\lineskip}{-1pt}
-\setlength{\lineskiplimit}{-1pt}
+%\setlength{\lineskip}{-1pt}
+%\setlength{\lineskiplimit}{-1pt}
 \begin{equation}
   \begin{aligned}\label{eqn:01.11.09}
     x\left(t\right)=x\left(0\right)+\int_{0}^{t} v_{x}\left(t\right) {~\mathrm d}  t \\
@@ -161,10 +162,10 @@ $\dfrac{1}{2} a t^2$，代入式\eqref{eqn:01.11.03}，就得到轨迹函数为�
   \end{aligned}
 \end{equation}}%
 而式\eqref{eqn:01.11.08}等价于下列三式。
-{\setlength\abovedisplayskip{0pt}
-\setlength\belowdisplayskip{0pt}
-\setlength{\lineskip}{-1pt}
-\setlength{\lineskiplimit}{-1pt}
+{%\setlength\abovedisplayskip{0pt}
+%\setlength\belowdisplayskip{0pt}
+%\setlength{\lineskip}{-1pt}
+%\setlength{\lineskiplimit}{-1pt}
 \begin{equation}\label{eqn:01.11.10}
   \begin{aligned}
     v_x\left(t\right)=v_x\left(0\right)+\int_{0}^{t} a_{x}\left(t\right) {~\mathrm d}  t \\
