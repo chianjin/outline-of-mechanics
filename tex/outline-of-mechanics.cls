@@ -127,8 +127,8 @@
 \cftbeforesecskip=-0.14em
 
 % 思考题，按节处理
-\newcounter{question}
-\newcommand{\question}{\refstepcounter{question}\par\thequestion .}
+\newcounter{question}[chapter]
+\newcommand{\question}{\stepcounter{question}\par\thequestion .}
 \newenvironment{questions}{
     \refstepcounter{section}
     \addcontentsline{toc}{section}{思考题}
@@ -138,8 +138,8 @@
 }{\normalfont}
 
 % 习题，按节处理
-\newcounter{exercise}
-\newcommand{\exercise}{\refstepcounter{exercise}\par\theexercise .}
+\newcounter{exercise}[chapter]
+\newcommand{\exercise}{\stepcounter{exercise}\par\theexercise .}
 \newenvironment{exercises}{%
     \refstepcounter{section}
     \addcontentsline{toc}{section}{习题}
@@ -241,7 +241,7 @@
 
 % 例、解、讨论
 \newcounter{example}[chapter]
-\newcommand{\example}{\refstepcounter{example}【例~\theexample】\quad}
+\newcommand{\example}{\stepcounter{example}【例~\theexample】\quad}
 \newcommand{\solution}{\textsf{解}\quad}
 \newcommand{\resolve}{\solution}
 \newcommand{\discussion}{\heiti 讨论~\normalfont}
@@ -259,7 +259,7 @@
     pdfstartview=Fit,
     breaklinks=true,
     bookmarksnumbered=true,
-    pdfpagelabels=true
+    %pdfpagelabels=true
 }
 \RequirePackage{bookmark}
 
@@ -290,15 +290,15 @@
 \captionsetup[table]{%
     position=above,
     format=table,
-    skip=0.1em,
-    labelsep=space
+    skip=0.2em,
+    labelsep=quad
 }
 \captionsetup[figure]{%
     position=below,
     format=hang,
     font=small,
-    skip=0.1em,
-    labelsep=space
+    skip=0.5em,
+    labelsep=quad
 }
 
 % ----------------------------------------------------------

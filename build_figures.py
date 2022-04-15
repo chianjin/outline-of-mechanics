@@ -47,6 +47,7 @@ def generate_batch(svg_dir, pdf_dir):
 
     batch = ['export-area-drawing', 'export-text-to-path', 'export-dpi=600']
     for svg_file, pdf_file in job_list:
+        print(f'{svg_file} --> {pdf_file}')
         batch.append(f'file-open:{svg_file}')
         batch.append(f'export-filename:{pdf_file}')
         batch.append('export-do')
