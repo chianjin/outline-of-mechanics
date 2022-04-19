@@ -5,7 +5,7 @@
    viewBox="0 0 34.832932 14.18555"
    version="1.1"
    id="svg995"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    sodipodi:docname="fig01.06d.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,19 +17,16 @@
   <defs
      id="defs989">
     <marker
-       style="overflow:visible"
-       id="Arrow1Mend"
-       refX="0"
-       refY="0"
+       markerWidth="11.99958"
+       markerHeight="4.0000024"
+       refX="5.9997902"
+       refY="2.0000012"
        orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true"
-       inkscape:collect="always">
+       id="marker2649">
       <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path856" />
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 11.99958,1.9999332 0,4.0000025 3.4286324,1.9999332 0,0"
+         id="path2434" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -39,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.9561458"
-     inkscape:cx="65.769179"
-     inkscape:cy="26.810824"
+     inkscape:zoom="9.9732614"
+     inkscape:cx="65.82601"
+     inkscape:cy="26.821718"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -70,7 +67,7 @@
      id="layer1"
      transform="translate(-86.14333,-101.00856)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#Arrow1Mend)"
+       style="fill:none;stroke:#000000;stroke-width:0.13229167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker2649)"
        d="m 86.158363,110.68885 c 0,0 7.744396,1.80733 11.226578,-2.42569 5.680879,-6.90581 -6.717626,-10.603103 -6.779485,-2.86107 -0.0703,8.79873 13.961324,14.2955 25.967284,4.60259"
        id="path845"
        sodipodi:nodetypes="cssc" />

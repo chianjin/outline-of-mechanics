@@ -84,6 +84,54 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -92,9 +140,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.7646366"
-     inkscape:cx="104.86351"
-     inkscape:cy="52.47512"
+     inkscape:zoom="6.0527895"
+     inkscape:cx="108.46239"
+     inkscape:cy="52.950793"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -158,8 +206,8 @@
        sodipodi:arc-type="arc"
        d="m 119.1123,113.12687 a 5.2916665,5.2916665 0 0 1 0.59619,-2.44012" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Sstart)"
-       d="M 75.610568,102.25999 H 67.07"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker2622)"
+       d="M 75.22641,102.25999 H 67.070002"
        id="path7023" />
     <g
        style="fill:#000000;fill-opacity:1"

@@ -18,6 +18,20 @@
      id="defs4830">
     <marker
        style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path930" />
+    </marker>
+    <marker
+       style="overflow:visible"
        id="Arrow1Sstart"
        refX="0"
        refY="0"
@@ -43,6 +57,54 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1888-1" />
+    </marker>
+    <marker
+       markerWidth="11.99958"
+       markerHeight="3.9999988"
+       refX="5.9997902"
+       refY="1.9999994"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 11.99958,0 0,1.9999294 11.99958,3.9999987 8.570948,1.9999294 11.99958,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="11.99958"
+       markerHeight="4.0000024"
+       refX="5.9997902"
+       refY="2.0000012"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 11.99958,1.9999332 0,4.0000025 3.4286324,1.9999332 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.4997959"
+       markerHeight="2.5000176"
+       refX="3.749898"
+       refY="1.2500088"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.4997959,0 0,1.2499654 7.4997959,2.5000176 5.3568831,1.2499654 7.4997959,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.4997959"
+       markerHeight="2.5000215"
+       refX="3.749898"
+       refY="1.2500107"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.4997959,1.2499691 0,2.5000214 2.1429128,1.2499691 0,0"
+         id="path2429" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -347,7 +409,7 @@
        x="65.460915"
        y="106.38037" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Sstart-0)"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker2622)"
        d="M 71.903936,104.89259 H 65.460912"
        id="path2450-1-0" />
     <g

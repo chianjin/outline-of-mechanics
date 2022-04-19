@@ -17,32 +17,16 @@
   <defs
      id="defs3193">
     <marker
-       style="overflow:visible"
-       id="marker2507"
-       refX="0"
-       refY="0"
+       markerWidth="7.4997959"
+       markerHeight="2.5000215"
+       refX="3.749898"
+       refY="1.2500107"
        orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       id="marker2631">
       <path
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path2505" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker2507-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path2505-0" />
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.4997959,1.2499691 0,2.5000214 2.1429128,1.2499691 0,0"
+         id="path2429" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -335,7 +319,7 @@
          id="path8288-1" />
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2507-4)"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 114.59699,92.500705 h -6.44303"
        id="path2450" />
     <path

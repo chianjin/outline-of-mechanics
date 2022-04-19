@@ -44,36 +44,6 @@
     </marker>
     <marker
        style="overflow:visible"
-       id="marker3025"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path3023" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Send"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path866" />
-    </marker>
-    <marker
-       style="overflow:visible"
        id="marker1167"
        refX="0"
        refY="0"
@@ -176,6 +146,54 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -194,9 +212,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="4.1889974"
-     inkscape:cx="93.936559"
-     inkscape:cy="78.419719"
+     inkscape:zoom="5.3353183"
+     inkscape:cx="92.496824"
+     inkscape:cy="73.004079"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -214,16 +232,17 @@
      id="g18"
      transform="translate(-197.35158,-5.1080149)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 203.70406,108.94228 243.09435,14.855766"
        id="path22" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3083)"
-       d="m 203.70406,108.94228 171.29148,-2.25087"
-       id="path24" />
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
+       d="m 203.70406,108.94228 170.15316,-2.25087"
+       id="path24"
+       sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3025)"
-       d="M 376.80277,106.73982 245.30125,14.253884"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
+       d="M 376.80277,106.73982 246.67922,13.834502"
        id="path26"
        sodipodi:nodetypes="cc" />
     <g

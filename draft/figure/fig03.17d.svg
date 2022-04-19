@@ -17,21 +17,6 @@
    xmlns:ns1="http://www.iki.fi/pav/software/textext/">
   <defs
      id="defs2146">
-    <marker
-       style="overflow:visible"
-       id="Arrow1Send"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1381" />
-    </marker>
     <g
        id="id-ebb2b420-01be-454c-a737-6caf176f976b">
       <symbol
@@ -51,6 +36,54 @@
            id="id-c692854a-81a2-4a98-9596-9888ebc7465e" />
       </symbol>
     </g>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -89,6 +122,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-70.549257,-129.55476)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect184-8-8"
+       width="6.9489055"
+       height="4.2038298"
+       x="-16.832878"
+       y="155.87172"
+       transform="rotate(-37)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 93.710867,144.62969 V 129.8201 l -19.652985,14.80959"
+       id="path443" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
+       d="m 81.627574,136.29364 -5.103188,3.84552"
+       id="path445" />
     <g
        id="g325-3"
        transform="matrix(0.26458333,0,0,0.26458333,5.4990738,64.474845)">
@@ -196,26 +245,6 @@
            d="m 190.17678,526.44482 h 55"
            id="path8288-48-7" />
       </g>
-    </g>
-    <g
-       id="g1364"
-       transform="matrix(0.26458333,0,0,0.26458333,9.3102298,43.535014)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect184-8-8"
-         width="26.26358"
-         height="15.888492"
-         x="7.3007913"
-         y="436.53574"
-         transform="rotate(-37)" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 318.99454,382.09011 v -55.97325 l -74.279,55.97325"
-         id="path443" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send)"
-         d="m 273.3254,350.58377 -19.28764,14.53428"
-         id="path445" />
     </g>
     <g
        transform="matrix(0.19283087,-0.15426629,0.15426629,0.19283087,77.532374,136.88724)"

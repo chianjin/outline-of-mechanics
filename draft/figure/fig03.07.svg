@@ -2,9 +2,9 @@
 <svg
    version="1.1"
    id="svg1420"
-   width="190.35698"
-   height="173.35727"
-   viewBox="0 0 190.35698 173.35727"
+   width="192.37154"
+   height="175.37183"
+   viewBox="0 0 192.37154 175.37183"
    sodipodi:docname="fig03.07.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,71 +29,17 @@
   <defs
      id="defs1424">
     <marker
-       style="overflow:visible"
-       id="marker2293"
-       refX="0"
-       refY="0"
+       markerWidth="11.99958"
+       markerHeight="4.0000024"
+       refX="5.9997902"
+       refY="2.0000012"
        orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       id="marker2649">
       <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path2291" />
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 11.99958,1.9999332 0,4.0000025 3.4286324,1.9999332 0,0"
+         id="path2434" />
     </marker>
-    <marker
-       style="overflow:visible"
-       id="marker2283"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path2281" />
-    </marker>
-    <defs
-       id="id-5204fcd6-21cc-4417-ac4e-8e939e902056">
-      <g
-         id="id-e54f42ef-6682-4f2e-950c-3ef3a891ec3a">
-        <symbol
-           overflow="visible"
-           id="id-28675df4-05b6-4802-9f85-d351d6f45f75">
-          <path
-             style="stroke:none;stroke-width:0"
-             d="m 1.9375,-0.703125 h -1.25 v -5.78125 h 1.25 z M 2.625,0 V -7.1875 H 0 V 0 Z m 0,0"
-             id="id-40530360-bef9-433e-acda-40ae3188cf4d" />
-        </symbol>
-        <symbol
-           overflow="visible"
-           id="id-f6d1db5b-01e8-4a28-bf1b-2a334c8e2757">
-          <path
-             style="stroke:none;stroke-width:0"
-             d="M 7.59375,-6.859375 H 2.125 l -0.03125,0.15625 h 0.1875 c 0.640625,0 0.8125,0.1875 0.8125,0.40625 0,0.078125 -0.03125,0.171875 -0.046875,0.265625 L 1.75,-0.8125 C 1.65625,-0.46875 1.421875,-0.171875 0.625,-0.171875 H 0.4375 L 0.40625,0 H 3.984375 L 4.03125,-0.171875 H 3.703125 c -0.640625,0 -0.84375,-0.171875 -0.84375,-0.421875 0,-0.078125 0.03125,-0.15625 0.046875,-0.21875 L 3.5625,-3.484375 h 1.015625 c 0.296875,0 0.734375,0.03125 0.734375,0.515625 0,0.203125 -0.015625,0.5 -0.046875,0.640625 h 0.15625 L 6.0625,-4.859375 H 5.890625 c -0.21875,0.890625 -0.703125,1 -1.359375,1 H 3.671875 L 4.3125,-6.46875 h 1.546875 c 0.5,0 1.125,0.09375 1.15625,0.921875 0,0.140625 0,0.28125 -0.015625,0.375 h 0.171875 z m 0,0"
-             id="id-e95cc3ad-445b-4b8f-9f9f-5abcca12641f" />
-        </symbol>
-        <symbol
-           overflow="visible"
-           id="id-e5eb6028-ee8f-4716-a709-303802a8d78f">
-          <path
-             style="stroke:none;stroke-width:0"
-             d="m 6.265625,-4.65625 c 0,1.484375 -0.78125,4.375 -3,4.375 -0.8125,0 -1.46875,-0.5625 -1.46875,-1.578125 0,-1.484375 0.546875,-4.78125 2.984375,-4.78125 1.0625,0 1.484375,0.859375 1.484375,1.984375 z m 1.203125,0.25 c 0,-1.328125 -0.859375,-2.625 -2.609375,-2.625 -2.671875,0 -4.328125,2.5625 -4.328125,4.703125 0,1.4375 1.078125,2.4375 2.65625,2.4375 2.65625,0 4.28125,-2.4375 4.28125,-4.515625 z m 0,0"
-             id="id-33a85ace-cfbb-4378-af58-a59a91f5efa4" />
-        </symbol>
-        <symbol
-           overflow="visible"
-           id="id-bc1e3d0b-b88f-4979-ad35-ad2495fc2fb3">
-          <path
-             style="stroke:none;stroke-width:0"
-             d="M 1.84375,-2.796875 2.328125,-4.625 0.671875,-4.390625 0.6875,-4.234375 c 0.0625,0 0.21875,-0.03125 0.28125,-0.03125 0.234375,0 0.359375,0.0625 0.359375,0.203125 0,0.046875 -0.015625,0.125 -0.046875,0.234375 L 0.3125,0 H 1.125 l 0.21875,-0.796875 c 0.046875,-0.171875 0.96875,-2.875 1.609375,-2.875 0.1875,0 0.078125,0.40625 0.484375,0.40625 0.4375,0 0.6875,-0.46875 0.6875,-0.859375 0,-0.28125 -0.15625,-0.5 -0.453125,-0.5 -0.578125,0 -1.09375,0.671875 -1.453125,1.25 -0.109375,0.1875 -0.234375,0.390625 -0.328125,0.578125 z m 0,0"
-             id="id-e8f5f982-fe59-457d-834d-43b1833d4afb" />
-        </symbol>
-      </g>
-    </defs>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -110,7 +56,7 @@
      showgrid="false"
      inkscape:zoom="4.4589997"
      inkscape:cx="94.303662"
-     inkscape:cy="86.678633"
+     inkscape:cy="88.697023"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -120,13 +66,13 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g1428"
-     transform="translate(-217.48081,-19.808733)">
+     transform="translate(-217.48081,-17.794179)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2283)"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="M 227.91398,129.68935 H 406.85245"
        id="path1993" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2293)"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="M 227.91399,193.166 V 20.794074"
        id="path1995" />
     <path

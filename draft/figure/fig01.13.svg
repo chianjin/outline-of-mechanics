@@ -5,7 +5,7 @@
    viewBox="0 0 38.906612 25.469316"
    version="1.1"
    id="svg3451"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    sodipodi:docname="fig01.13.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,6 +17,20 @@
    xmlns:ns15="http://www.iki.fi/pav/software/textext/">
   <defs
      id="defs3445">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path962" />
+    </marker>
     <marker
        style="overflow:visible"
        id="marker1286"
@@ -152,6 +166,54 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="11.99958"
+       markerHeight="3.9999988"
+       refX="5.9997902"
+       refY="1.9999994"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 11.99958,0 0,1.9999294 11.99958,3.9999987 8.570948,1.9999294 11.99958,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="11.99958"
+       markerHeight="4.0000024"
+       refX="5.9997902"
+       refY="2.0000012"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 11.99958,1.9999332 0,4.0000025 3.4286324,1.9999332 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.4997959"
+       markerHeight="2.5000176"
+       refX="3.749898"
+       refY="1.2500088"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.4997959,0 0,1.2499654 7.4997959,2.5000176 5.3568831,1.2499654 7.4997959,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.4997959"
+       markerHeight="2.5000215"
+       refX="3.749898"
+       refY="1.2500107"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.4997959,1.2499691 0,2.5000214 2.1429128,1.2499691 0,0"
+         id="path2429" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -160,9 +222,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.7274212"
-     inkscape:cx="100.20333"
-     inkscape:cy="49.76631"
+     inkscape:zoom="8.0301692"
+     inkscape:cx="73.535187"
+     inkscape:cy="48.130991"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -172,7 +234,8 @@
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata3448">
     <rdf:RDF>
@@ -196,18 +259,18 @@
        id="path1944"
        sodipodi:nodetypes="cszc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1276)"
-       d="M 64.946853,102.39852 89.078906,84.576195"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
+       d="M 64.946853,102.39852 88.996547,84.946811"
        id="path1946"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1266)"
-       d="M 64.946853,102.39852 75.768074,82.226692"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
+       d="M 64.946853,102.39852 75.575903,82.542402"
        id="path1948"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1286)"
-       d="m 75.924995,81.834387 13.064241,2.371921"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
+       d="m 76.048534,81.710848 12.78971,2.509187"
        id="path1950"
        sodipodi:nodetypes="cc" />
     <g
@@ -549,5 +612,13 @@
         </g>
       </g>
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2622);marker-end:url(#marker2631)"
+       d="m 82.946387,95.99653 h 3.618915"
+       id="path2691" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2640);marker-end:url(#marker2649)"
+       d="m 82.198344,97.244953 h 4.993698"
+       id="path2693" />
   </g>
 </svg>

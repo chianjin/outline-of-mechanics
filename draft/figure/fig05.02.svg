@@ -16,21 +16,6 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs3761">
-    <marker
-       style="overflow:visible"
-       id="Arrow1Mend"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path860" />
-    </marker>
     <defs
        id="id-7de7cc82-690d-4d95-b981-cc3b533c6544">
       <g
@@ -61,6 +46,54 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -69,9 +102,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.4527857"
-     inkscape:cx="138.22808"
-     inkscape:cy="57.379811"
+     inkscape:zoom="4.749397"
+     inkscape:cx="138.22807"
+     inkscape:cy="56.744046"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -125,9 +158,10 @@
        id="path2893"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 145.97184,107.48717 9.14875,-4.03737"
-       id="path2895" />
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
+       d="m 145.97184,107.48717 8.76287,-3.9409"
+       id="path2895"
+       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"

@@ -114,6 +114,54 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -284,8 +332,8 @@
        x="1.8865603"
        y="-0.12770362" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-91-4)"
-       d="M 9.2383451,3.4224078 H 16.658394"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker2640)"
+       d="m 9.538589,3.4224078 h 7.420049"
        id="path997-5-5" />
     <g
        style="fill:#000000;fill-opacity:1"

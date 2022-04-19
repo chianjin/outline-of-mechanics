@@ -96,7 +96,7 @@
 
 % 章节标题
 \ctexset{
-    contentsname=~\vspace{-2em}\\目\qquad 录\vspace{-1em},
+    %contentsname=~\vspace{-2em}\\\makebox[5][s]{目录}\vspace{-1em},
     chapter={
         nameformat=\zihao{4}\fangsong,
         aftername=\vspace{0.7em}\break,
@@ -115,7 +115,7 @@
 % 目录
 \RequirePackage[subfigure]{tocloft}
 \tocloftpagestyle{foreword}
-\renewcommand{\contentsname}{\bfseries\zihao{-3}\hfill 目\qquad 录\hfill\vspace{-1em}}
+\renewcommand{\contentsname}{\bfseries\zihao{-3}\hfill\makebox[5em][s]{目录}\hfill\vspace{-1em}}
 \renewcommand{\cftchapfont}{\heiti\zihao{-5}}
 \renewcommand{\cftsecfont}{\zihao{-5}}
 \renewcommand{\cftdot}{\ensuremath{\cdots}}
@@ -133,7 +133,7 @@
     \refstepcounter{section}
     \addcontentsline{toc}{section}{思考题}
     \setcounter{question}{0}
-    \begin{center}\textsf{思~~考~~题}\end{center}
+    \begin{center}\textsf{\makebox[5em][s]{思考题}}\end{center}
     \fangsong
 }{\normalfont}
 
@@ -144,7 +144,7 @@
     \refstepcounter{section}
     \addcontentsline{toc}{section}{习题}
     \setcounter{exercise}{0}
-    \begin{center}\textsf{习~~~~~~题} \end{center}
+    \begin{center}\textsf{\makebox[5em][s]{习题}} \end{center}
     \fangsong
 }{\normalfont}
 
@@ -259,6 +259,7 @@
     pdfstartview=Fit,
     breaklinks=true,
     bookmarksnumbered=true,
+    pdftitle=力学概论,
     %pdfpagelabels=true
 }
 \RequirePackage{bookmark}

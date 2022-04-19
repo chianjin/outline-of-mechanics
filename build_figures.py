@@ -51,6 +51,7 @@ def generate_batch(svg_dir, pdf_dir):
         batch.append(f'file-open:{svg_file}')
         batch.append(f'export-filename:{pdf_file}')
         batch.append('export-do')
+        batch.append('file-close')
     batch.append('quit')
 
     return '\n'.join(batch)

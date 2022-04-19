@@ -5,7 +5,7 @@
    viewBox="0 0 15.191594 14.921835"
    version="1.1"
    id="svg2394"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    sodipodi:docname="fig01.06b.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,19 +17,16 @@
   <defs
      id="defs2388">
     <marker
-       style="overflow:visible"
-       id="marker1177"
-       refX="0"
-       refY="0"
+       markerWidth="11.99958"
+       markerHeight="4.0000024"
+       refX="5.9997902"
+       refY="2.0000012"
        orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true"
-       inkscape:collect="always">
+       id="marker2649">
       <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1175" />
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 11.99958,1.9999332 0,4.0000025 3.4286324,1.9999332 0,0"
+         id="path2434" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -70,7 +67,7 @@
      id="layer1"
      transform="translate(-70.887944,-113.49146)">
     <circle
-       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker1177)"
+       style="fill:none;stroke:#000000;stroke-width:0.13229167;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker2649)"
        id="path1145"
        cx="78.348862"
        cy="-120.95238"
