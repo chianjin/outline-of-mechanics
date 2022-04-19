@@ -2,41 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="30.167334mm"
-   height="27.729818mm"
-   viewBox="0 0 30.167334 27.729818"
+   width="30.16733mm"
+   height="27.72982mm"
+   viewBox="0 0 30.16733 27.72982"
    version="1.1"
    id="svg14345"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig10.05.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview14347"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="7.3755591"
-     inkscape:cx="57.012627"
-     inkscape:cy="52.402807"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
   <defs
      id="defs14342" />
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-129.34277,-149.07774)">
     <path
@@ -79,35 +54,25 @@
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
        d="m 135.68185,176.01381 23.0345,-13.34538"
        id="path9781" />
-    <circle
-       style="fill:#000000;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.264583;stroke-dashoffset:0"
+    <path
        id="path10163-90"
-       cx="144.51784"
-       cy="149.87149"
-       r="0.79374999" />
-    <circle
-       style="fill:#000000;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.264583;stroke-dashoffset:0"
+       style="stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.79375, 0.264583"
+       d="m 145.31159,149.87149 a 0.79374999,0.79374999 0 0 1 -0.79375,0.79375 0.79374999,0.79374999 0 0 1 -0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,0.79375 z" />
+    <path
        id="path10163-8"
-       cx="130.13652"
-       cy="162.48561"
-       r="0.79374999" />
-    <circle
-       style="fill:#000000;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.264583;stroke-dashoffset:0"
+       style="stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.79375, 0.264583"
+       d="m 130.93027,162.48561 a 0.79374999,0.79374999 0 0 1 -0.79375,0.79375 0.79374999,0.79374999 0 0 1 -0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,0.79375 z" />
+    <path
        id="path10163-48"
-       cx="135.68185"
-       cy="176.01381"
-       r="0.79374999" />
-    <circle
-       style="fill:#000000;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.264583;stroke-dashoffset:0"
+       style="stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.79375, 0.264583"
+       d="m 136.4756,176.01381 a 0.79374999,0.79374999 0 0 1 -0.79375,0.79375 0.79374999,0.79374999 0 0 1 -0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,0.79375 z" />
+    <path
        id="path10163-48-1"
-       cx="148.78349"
-       cy="173.45442"
-       r="0.79374999" />
-    <circle
-       style="fill:#000000;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.264583;stroke-dashoffset:0"
+       style="stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.79375, 0.264583"
+       d="m 149.57724,173.45442 a 0.79374999,0.79374999 0 0 1 -0.79375,0.79375 0.79374999,0.79374999 0 0 1 -0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,0.79375 z" />
+    <path
        id="path10163-48-7"
-       cx="158.71635"
-       cy="162.66843"
-       r="0.79374999" />
+       style="stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.79375, 0.264583"
+       d="m 159.5101,162.66843 a 0.79374999,0.79374999 0 0 1 -0.79375,0.79375 0.79374999,0.79374999 0 0 1 -0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,-0.79375 0.79374999,0.79374999 0 0 1 0.79375,0.79375 z" />
   </g>
 </svg>

@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg860"
-   width="415.13513"
-   height="591.56757"
-   viewBox="0 0 415.13513 591.56757"
-   sodipodi:docname="fig04.02.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   width="213.42633"
+   height="190.09407"
+   viewBox="0 0 213.42633 190.09407"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata866">
     <rdf:RDF>
@@ -22,40 +18,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs864" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     id="namedview862"
-     showgrid="false"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:zoom="4.1458773"
-     inkscape:cx="199.77101"
-     inkscape:cy="123.67866"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g868" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
-     id="g868">
+     id="g868"
+     transform="translate(-90.057842,-7.7803925)">
     <g
        id="g2494"
        transform="matrix(2.0197996,0,0,2.0198087,83.398132,-45.160376)"
@@ -76,40 +47,34 @@
            d="M 26.458332,57.009749 V 72.28547"
            id="path1727" />
       </g>
-      <ellipse
-         style="fill:none;stroke:#000000;stroke-width:0.495097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      <path
          id="path1741"
-         cx="26.45833"
-         cy="49.371902"
-         rx="22.913568"
-         ry="22.91357" />
+         style="fill:none;stroke:#000000;stroke-width:0.495097;stroke-linecap:round;stroke-linejoin:round"
+         d="M 49.371899,49.371902 A 22.913568,22.91357 0 0 1 26.45833,72.285473 22.913568,22.91357 0 0 1 3.5447617,49.371902 22.913568,22.91357 0 0 1 26.45833,26.458332 22.913568,22.91357 0 0 1 49.371899,49.371902 Z" />
     </g>
     <g
        id="g2537"
        transform="matrix(3.3925437,0,0,3.3925437,170.35856,-114.12587)"
-       style="stroke-width:0.29476407;stroke-miterlimit:4;stroke-dasharray:none">
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke-width:0.294764;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
          id="path1770"
-         cx="-26.45833"
-         cy="-49.371891"
-         r="12.07651"
-         transform="scale(-1)" />
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         transform="scale(-1)"
+         d="m -14.38182,-49.371891 a 12.07651,12.07651 0 0 1 -12.07651,12.07651 12.07651,12.07651 0 0 1 -12.076511,-12.07651 12.07651,12.07651 0 0 1 12.076511,-12.07651 12.07651,12.07651 0 0 1 12.07651,12.07651 z" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:0.294764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 16.586989,55.079132 H 36.307708 L 26.447349,38.000488 Z"
-         id="path1835"
-         sodipodi:nodetypes="cccc" />
+         id="path1835" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:0.294764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 26.458346,49.371879 -1.4e-5,-11.352368"
          id="path2526" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:0.294764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 26.458332,49.37189 -9.871343,5.707242"
          id="path2528" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.29476407;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:0.294764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 26.458332,49.371879 9.849375,5.707253"
          id="path2530" />
     </g>
@@ -118,29 +83,14 @@
        transform="matrix(1.1215216,0,0,-1.1215216,-3.0628711,230.15093)"
        style="stroke-width:3.37">
       <path
-         sodipodi:type="star"
-         style="fill:none;stroke:#000000;stroke-width:0.811246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path2607"
-         sodipodi:sides="5"
-         sodipodi:cx="168.86559"
-         sodipodi:cy="110.87525"
-         sodipodi:r1="10.38256"
-         sodipodi:r2="8.3996668"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.1991149"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 168.86559,121.25781 -9.87441,-7.17417 3.77169,-11.60806 12.20543,0 3.77169,11.60806 z"
-         inkscape:transform-center-y="-1.0896034"
+         style="fill:none;stroke:#000000;stroke-width:0.811246;stroke-linecap:round;stroke-linejoin:round"
          transform="matrix(0.33962807,-1.0452677,-1.0453322,-0.33964903,238.25429,314.22308)"
-         inkscape:transform-center-x="9.0854473e-06" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.891641;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 168.86559,121.25781 -9.87441,-7.17417 3.77169,-11.60806 h 12.20543 l 3.77169,11.60806 z" />
+      <path
          id="path2766"
-         cx="179.70407"
-         cy="100.05473"
-         r="18.785418" />
+         style="fill:none;stroke:#000000;stroke-width:0.891641;stroke-linecap:round;stroke-linejoin:round"
+         d="m 198.48949,100.05473 a 18.785418,18.785418 0 0 1 -18.78542,18.78542 18.785418,18.785418 0 0 1 -18.78542,-18.78542 18.785418,18.785418 0 0 1 18.78542,-18.785414 18.785418,18.785418 0 0 1 18.78542,18.785414 z" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.891645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 172.99794,109.28633 -4.20329,5.78562 10.94358,3.54433 10.87669,-3.54537 -4.20553,-5.78433"
@@ -186,12 +136,10 @@
          style="fill:none;stroke:#000000;stroke-width:2.71683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 109.38202,100.36469 v 21.25324 l 43.54874,3.88964 -18.40587,39.65917"
          id="path3500" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:2.71683;stroke-linecap:round;stroke-linejoin:round"
+      <path
          id="path3502"
-         cx="109.38202"
-         cy="150.65047"
-         r="51" />
+         style="fill:none;stroke:#000000;stroke-width:2.71683;stroke-linecap:round;stroke-linejoin:round"
+         d="m 160.38202,150.65047 a 51,51 0 0 1 -51,51 51,51 0 0 1 -51.000001,-51 51,51 0 0 1 51.000001,-51.000003 51,51 0 0 1 51,51.000003 z" />
     </g>
     <g
        id="g1554"
@@ -204,142 +152,121 @@
       <g
          id="g1537"
          style="stroke-width:3.72523">
-        <ellipse
-           style="fill:none;stroke:#000000;stroke-width:3.72523;stroke-linecap:round;stroke-linejoin:round"
+        <path
            id="path3549"
-           cx="327.52716"
-           cy="194.33649"
-           rx="56.936787"
-           ry="56.935894" />
+           style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+           d="m 384.46395,194.33649 a 56.936787,56.935894 0 0 1 -56.93679,56.93589 56.936787,56.935894 0 0 1 -56.93679,-56.93589 56.936787,56.935894 0 0 1 56.93679,-56.9359 56.936787,56.935894 0 0 1 56.93679,56.9359 z" />
         <path
            style="fill:none;stroke:#000000;stroke-width:3.72523px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 327.52718,137.40057 v 113.8718"
            id="path3553" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="132.172"
-       y="111.18938"
-       id="text1589"><tspan
-         sodipodi:role="line"
-         id="tspan1587"
-         x="132.172"
-         y="111.18938">土</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="255.54408"
-       y="111.15292"
-       id="text1593"><tspan
-         sodipodi:role="line"
-         id="tspan1591"
-         x="255.54408"
-         y="111.15292">木</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="168.60928"
-       y="138.52126"
-       id="text1597"><tspan
-         sodipodi:role="line"
-         id="tspan1595"
-         x="168.60928"
-         y="138.52126">火</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="132.26314"
-       y="196.79326"
-       id="text1601"><tspan
-         sodipodi:role="line"
-         id="tspan1599"
-         x="132.26314"
-         y="196.79326">地</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="193.92183"
-       y="196.7989"
-       id="text1605"><tspan
-         sodipodi:role="line"
-         id="tspan1603"
-         x="193.92183"
-         y="196.7989">金</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="255.58054"
-       y="196.81714"
-       id="text1609"><tspan
-         sodipodi:role="line"
-         id="tspan1607"
-         x="255.58054"
-         y="196.81714">水</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="171.8333"
-       y="15.072057"
-       id="text1613"><tspan
-         sodipodi:role="line"
-         id="tspan1611"
-         x="171.8333"
-         y="15.072057">六</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="294.91647"
-       y="18.863878"
-       id="text1617"><tspan
-         sodipodi:role="line"
-         id="tspan1615"
-         x="294.91647"
-         y="18.863878">四</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="219.01854"
-       y="103.95247"
-       id="text1621"><tspan
-         sodipodi:role="line"
-         id="tspan1619"
-         x="219.01854"
-         y="103.95247">十二</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="154.44194"
-       y="155.53719"
-       id="text1625"><tspan
-         sodipodi:role="line"
-         id="tspan1623"
-         x="154.44194"
-         y="155.53719">二十</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="214.18723"
-       y="158.43536"
-       id="text1629"><tspan
-         sodipodi:role="line"
-         id="tspan1627"
-         x="214.18723"
-         y="158.43536">八</tspan></text>
+    <g
+       aria-label="土"
+       id="text1589"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 136.43762,104.04355 q 1.05729,0.36458 1.05729,0.4375 0,0.0365 -0.21875,0.14583 -0.21875,0.14583 -0.18229,0.14583 v 2.44271 h 1.85937 l 0.47396,-0.58333 0.83854,0.76562 -0.0365,0.0729 h -3.13542 v 3.90104 h 2.58854 l 0.58333,-0.51042 0.83855,0.72917 -0.0365,0.0365 h -7.875 l -0.40104,0.0729 -0.21875,-0.32812 h 3.86458 v -3.90104 h -2.47917 l -0.36458,0.0729 -0.25521,-0.32812 h 3.09896 z"
+         id="path19216" />
+    </g>
+    <g
+       aria-label="木"
+       id="text1593"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 260.75762,103.93418 q -0.10937,0.10937 -0.0729,0.0729 -0.29167,0.25521 -0.25521,0.25521 v 1.67708 h 2.36979 l 0.54687,-0.65625 0.80209,0.80209 -0.0365,0.0365 h -3.39063 q 0.76563,2.8802 3.75521,4.08333 l -0.0365,0.0729 q -0.65625,0 -0.98437,0.36459 0,0.0365 0,0 -2.44271,-1.75 -2.91667,-4.52083 h -0.10937 v 5.72395 q -0.40104,0.21875 -0.65625,0.29167 l 0.0365,-5.28646 q -1.3125,2.55208 -3.97396,4.22917 l -0.0729,-0.0729 q 2.55209,-2.15104 3.71875,-4.88541 h -2.58854 l -0.4375,0.10937 -0.18229,-0.29167 h 3.53646 l -0.0365,-2.33333 q 0.54687,0.10938 0.98437,0.32813 z"
+         id="path19219" />
+    </g>
+    <g
+       aria-label="火"
+       id="text1597"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 172.87491,130.90147 q 0.80208,0.32812 1.05729,0.4375 0,0.0365 -0.18229,0.18229 -0.21875,0.14583 -0.21875,0.18229 -0.0365,0.32812 -0.0729,1.27604 0.21875,1.78646 0.61979,2.625 1.02083,-1.20312 1.71354,-2.625 0.80209,0.72917 0.76563,0.72917 -0.0365,0.0365 -0.10938,0.0365 -0.32812,0.0365 -0.54687,0.2552 -0.25521,0.29167 -0.875,0.91146 -0.61979,0.61979 -0.875,0.91146 0.875,2.11458 3.35416,2.77083 v 0.0729 q -0.80208,-0.0365 -1.02083,0.40104 -0.0365,0.0365 -0.0365,0.0729 -2.8802,-1.45834 -3.02604,-5.65104 0.0729,4.73958 -4.55729,6.01562 l -0.0729,-0.14583 q 2.51562,-1.13021 3.42708,-2.80729 0.65625,-1.23959 0.65625,-5.65104 z m -1.89584,2.51562 h 0.10938 q 0.18229,1.38542 -0.10938,2.00521 -0.2552,0.4375 -0.6927,0.47396 -0.4375,0 -0.32813,-0.4375 0,-0.0365 0.18229,-0.1823 0.83854,-0.72916 0.83854,-1.85937 z"
+         id="path19222" />
+    </g>
+    <g
+       aria-label="地"
+       id="text1601"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 137.76834,189.50159 q 0.875,0.21875 0.94792,0.32813 0,0.0365 -0.18229,0.18229 -0.21875,0.21875 -0.21875,0.25521 v 1.93229 l 1.13021,-0.47396 q 0.0365,-0.0365 0.21875,-0.36458 0.0729,-0.18229 0.10937,-0.18229 0.40104,0.14583 0.76563,0.47396 0,0.0365 -0.14584,0.18229 -0.18229,0.21875 -0.18229,0.25521 -0.0365,1.09374 -0.0729,1.74999 -0.0365,0.6198 -0.0365,0.98438 -0.21875,0.61979 -0.875,0.875 -0.0365,0 -0.0729,-0.0729 -0.0729,-0.36458 -0.72917,-0.65625 v -0.0729 q 0.94792,0.14583 1.02084,-0.14584 0.18229,-0.54687 0.21875,-2.8802 l -1.34896,0.58333 v 3.5 q -0.18229,0.18229 -0.54688,0.29166 v -3.57291 l -1.09375,0.51041 v 3.17188 q -0.18229,0.65625 0.72917,0.58333 1.13021,0 2.36979,0 0.65625,0.14584 0.94792,-1.71354 h 0.10937 q -0.10937,1.49479 0.36459,1.64063 -0.1823,0.58333 -1.38542,0.61979 -1.05729,0 -2.11458,0 -1.89584,0.10937 -1.56771,-0.83854 v -3.2448 l -0.80208,0.36459 -0.29167,0.25521 -0.29167,-0.25521 1.38542,-0.58334 v -2.55208 q 0.83854,0.32813 0.875,0.36459 0,0.10937 -0.21875,0.29166 -0.10938,0.10938 -0.10938,0.14584 v 1.49479 l 1.09375,-0.47396 z m -3.79166,0.25521 q 0.98437,0.4375 0.875,0.4375 0,0.0365 -0.10938,0.10938 -0.21875,0.18229 -0.21875,0.25521 v 2.0052 h 0.36459 l 0.32812,-0.47395 0.61979,0.58333 v 0.0729 h -1.3125 v 3.02604 l 1.27604,-0.4375 0.0365,0.14583 q -2.29687,1.20312 -2.625,1.38542 -0.21875,0.14583 -0.2552,0.14583 -0.32813,-0.21875 -0.47396,-0.58333 0,0 0.10937,-0.0365 0.58334,-0.10938 1.38542,-0.40104 v -3.24479 h -0.83854 l -0.36459,0.0729 -0.14583,-0.25521 h 1.34896 z"
+         id="path19225" />
+    </g>
+    <g
+       aria-label="金"
+       id="text1605"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 198.07808,189.36141 q 0.80208,0.36458 0.83854,0.40104 -0.0365,0.0365 -0.10938,0.0729 -0.10937,0.0365 -0.14583,0.0729 1.13021,2.11458 4.19271,2.91667 v 0.0729 q -0.76563,0.0365 -0.91146,0.4375 -2.40625,-1.05729 -3.46354,-3.28124 -2.00521,2.69791 -4.33854,3.86458 l -0.0365,-0.0729 q 2.73437,-2.00521 3.97396,-4.48437 z m 1.82291,3.09895 0.6198,0.58334 v 0.0729 h -1.89584 v 1.53125 h 1.89584 l 0.51041,-0.54687 0.76563,0.72917 -0.0365,0.0365 h -3.13542 v 2.44271 h 0.54688 q 0.54687,-0.83854 0.98437,-2.07812 0.21875,0.14583 0.36459,0.2552 0.47395,0.25521 0.47395,0.25521 -0.0365,0.0729 -0.14583,0.0729 -0.18229,0.0729 -0.32812,0.21875 -0.4375,0.51042 -1.09375,1.27604 h 1.89583 l 0.51041,-0.51042 0.72917,0.69271 -0.0365,0.0365 h -7.72916 l -0.40104,0.10938 -0.18229,-0.32813 h 3.82812 v -2.44271 h -2.33333 l -0.40104,0.0729 -0.14584,-0.29167 h 2.88021 v -1.53125 h -1.34896 l -0.40104,0.0729 -0.14583,-0.29167 h 3.35416 z m -3.90104,2.84375 q 0.91146,0.58334 1.09375,0.94792 0.21875,0.61979 -0.4375,0.72917 -0.10937,-0.0365 -0.14583,-0.25521 -0.10937,-0.76563 -0.54687,-1.34896 z"
+         id="path19228" />
+    </g>
+    <g
+       aria-label="水"
+       id="text1609"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 259.8097,189.12443 q 0.94792,0.40104 0.98438,0.4375 -0.0365,0.0729 -0.32813,0.29167 v 1.09375 q 0,0.10937 0.0729,0.36458 0.32812,1.13021 0.51041,1.45834 1.0573,-0.80209 1.9323,-2.04167 0.72916,0.69271 0.76562,0.72917 -0.0365,0.0729 -0.14583,0.0729 -0.32813,0 -0.61979,0.21875 -0.25521,0.18229 -1.85938,1.20313 1.05729,2.58854 3.39062,3.3177 v 0.10938 q -0.72916,-0.0729 -1.09375,0.36458 -0.0365,0.0729 -0.0365,0.0365 -2.1875,-1.53125 -2.91667,-5.14062 0,3.42708 0,4.41145 0.0365,0.98438 0,0.98438 -0.14583,0.54687 -0.98437,0.83854 -0.0365,0 -0.0365,-0.0365 0,-0.69271 -1.16667,-0.91146 v -0.10937 q 1.42188,0.18229 1.49479,0.0365 0.0365,-0.0365 0.0365,-1.05729 0,-0.47396 0,-1.34896 0.0365,-0.72917 0.0365,-2.55208 0,-1.0573 -0.0365,-1.64063 0,-0.65625 0,-1.13021 z m -1.13021,2.40625 q 0.65625,0.51042 0.72917,0.65625 0,0.0365 -0.10938,0.0729 -0.29166,0.18229 -0.29166,0.25521 -0.72917,2.95312 -3.20833,4.59375 l -0.0729,-0.14584 q 2.04167,-1.56771 2.625,-4.73958 h -1.60417 l -0.4375,0.0729 -0.18229,-0.29167 h 2.15104 q 0.32813,-0.4375 0.40104,-0.47396 z"
+         id="path19231" />
+    </g>
+    <g
+       aria-label="六"
+       id="text1613"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 175.3333,7.7803926 q 0.76562,0.3645832 1.38541,0.911458 0.47396,0.8749997 -0.32812,1.0937496 -0.10938,0 -0.18229,-0.2916665 -0.21875,-1.020833 -0.94792,-1.6406245 z m 4.48437,1.822916 0.875,0.7291664 -0.0365,0.07292 h -7.875 l -0.4375,0.109375 -0.21875,-0.364584 h 7.25521 z m -4.84896,1.7135414 q 0.875,0.4375 0.875,0.510416 -0.0365,0.03646 -0.10937,0.07292 -0.29167,0.109375 -0.4375,0.328125 -1.53125,2.406249 -3.24479,3.499999 l -0.0365,-0.109375 q 1.78646,-1.604167 2.95312,-4.302082 z m 2.04167,0.109375 q 2.36979,1.786457 3.13541,3.281249 0.0365,0.692708 -0.43749,0.874999 -0.10938,0 -0.29167,-0.4375 -0.18229,-1.057291 -2.51563,-3.572915 z"
+         id="path19234" />
+    </g>
+    <g
+       aria-label="四"
+       id="text1617"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 302.71855,11.900339 q 0.6198,0.364583 0.76563,0.546875 0,0.07292 -0.25521,0.21875 -0.10937,0.07292 -0.10937,0.07292 l 0.10937,6.416665 q -0.40104,0.255208 -0.69271,0.255208 V 18.60867 h -5.79687 v 0.65625 q -0.21875,0.109375 -0.61979,0.328125 0,-1.020833 0,-2.697916 0,-1.567708 0.0365,-3.354166 -0.0365,-0.838541 -0.0729,-1.312499 0,-0.182292 0,-0.255208 l 0.875,0.401041 h 5.43229 q 0,0.03646 0.14583,-0.21875 0.14584,-0.255208 0.18229,-0.255208 z m -2.625,0.692708 h -1.1302 q 0.0365,2.588541 -0.40104,3.499999 -0.32813,0.947916 -1.82292,1.932291 v 0.364583 h 5.79687 v -5.796873 h -1.85937 v 3.68229 q -0.0729,0.328125 0.51041,0.291667 0.25521,0.03646 0.51042,-0.109375 0.10938,-0.07292 0.14583,-0.07292 0.51042,0.291667 0.47396,0.546875 -0.18229,0.07292 -0.65625,0.109375 -0.58333,0 -0.875,-0.03646 -0.80208,0.03646 -0.69271,-0.546875 z m -1.74999,0 h -1.34896 q -0.29167,0.03646 -0.25521,0.291667 v 4.958331 q 1.05729,-0.765624 1.38542,-1.859374 0.32812,-0.984375 0.21875,-3.390624 z"
+         id="path19237" />
+    </g>
+    <g
+       aria-label="十二"
+       id="text1621"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 223.21125,96.369138 q 1.05729,0.364583 1.09375,0.4375 0,0.07292 -0.1823,0.145833 -0.21875,0.145834 -0.21875,0.255209 v 2.552082 h 2.55209 l 0.51041,-0.65625 0.91146,0.838542 v 0.03646 h -3.97396 v 4.666666 q -0.2552,0.18229 -0.72916,0.25521 l 0.0729,-4.921876 h -3.06249 l -0.4375,0.07292 -0.21875,-0.29166 h 3.71874 q 0,-2.260416 -0.0365,-2.661457 0,-0.583334 0,-0.729167 z"
+         id="path19240" />
+      <path
+         d="m 235.4977,97.499346 0.91146,0.802083 -0.0365,0.07292 h -6.23437 l -0.32813,0.07292 -0.25521,-0.328124 h 5.50521 z m 0.98438,5.359374 0.94791,0.875 -0.0365,0.0365 h -8.02083 l -0.51041,0.0729 -0.29167,-0.32812 h 7.40104 z"
+         id="path19242" />
+    </g>
+    <g
+       aria-label="二十"
+       id="text1625"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 161.58777,149.08406 0.91146,0.80209 -0.0365,0.0729 h -6.23437 l -0.32813,0.0729 -0.25521,-0.32813 h 5.50521 z m 0.98438,5.35938 0.94791,0.875 -0.0365,0.0365 h -8.02083 l -0.51041,0.0729 -0.29167,-0.32812 h 7.40104 z"
+         id="path19245" />
+      <path
+         d="m 167.96798,147.95385 q 1.05729,0.36459 1.09375,0.4375 0,0.0729 -0.18229,0.14584 -0.21875,0.14583 -0.21875,0.25521 v 2.55208 h 2.55208 l 0.51041,-0.65625 0.91146,0.83854 v 0.0365 h -3.97395 v 4.66666 q -0.25521,0.1823 -0.72917,0.25521 l 0.0729,-4.92187 h -3.0625 l -0.4375,0.0729 -0.21875,-0.29167 h 3.71875 q 0,-2.26042 -0.0365,-2.66146 0,-0.58333 0,-0.72917 z"
+         id="path19247" />
+    </g>
+    <g
+       aria-label="八"
+       id="text1629"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 219.07264,151.28953 q 0.94792,0.40104 0.98438,0.4375 0,0.0365 -0.21875,0.18229 -0.25521,0.1823 -0.25521,0.21875 0.51041,4.8125 3.7552,6.16146 v 0.10938 q -0.72916,-0.0729 -1.09375,0.32812 -2.66145,-1.93229 -3.17187,-7.4375 z m -1.64062,1.23959 q 1.05729,0.54687 0.98437,0.61979 0,0.0365 -0.10937,0.0729 -0.25521,0.0729 -0.25521,0.10938 -0.875,3.82812 -3.71875,5.61458 l -0.0729,-0.0729 q 2.91667,-2.58854 3.17188,-6.34374 z"
+         id="path19250" />
+    </g>
     <g
        id="g1640"
        transform="translate(-3.0159485,-1.2230046)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 263.13556,183.78468 15.2854,-15.28256 -15.2854,-15.28255 -15.28542,15.28255 z"
-         id="path3551-1"
-         sodipodi:nodetypes="ccccc" />
+         id="path3551-1" />
       <path
          id="path3549-3"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-         d="m 271.20344,168.50212 h -16.13576 c 0,-4.45491 3.61211,-8.06633 8.06788,-8.06633 4.45577,0 8.06788,3.61142 8.06788,8.06633 z"
-         sodipodi:nodetypes="ccsc" />
+         d="m 271.20344,168.50212 h -16.13576 c 0,-4.45491 3.61211,-8.06633 8.06788,-8.06633 4.45577,0 8.06788,3.61142 8.06788,8.06633 z" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 263.13555,153.21957 v 30.56509"

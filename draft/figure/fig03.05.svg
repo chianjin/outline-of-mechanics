@@ -5,10 +5,6 @@
    viewBox="0 0 44.486946 31.605978"
    version="1.1"
    id="svg2718"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig03.05.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,30 +25,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="4.3059448"
-     inkscape:cx="126.91756"
-     inkscape:cy="59.801045"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata2715">
     <rdf:RDF>
@@ -66,10 +38,8 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-73.0065, -87.0065)">
+     transform="translate(-73.006525,-87.006533)">
     <g
        id="g2567"
        transform="matrix(0.26458333,0,0,0.26458333,68.26912,-26.258207)">
@@ -230,27 +200,31 @@
            id="path8288-4" />
       </g>
     </g>
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1088"
-       cx="90.998192"
-       cy="89.123199"
-       r="1.984375" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631);stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1088"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+       d="m 92.982567,89.123199 a 1.984375,1.984375 0 0 1 -1.984375,1.984375 1.984375,1.984375 0 0 1 -1.984375,-1.984375 1.984375,1.984375 0 0 1 1.984375,-1.984375 1.984375,1.984375 0 0 1 1.984375,1.984375 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 90.998191,89.1232 v 12.22594"
        id="path1090" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic';stroke-width:0.264583"
-       x="110.17197"
-       y="118.31348"
-       id="text1108"><tspan
-         sodipodi:role="line"
-         id="tspan1106"
-         x="110.17197"
-         y="118.31348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01;stroke-width:0.264583">水平面</tspan></text>
+    <g
+       aria-label="水平面"
+       id="text1108"
+       style="font-style:italic;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic';stroke-width:0.264583">
+      <path
+         d="m 111.29093,116.27812 q 0.2508,0.10611 0.26045,0.11575 -0.01,0.0193 -0.0868,0.0772 v 0.28939 q 0,0.0289 0.0193,0.0965 0.0868,0.29904 0.13504,0.38585 0.27975,-0.21221 0.51126,-0.54019 0.19292,0.18328 0.20257,0.19293 -0.01,0.0193 -0.0386,0.0193 -0.0868,0 -0.16398,0.0579 -0.0675,0.0482 -0.49196,0.31832 0.27974,0.68489 0.8971,0.87781 v 0.0289 q -0.19293,-0.0193 -0.28939,0.0965 -0.01,0.0193 -0.01,0.01 -0.57877,-0.40514 -0.7717,-1.36012 0,0.90675 0,1.1672 0.01,0.26044 0,0.26044 -0.0386,0.1447 -0.26044,0.22187 -0.01,0 -0.01,-0.01 0,-0.18328 -0.30868,-0.24115 v -0.0289 q 0.3762,0.0482 0.3955,0.01 0.01,-0.01 0.01,-0.27974 0,-0.1254 0,-0.35691 0.01,-0.19292 0.01,-0.67524 0,-0.27974 -0.01,-0.43408 0,-0.17363 0,-0.29903 z m -0.29903,0.63665 q 0.17363,0.13505 0.19292,0.17363 0,0.01 -0.0289,0.0193 -0.0772,0.0482 -0.0772,0.0675 -0.19292,0.78135 -0.84887,1.21543 l -0.0193,-0.0386 q 0.54019,-0.41479 0.69453,-1.25401 h -0.42443 l -0.11576,0.0193 -0.0482,-0.0772 h 0.56913 q 0.0868,-0.11575 0.10611,-0.1254 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path9883" />
+      <path
+         d="m 114.57066,116.3167 0.20257,0.19293 v 0.0193 h -0.88746 v 0.96463 h 0.78135 l 0.1254,-0.13505 0.21222,0.18328 -0.01,0.0193 h -1.10932 l 0.01,0.98392 q -0.0579,0.0386 -0.18328,0.0675 0,-0.45337 0.01,-1.05144 h -0.87781 l -0.10611,0.0193 -0.0579,-0.0868 h 1.0418 v -0.96463 h -0.70418 l -0.10611,0.0193 -0.0579,-0.0868 h 1.59164 z m -0.18328,0.29904 q 0.0193,0.0289 0.0482,0.0386 0.19292,0.13505 0.16399,0.1254 -0.01,0.01 -0.0289,0.01 -0.0579,0.01 -0.0868,0.0482 -0.22186,0.35691 -0.46302,0.60771 l -0.0193,-0.0193 q 0.2508,-0.41479 0.38585,-0.81028 z m -1.31189,0.0482 q 0.27009,0.22186 0.41479,0.51125 0.0289,0.19292 -0.13505,0.23151 -0.0289,0 -0.0482,-0.10611 -0.0482,-0.35691 -0.2508,-0.62701 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path9885" />
+      <path
+         d="m 117.28125,116.39387 0.21222,0.16399 -0.01,0.0193 h -1.03214 q -0.18328,0.30868 -0.2701,0.41479 h 0.83922 q 0.01,0 0.0675,-0.0772 0.0289,-0.0386 0.0386,-0.0386 0.0868,0.0482 0.20257,0.14469 0,0.01 -0.0579,0.0579 -0.0675,0.0579 -0.0579,0.0579 0,0.0482 0,0.46302 0.0193,0.60772 0.0289,0.87781 -0.0579,0.0386 -0.17363,0.0675 v -0.23151 H 115.612 v 0.14469 q -0.0675,0.0579 -0.16398,0.0772 l 0.01,-1.6688 0.21222,0.1254 h 0.43408 q 0.11576,-0.27009 0.13505,-0.41479 h -0.83923 l -0.1061,0.0193 -0.0482,-0.0772 h 1.91961 z m -1.30224,0.65595 h -0.27974 q -0.0868,0.01 -0.0868,0.0579 v 1.1479 h 0.36656 z m 0.55948,0 h -0.41479 v 0.34726 h 0.41479 z m 0.53055,0 h -0.38585 v 1.20578 h 0.38585 z m -0.94534,0.40514 v 0.35691 h 0.41479 v -0.35691 z m 0.41479,0.40514 h -0.41479 v 0.3955 h 0.41479 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path9887" />
+    </g>
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-019ebbd6-87ec-4f9e-9135-995e2e305233"

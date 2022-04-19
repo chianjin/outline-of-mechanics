@@ -7,13 +7,9 @@
    width="126.21165"
    height="83.892494"
    viewBox="0 0 126.21165 83.892495"
-   sodipodi:docname="fig10.07.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:ns3="http://www.iki.fi/pav/software/textext/">
+   xmlns:ns27="http://www.iki.fi/pav/software/textext/">
   <defs
      id="defs828">
     <defs
@@ -55,41 +51,7 @@
       </g>
     </defs>
   </defs>
-  <sodipodi:namedview
-     id="namedview826"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="5.3212689"
-     inkscape:cx="99.694266"
-     inkscape:cy="51.021665"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g830"
-     inkscape:snap-global="false"
-     inkscape:snap-center="true"
-     inkscape:snap-object-midpoints="true"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="55.45398,41.237456"
-       orientation="1,0"
-       id="guide3096" />
-    <sodipodi:guide
-       position="55.45398,41.237456"
-       orientation="0,-1"
-       id="guide3098" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g830"
      transform="translate(255.03044,-291.28787)">
     <g
@@ -129,75 +91,57 @@
          id="id-65235b97-8d69-43f7-844b-e8b0c177340e-3" />
     </g>
     <g
-       id="g3272"
-       inkscape:transform-center-x="15.029589"
-       inkscape:transform-center-y="-9.1140212">
+       id="g3272">
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m -236.93105,333.40275 c 1.09654,-3.45138 3.69845,-8.85233 2.31417,-13.04652 -1.74665,-5.2921 -11.9993,-5.91852 -12.14517,-11.48949 -0.19756,-7.54466 8.65339,-13.47519 15.6111,-16.39944 4.38744,-1.844 9.50496,0.71403 14.27614,0.20377 3.60923,-0.38818 7.41052,1.38472 8.47474,5.04394 2.15274,4.72614 6.37799,8.16416 8.36059,13.00862 2.16405,3.50211 4.56317,7.30807 8.35421,9.19959 3.06051,0.83081 7.32726,0.4217 8.58015,4.14152 1.96758,4.96452 1.46351,11.29301 -2.17977,15.3689 -2.77134,2.1105 -6.30511,3.0693 -8.69024,5.75155 -2.65821,2.3941 -5.48168,5.04713 -6.17302,8.72078 -0.65634,3.45537 -5.57338,4.70133 -7.86129,2.06789 -5.72404,-22.03095 -31.26724,-13.62721 -28.92161,-22.57111 z"
-         id="path981-6"
-         sodipodi:nodetypes="caaaaaaaaaaacc" />
-      <circle
-         style="fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path981-6" />
+      <path
          id="path2742"
-         cx="-223.5369"
-         cy="301.056"
-         r="2" />
-      <circle
-         style="fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+         d="m -221.5369,301.056 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
+      <path
          id="path2742-2"
-         cx="-230.02034"
-         cy="329.80856"
-         r="2" />
+         style="stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+         d="m -228.02034,329.80856 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="m -228.9382,357.04152 c -1.32104,-3.37184 -2.69997,-9.20611 -6.41609,-11.59314 -4.68889,-3.01188 -13.04881,2.95646 -16.66959,-1.27991 -4.90357,-5.73725 -1.7609,-15.91733 1.80362,-22.56979 2.24773,-4.19495 7.83417,-5.42953 11.21976,-8.82987 2.5597,-2.57394 6.62922,-3.58981 9.75986,-1.4169 4.64807,2.31649 10.09533,2.32737 14.6857,4.84291 3.88622,1.3584 8.14636,2.80486 12.2826,1.88761 2.90086,-1.28141 5.95822,-4.28558 9.2736,-2.18438 4.6543,2.61828 8.24706,7.85239 7.98267,13.31283 -0.82436,3.38452 -2.96617,6.35428 -3.1305,9.93985 -0.55791,3.53363 -1.0812,7.37247 0.6946,10.66188 1.66555,3.09779 -1.37016,7.16155 -4.80569,6.55602 -18.31772,-13.51253 -32.87188,9.09841 -36.68054,0.67289 z"
-       id="path981-6-3"
-       sodipodi:nodetypes="caaaaaaaaaaacc" />
-    <circle
-       style="fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path981-6-3" />
+    <path
        id="path2742-8"
-       cx="-389.26489"
-       cy="100.90878"
-       r="2"
-       transform="rotate(-39.020259)" />
-    <circle
-       style="fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       transform="rotate(-39.020259)"
+       d="m -387.26489,100.90878 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-1.999997 2,2 0 0 1 2,1.999997 z" />
+    <path
        id="path2742-2-4"
-       cx="-395.74832"
-       cy="129.66135"
-       r="2"
-       transform="rotate(-39.020259)" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+       style="stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       transform="rotate(-39.020259)"
+       d="m -393.74832,129.66135 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
+    <path
        id="path4430"
-       cx="-199.57646"
-       cy="333.9429"
-       r="40.987659" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3, 1"
+       d="m -158.5888,333.9429 a 40.987659,40.987659 0 0 1 -40.98766,40.98766 40.987659,40.987659 0 0 1 -40.98766,-40.98766 40.987659,40.987659 0 0 1 40.98766,-40.98766 40.987659,40.987659 0 0 1 40.98766,40.98766 z" />
+    <path
        id="path4578"
-       cx="-199.57646"
-       cy="333.9429"
-       r="30.5" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3, 1"
+       d="m -169.07646,333.9429 a 30.5,30.5 0 0 1 -30.5,30.5 30.5,30.5 0 0 1 -30.5,-30.5 30.5,30.5 0 0 1 30.5,-30.5 30.5,30.5 0 0 1 30.5,30.5 z" />
+    <path
        id="path4707"
-       cx="-199.57646"
-       cy="333.9429"
-       r="2" />
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+       d="m -197.57646,333.9429 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
     <g
        transform="matrix(0.933331,0,0,0.933331,-156.26409,302.44008)"
-       ns3:version="1.8.1"
-       ns3:texconverter="xelatex"
-       ns3:pdfconverter="inkscape"
-       ns3:text="\u56fa\u5b9a\u8f74"
-       ns3:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
-       ns3:scale="0.7"
-       ns3:alignment="middle center"
-       ns3:stroke-to-path="0"
-       ns3:jacobian_sqrt="0.933331"
+       ns27:version="1.8.1"
+       ns27:texconverter="xelatex"
+       ns27:pdfconverter="inkscape"
+       ns27:text="\u56fa\u5b9a\u8f74"
+       ns27:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
+       ns27:scale="0.7"
+       ns27:alignment="middle center"
+       ns27:stroke-to-path="0"
+       ns27:jacobian_sqrt="0.933331"
        id="g4952">
       <defs
          id="id-6fa20e2f-e555-439b-9d4a-d5cd9b453244">

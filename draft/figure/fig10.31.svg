@@ -7,13 +7,9 @@
    width="178.93103"
    height="133.03554"
    viewBox="0 0 178.93103 133.03554"
-   sodipodi:docname="fig10.31.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:ns4="http://www.iki.fi/pav/software/textext/">
+   xmlns:ns27="http://www.iki.fi/pav/software/textext/">
   <defs
      id="defs9183">
     <defs
@@ -165,60 +161,7 @@
       </g>
     </defs>
   </defs>
-  <sodipodi:namedview
-     id="namedview9181"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-global="false"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="5.8104775"
-     inkscape:cx="89.493506"
-     inkscape:cy="66.517769"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g9185">
-    <sodipodi:guide
-       position="103.5686,185.5687"
-       orientation="-166.92246,95.89859"
-       id="guide10224" />
-    <sodipodi:guide
-       position="112.16505,364.42191"
-       orientation="0,-1"
-       id="guide11743" />
-    <sodipodi:guide
-       position="-369.42199,49.871352"
-       orientation="1,0"
-       id="guide15791" />
-    <sodipodi:guide
-       position="-323.42199,49.871352"
-       orientation="1,0"
-       id="guide15793" />
-    <sodipodi:guide
-       position="27.999995,109.7857"
-       orientation="0,-1"
-       id="guide17866" />
-    <sodipodi:guide
-       position="152.01863,97.020272"
-       orientation="1,0"
-       id="guide17950" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g9185"
      transform="translate(-172.85598,-279.64432)">
     <g
@@ -226,24 +169,13 @@
        transform="matrix(0.93267726,0.93267715,-0.93267726,0.93267715,147.66479,-365.19513)"
        style="stroke-width:0.758148">
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.758148;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path7294-0"
-         sodipodi:type="arc"
-         sodipodi:cx="460.00076"
-         sodipodi:cy="269.99942"
-         sodipodi:rx="9.7507715"
-         sodipodi:ry="9.7498226"
-         sodipodi:start="2.043212"
-         sodipodi:end="1.0988471"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
+         style="fill:none;stroke:#000000;stroke-linecap:square"
          d="m 455.56378,278.68136 a 9.7507715,9.7498226 0 0 1 -5.04277,-10.96467 9.7507715,9.7498226 0 0 1 9.48203,-7.46709 9.7507715,9.7498226 0 0 1 9.47854,7.47151 9.7507715,9.7498226 0 0 1 -5.04789,10.96232" />
-      <circle
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.379072;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      <path
          id="path7874-0"
-         cx="460.00082"
-         cy="269.9996"
-         r="1" />
+         style="fill:none;stroke:#000000;stroke-width:0.379072;stroke-linecap:square"
+         d="m 461.00082,269.9996 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
       <path
          id="path7868-4"
          style="fill:none;stroke:#000000;stroke-width:0.758148;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -253,12 +185,10 @@
     <g
        id="g17433"
        transform="translate(-8.2899368,-63.477598)">
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      <path
          id="path15400-5"
-         cx="209.14592"
-         cy="366.62192"
-         r="23" />
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 232.14592,366.62192 a 23,23 0 0 1 -23,23 23,23 0 0 1 -23,-23 23,23 0 0 1 23,-23 23,23 0 0 1 23,23 z" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -469,8 +399,7 @@
         <path
            style="fill:none;stroke:#000000;stroke-width:0.999996px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
            d="m 190.17678,526.44482 h 51.03554"
-           id="path8288-67-1-9"
-           sodipodi:nodetypes="cc" />
+           id="path8288-67-1-9" />
       </g>
       <g
          id="g8290-4-5-8"
@@ -522,21 +451,17 @@
         <path
            style="fill:none;stroke:#000000;stroke-width:0.999996px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
            d="m 190.17678,526.44482 h 56.03554"
-           id="path8288-67-1-7"
-           sodipodi:nodetypes="cc" />
+           id="path8288-67-1-7" />
       </g>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 200.53459,302.59869 124.34583,0.29547"
        id="path17868" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="rect17974"
-       width="20"
-       height="15"
-       x="327.73538"
-       y="371.66263" />
+       style="fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:bevel"
+       d="m 327.73538,371.66263 h 20 v 15 h -20 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 337.73539,315.63551 v 56.02712"
@@ -660,18 +585,14 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 200.85598,302.66925 -15.83827,17.15287"
-       id="path19412"
-       sodipodi:nodetypes="cc" />
+       id="path19412" />
     <g
        id="g19718"
        transform="rotate(-45.403225,169.73765,279.05869)">
-      <rect
-         style="fill:#ffffff;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      <path
          id="rect19596"
-         width="6.858664"
-         height="7.5247211"
-         x="159.38139"
-         y="313.88181" />
+         style="fill:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 159.38139,313.88181 h 6.85867 v 7.52472 h -6.85867 z" />
       <g
          style="fill:#000000;fill-opacity:1"
          id="id-64d9a1cd-1f3b-40e7-bda1-155274c7653a"
@@ -693,24 +614,21 @@
     <g
        id="g20627"
        transform="rotate(-47.935671,350.35897,309.42828)">
-      <rect
-         style="fill:#ffffff;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      <path
          id="rect20533"
-         width="5.3978577"
-         height="5.3978577"
-         x="333.61688"
-         y="291.29678" />
+         style="fill:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 333.61688,291.29678 h 5.39786 v 5.39786 h -5.39786 z" />
       <g
          transform="matrix(0.933331,0,0,0.933331,334.53712,291.83737)"
-         ns4:version="1.8.1"
-         ns4:texconverter="xelatex"
-         ns4:pdfconverter="inkscape"
-         ns4:text="$r$"
-         ns4:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
-         ns4:scale="0.7"
-         ns4:alignment="middle center"
-         ns4:stroke-to-path="0"
-         ns4:jacobian_sqrt="0.933331"
+         ns27:version="1.8.1"
+         ns27:texconverter="xelatex"
+         ns27:pdfconverter="inkscape"
+         ns27:text="$r$"
+         ns27:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
+         ns27:scale="0.7"
+         ns27:alignment="middle center"
+         ns27:stroke-to-path="0"
+         ns27:jacobian_sqrt="0.933331"
          id="g20438">
         <defs
            id="id-ce56a83f-0fc1-487f-aabe-bfeceb989c61">

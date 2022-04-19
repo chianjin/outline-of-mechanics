@@ -4,11 +4,7 @@
    id="svg9497"
    width="109.5228"
    height="119.09818"
-   viewBox="0 0 109.5228 119.09818"
-   sodipodi:docname="fig01.28.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   viewBox="0 0 109.52281 119.09817"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -33,9 +29,7 @@
        id="marker10134"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -47,9 +41,7 @@
        id="Arrow1Mstart"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.4,0,0,0.4,4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -61,9 +53,7 @@
        id="Arrow1Mend"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -75,9 +65,7 @@
        id="Arrow1Lstart"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.8,0,0,0.8,10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -85,48 +73,18 @@
          id="path855" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview9499"
-     showgrid="false"
-     inkscape:object-paths="true"
-     inkscape:zoom="5.1694069"
-     inkscape:cx="54.648436"
-     inkscape:cy="60.258363"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g9505"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g9505"
-     transform="translate(-286.84426,-430.03992)">
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10134)"
+     transform="translate(-286.84426,-430.03993)">
+    <path
        id="path9509"
-       cx="286.4317"
-       cy="-519.31073"
-       rx="54.500004"
-       ry="54.5"
-       transform="rotate(115.95089)" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;marker-end:url(#marker10134)"
+       transform="rotate(115.95089)"
+       d="m 340.93171,-519.31073 a 54.500004,54.5 0 0 1 -54.50001,54.5 54.500004,54.5 0 0 1 -54.5,-54.5 54.500004,54.5 0 0 1 54.5,-54.5 54.500004,54.5 0 0 1 54.50001,54.5 z" />
+    <path
        id="path10178"
-       cx="342.00027"
-       cy="539.27118"
-       r="1" />
+       style="stroke-width:0.999999;stroke-linecap:round"
+       d="m 343.00027,539.27118 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-55fb42f3-0d5f-4133-a44e-1940743160ce"

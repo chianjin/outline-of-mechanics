@@ -5,30 +5,24 @@
    viewBox="0 0 38.906612 25.469316"
    version="1.1"
    id="svg3451"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig01.13.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:ns15="http://www.iki.fi/pav/software/textext/">
+   xmlns:ns27="http://www.iki.fi/pav/software/textext/">
   <defs
      id="defs3445">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path962" />
     </marker>
     <marker
@@ -36,9 +30,7 @@
        id="marker1286"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -50,9 +42,7 @@
        id="marker1276"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -64,9 +54,7 @@
        id="marker1266"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -215,27 +203,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="8.0301692"
-     inkscape:cx="73.535187"
-     inkscape:cy="48.130991"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0"
-     inkscape:snap-global="false" />
   <metadata
      id="metadata3448">
     <rdf:RDF>
@@ -249,30 +216,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-61.554753,-78.202824)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 62.08299,78.493215 c 4.454898,2.704759 5.402448,4.067892 14.359092,3.18207 7.23921,-0.715965 9.777485,0.340307 13.006712,2.466104 3.229226,2.125797 5.901939,8.202478 10.978146,11.296348"
-       id="path1944"
-       sodipodi:nodetypes="cszc" />
+       id="path1944" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 64.946853,102.39852 88.996547,84.946811"
-       id="path1946"
-       sodipodi:nodetypes="cc" />
+       id="path1946" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 64.946853,102.39852 75.575903,82.542402"
-       id="path1948"
-       sodipodi:nodetypes="cc" />
+       id="path1948" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 76.048534,81.710848 12.78971,2.509187"
-       id="path1950"
-       sodipodi:nodetypes="cc" />
+       id="path1950" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-7fb74ecd-441b-4a42-a8bc-0a0bf984e277"
@@ -546,16 +507,16 @@
     </g>
     <g
        transform="matrix(0.24199907,0.04917607,-0.04917607,0.24199907,79.83501,83.785784)"
-       ns15:version="1.8.1"
-       ns15:texconverter="xelatex"
-       ns15:pdfconverter="inkscape"
-       ns15:text="$\\Delta r$"
-       ns15:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
-       ns15:scale="0.7"
-       ns15:alignment="middle center"
-       ns15:stroke-to-path="0"
-       ns15:inkscapeversion="1.0.1"
-       ns15:jacobian_sqrt="0.246945"
+       ns27:version="1.8.1"
+       ns27:texconverter="xelatex"
+       ns27:pdfconverter="inkscape"
+       ns27:text="$\\Delta r$"
+       ns27:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
+       ns27:scale="0.7"
+       ns27:alignment="middle center"
+       ns27:stroke-to-path="0"
+       ns27:inkscapeversion="1.0.1"
+       ns27:jacobian_sqrt="0.246945"
        id="g5346">
       <defs
          id="id-c80c4e44-bad6-46ea-9539-dd314a77e89d">

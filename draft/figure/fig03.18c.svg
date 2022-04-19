@@ -5,38 +5,14 @@
    viewBox="0 0 26.722916 16.057142"
    version="1.1"
    id="svg2152"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig03.18c.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:ns1="http://www.iki.fi/pav/software/textext/">
+   xmlns:ns27="http://www.iki.fi/pav/software/textext/">
   <defs
      id="defs2146" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="8.848477"
-     inkscape:cx="48.48292"
-     inkscape:cy="30.400712"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="728"
-     inkscape:window-x="49"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata2149">
     <rdf:RDF>
@@ -50,10 +26,8 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-70.5493, -129.555)">
+     transform="translate(-70.549257,-129.55476)">
     <g
        id="g325-3"
        transform="matrix(0.26458333,0,0,0.26458333,5.4990738,64.474845)">
@@ -165,44 +139,32 @@
     <g
        id="g1364"
        transform="matrix(0.26458333,0,0,0.26458333,9.3102298,43.535014)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+      <path
          id="rect184-8-8"
-         width="26.26358"
-         height="15.888492"
-         x="7.3007913"
-         y="436.53574"
-         transform="rotate(-37)" />
+         style="fill:none;stroke:#000000;stroke-linecap:square"
+         transform="rotate(-37)"
+         d="M 7.3007913,436.53574 H 33.564372 v 15.88849 H 7.3007913 Z" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 318.99454,382.09011 v -55.97325 l -74.279,55.97325"
          id="path443" />
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3027"
-       sodipodi:type="arc"
-       sodipodi:cx="74.057884"
-       sodipodi:cy="144.62968"
-       sodipodi:rx="5.2916665"
-       sodipodi:ry="5.2916665"
-       sodipodi:start="5.6411713"
-       sodipodi:end="6.2811208"
-       sodipodi:arc-type="arc"
-       d="m 78.295934,141.46098 a 5.2916665,5.2916665 0 0 1 1.053605,3.15778"
-       sodipodi:open="true" />
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+       d="m 78.295934,141.46098 a 5.2916665,5.2916665 0 0 1 1.053605,3.15778" />
     <g
        transform="matrix(0.246945,0,0,0.246945,80.292271,142.00756)"
-       ns1:version="1.8.1"
-       ns1:texconverter="xelatex"
-       ns1:pdfconverter="inkscape"
-       ns1:text="$\\alpha$"
-       ns1:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
-       ns1:scale="0.7"
-       ns1:alignment="middle center"
-       ns1:stroke-to-path="0"
-       ns1:inkscapeversion="1.0.1"
-       ns1:jacobian_sqrt="0.246945"
+       ns27:version="1.8.1"
+       ns27:texconverter="xelatex"
+       ns27:pdfconverter="inkscape"
+       ns27:text="$\\alpha$"
+       ns27:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
+       ns27:scale="0.7"
+       ns27:alignment="middle center"
+       ns27:stroke-to-path="0"
+       ns27:inkscapeversion="1.0.1"
+       ns27:jacobian_sqrt="0.246945"
        id="g2513">
       <defs
          id="id-d2891f0c-5175-47de-9f29-b5b3e0e281f9">

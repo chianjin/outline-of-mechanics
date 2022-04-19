@@ -5,10 +5,6 @@
    viewBox="0 0 35.846313 51.273144"
    version="1.1"
    id="svg7841"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig01.21.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,27 +25,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9888896"
-     inkscape:cx="67.813358"
-     inkscape:cy="96.894133"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0"
-     inkscape:snap-global="true" />
   <metadata
      id="metadata7838">
     <rdf:RDF>
@@ -63,32 +38,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-82.876258,-101.12393)">
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+    <path
        id="path6790"
-       cx="97.735321"
-       cy="124.42505"
-       rx="14.792917"
-       ry="7.1714139" />
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+       d="m 112.52824,124.42505 a 14.792917,7.1714139 0 0 1 -14.792919,7.17141 14.792917,7.1714139 0 0 1 -14.792917,-7.17141 14.792917,7.1714139 0 0 1 14.792917,-7.17142 14.792917,7.1714139 0 0 1 14.792919,7.17142 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 97.744557,124.45052 V 102.11765"
-       id="path6804"
-       sodipodi:nodetypes="cc" />
+       id="path6804" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 97.744557,150.78578 7.960903,-19.56626"
-       id="path6852"
-       sodipodi:nodetypes="cc" />
+       id="path6852" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 105.98029,130.41168 11.79687,-3.81913"
-       id="path6906"
-       sodipodi:nodetypes="cc" />
+       id="path6906" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.056, 0.528;stroke-dashoffset:0;stroke-opacity:1"
        d="m 97.744557,124.45052 8.235733,5.96116"

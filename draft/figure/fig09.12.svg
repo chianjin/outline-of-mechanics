@@ -5,12 +5,8 @@
    version="1.1"
    id="svg6052"
    width="106.36254"
-   height="82.524208"
-   viewBox="0 0 106.36254 82.524209"
-   sodipodi:docname="fig09.12.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   height="83.36132"
+   viewBox="0 0 106.36254 83.361321"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -20,9 +16,7 @@
        id="Arrow2Sstart"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Sstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.3,0,0,0.3,-0.69,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
@@ -34,9 +28,7 @@
        id="Arrow2Send"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.3,0,0,-0.3,0.69,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
@@ -73,59 +65,71 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
-  <sodipodi:namedview
-     id="namedview6054"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="9.8979683"
-     inkscape:cx="53.192734"
-     inkscape:cy="39.452541"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g6058" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g6058"
-     transform="translate(-277.56651,-430.18923)">
+     transform="translate(-277.56651,-429.35212)">
     <path
-       style="fill:none;stroke:#000000;marker-start:url(#Arrow2Sstart)"
        id="path6550"
-       sodipodi:type="arc"
-       sodipodi:cx="278.25085"
-       sodipodi:cy="505.45181"
-       sodipodi:rx="90"
-       sodipodi:ry="90"
-       sodipodi:start="5.3097864"
-       sodipodi:end="6.1872735"
-       sodipodi:arc-type="arc"
-       d="m 328.87519,431.0396 a 90,90 0 0 1 38.96202,65.79338"
-       sodipodi:open="true" />
-    <circle
-       style="fill:#ffffff;stroke:none"
+       style="fill:none;stroke:#000000;marker-start:url(#marker2622)"
+       d="m 328.87519,431.0396 a 90,90 0 0 1 38.96202,65.79338" />
+    <path
        id="path7038"
-       cx="356.89142"
-       cy="461.10474"
-       r="6" />
-    <rect
-       style="fill:#ffffff;stroke:#000000"
+       style="fill:#ffffff"
+       d="m 362.89142,461.10474 a 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 z" />
+    <path
        id="rect6175"
-       width="120"
-       height="3"
-       x="-16.037407"
-       y="576.75635"
-       transform="rotate(-30.42552)" />
+       style="fill:#ffffff;stroke:#000000"
+       transform="rotate(-30.42552)"
+       d="M -16.037407,576.75635 H 103.96259 v 3 H -16.037407 Z" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-4bd7064c-85ff-4357-918c-636306ff5e5c"

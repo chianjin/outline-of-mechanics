@@ -5,10 +5,6 @@
    width="242.29691"
    height="83.694763"
    viewBox="0 0 242.29691 83.694764"
-   sodipodi:docname="fig06.17.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -33,9 +29,7 @@
        id="Arrow1Send-3"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -81,37 +75,9 @@
       </g>
     </defs>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview2203"
-     showgrid="false"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:zoom="3.0567212"
-     inkscape:cx="183.69356"
-     inkscape:cy="42.038508"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g2209"
-     inkscape:pagecheckerboard="0"
-     inkscape:snap-global="false" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g2209"
-     transform="translate(-99.05009,-74.416474)">
+     transform="translate(-99.05009,-74.416475)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 106.17937,78.258126 v 71.572754 h 139.6062"
@@ -120,16 +86,11 @@
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 106.17937,78.258126 c 31.85381,48.370604 77.47161,71.572754 139.6062,71.572754"
        id="path2776" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+    <path
        id="rect877-9"
-       width="9.5"
-       height="5.5"
-       x="-134.45482"
-       y="42.174347"
-       inkscape:transform-center-x="-4.9509"
-       inkscape:transform-center-y="2.2705137"
-       transform="rotate(-124.94792)" />
+       style="fill:none;stroke:#000000"
+       transform="rotate(-124.94792)"
+       d="m -134.45482,42.174347 h 9.5 v 5.5 h -9.5 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 329.96798,146.86924 v 5.92328"

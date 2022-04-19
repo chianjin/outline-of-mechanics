@@ -5,10 +5,6 @@
    viewBox="0 0 50.427566 27.827375"
    version="1.1"
    id="svg11677"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig02.14b.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,26 +25,6 @@
          id="path2434" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.7468146"
-     inkscape:cx="94.880595"
-     inkscape:cy="52.711442"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata11674">
     <rdf:RDF>
@@ -62,8 +38,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-68.6262,-83.5544)">
     <g
@@ -114,17 +88,8 @@
            id="path8288-7" />
       </g>
       <path
-         style="fill:none;stroke:#000000;stroke-linecap:square"
          id="path10051-2"
-         sodipodi:type="arc"
-         sodipodi:cx="185.30849"
-         sodipodi:cy="352.81262"
-         sodipodi:rx="27.916382"
-         sodipodi:ry="20.902216"
-         sodipodi:start="0.87266463"
-         sodipodi:end="2.268928"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
+         style="fill:none;stroke:#000000;stroke-linecap:square"
          d="m 203.25279,368.82465 a 27.916382,20.902216 0 0 1 -35.88861,0" />
     </g>
     <g
@@ -175,17 +140,8 @@
            id="path8288-2" />
       </g>
       <path
-         style="fill:none;stroke:#000000;stroke-linecap:square"
          id="path10051-4"
-         sodipodi:type="arc"
-         sodipodi:cx="253.11455"
-         sodipodi:cy="352.81256"
-         sodipodi:rx="27.916382"
-         sodipodi:ry="20.902216"
-         sodipodi:start="0.87266463"
-         sodipodi:end="2.268928"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
+         style="fill:none;stroke:#000000;stroke-linecap:square"
          d="m 271.05885,368.82459 a 27.916382,20.902216 0 0 1 -35.88861,0" />
     </g>
     <g
@@ -236,29 +192,18 @@
            id="path8288-27" />
       </g>
       <path
-         style="fill:none;stroke:#000000;stroke-linecap:square"
          id="path10051-3"
-         sodipodi:type="arc"
-         sodipodi:cx="324.07928"
-         sodipodi:cy="352.81259"
-         sodipodi:rx="27.916382"
-         sodipodi:ry="20.902216"
-         sodipodi:start="0.87266463"
-         sodipodi:end="2.268928"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
+         style="fill:none;stroke:#000000;stroke-linecap:square"
          d="m 342.02359,368.82462 a 27.916382,20.902216 0 0 1 -35.88861,0" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker2649)"
        d="M 76.292664,108.20052 85.472788,97.562707 94.652915,86.924899"
-       id="path10980"
-       sodipodi:nodetypes="ccc" />
+       id="path10980" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker2649)"
        d="m 94.652915,86.924899 9.179605,10.637805 9.17961,10.637806"
-       id="path10982"
-       sodipodi:nodetypes="ccc" />
+       id="path10982" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-c5d8072b-28c5-477f-ac14-df751f0a21e3"

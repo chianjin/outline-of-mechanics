@@ -4,13 +4,9 @@
 <svg
    version="1.1"
    id="svg3594"
-   width="193.90604"
+   width="194.74385"
    height="166.37431"
-   viewBox="0 0 193.90604 166.37431"
-   sodipodi:docname="fig09.07.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   viewBox="0 0 194.74385 166.37431"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -20,9 +16,7 @@
        id="Arrow2Mend"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
@@ -193,50 +187,64 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
-  <sodipodi:namedview
-     id="namedview3596"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:object-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="3.2916887"
-     inkscape:cx="85.214619"
-     inkscape:cy="73.974188"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g3600"
-     inkscape:snap-global="false">
-    <sodipodi:guide
-       position="23.93953,81.156831"
-       orientation="0,128.62424"
-       id="guide3840" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g3600"
-     transform="translate(-153.781, -323.377)">
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
-       id="path3723"
-       cx="242.03267"
-       cy="408.59497"
-       rx="64.312119"
-       ry="45.038769" />
+     transform="translate(-153.78102,-323.37748)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       id="path3723"
+       style="fill:none;stroke:#000000;stroke-linecap:round"
+       d="m 306.34479,408.59497 a 64.312119,45.038769 0 0 1 -64.31212,45.03877 64.312119,45.038769 0 0 1 -64.31212,-45.03877 64.312119,45.038769 0 0 1 64.31212,-45.03877 64.312119,45.038769 0 0 1 64.31212,45.03877 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="M 153.78102,408.59448 H 347.02487"
        id="path3842" />
     <path
@@ -252,17 +260,8 @@
        d="m 269.57583,367.89572 v 40.69925"
        id="path4684" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4788"
-       sodipodi:type="arc"
-       sodipodi:cx="269.57584"
-       sodipodi:cy="408.59497"
-       sodipodi:rx="20"
-       sodipodi:ry="20"
-       sodipodi:start="5.6092024"
-       sodipodi:end="6.2736051"
-       sodipodi:open="true"
-       sodipodi:arc-type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round"
        d="m 285.20268,396.11291 a 20,20 0 0 1 4.37224,12.29046" />
     <g
        id="g14729"

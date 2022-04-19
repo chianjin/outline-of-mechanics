@@ -5,10 +5,6 @@
    width="276.54117"
    height="177.9352"
    viewBox="0 0 276.54117 177.9352"
-   sodipodi:docname="fig03.03.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -33,9 +29,7 @@
        id="marker2394"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -91,35 +85,7 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview835"
-     showgrid="false"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:zoom="17.714402"
-     inkscape:cx="167.80132"
-     inkscape:cy="155.26914"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g841"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g841"
      transform="translate(-67.258546,-362.34197)">
     <path
@@ -407,13 +373,10 @@
        style="fill:none;stroke:#000000;stroke-width:0.500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="M 206.96865,511.23655 V 496.96339"
        id="path1777" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="rect1362-7"
-       width="24.351593"
-       height="24.215471"
-       x="194.79286"
-       y="472.74796" />
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 194.79286,472.74796 h 24.35159 v 24.21547 h -24.35159 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker2622)"
        d="M 219.14445,468.22469 H 194.79286"
@@ -663,13 +626,10 @@
            id="path8288-5-1" />
       </g>
     </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="rect1362-8"
-       width="24.351593"
-       height="24.215471"
-       x="222.61703"
-       y="421.84412" />
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 222.61703,421.84412 h 24.3516 v 24.21547 h -24.3516 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="m 262.26635,408.5496 v 45.21716"
@@ -895,13 +855,10 @@
            id="path8288-5" />
       </g>
     </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="rect1362"
-       width="24.351593"
-       height="24.215471"
-       x="250.09056"
-       y="377.12234" />
+       style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 250.09056,377.12234 h 24.35159 v 24.21548 h -24.35159 z" />
     <g
        id="g1433"
        transform="translate(3.3534249,-18.666082)">

@@ -5,10 +5,6 @@
    viewBox="0 0 50.535416 30.932819"
    version="1.1"
    id="svg8447"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig03.12.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -17,45 +13,39 @@
   <defs
      id="defs8441">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker1217"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1215" />
     </marker>
     <marker
        style="overflow:visible"
        id="Arrow1Mstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mstart"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto">
       <path
-         transform="scale(0.4) translate(10,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path945" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path948" />
     </marker>
     <marker
@@ -63,9 +53,7 @@
        id="Arrow1Sstart"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Sstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.2,0,0,0.2,1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -77,9 +65,7 @@
        id="marker8087"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -189,26 +175,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="4.5932201"
-     inkscape:cx="95.466795"
-     inkscape:cy="58.455723"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata8444">
     <rdf:RDF>
@@ -222,59 +188,37 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(26.7796, -94.1467)">
+     transform="translate(26.779612,-94.146685)">
     <g
        id="g7879"
        transform="matrix(0.14253111,0.14253111,-0.14348526,0.14348526,-8.5398207,-4.4314682)"
        style="stroke-width:1.30824">
       <path
-         style="fill:none;stroke:#000000;stroke-width:1.30824;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path7294"
-         sodipodi:type="arc"
-         sodipodi:cx="460.00076"
-         sodipodi:cy="269.99942"
-         sodipodi:rx="9.7507715"
-         sodipodi:ry="9.7498226"
-         sodipodi:start="2.043212"
-         sodipodi:end="1.0988471"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
+         style="fill:none;stroke:#000000;stroke-linecap:square"
          d="m 455.56378,278.68136 a 9.7507715,9.7498226 0 0 1 -5.04277,-10.96467 9.7507715,9.7498226 0 0 1 9.48203,-7.46709 9.7507715,9.7498226 0 0 1 9.47854,7.47151 9.7507715,9.7498226 0 0 1 -5.04789,10.96232" />
-      <circle
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.654122;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      <path
          id="path7874"
-         cx="460.00082"
-         cy="269.9996"
-         r="1" />
+         style="fill:none;stroke:#000000;stroke-width:0.654122;stroke-linecap:square"
+         d="m 461.00082,269.9996 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
       <path
          id="path7868"
          style="fill:none;stroke:#000000;stroke-width:1.30824;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 460.00082,267.22222 a 2.5,2.7777778 0 0 0 -2.5,2.77778 l -5,25 h 15 l -5,-25 a 2.5,2.7777778 0 0 0 -2.5,-2.77778 z" />
     </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+    <path
        id="rect7288"
-       width="32.390495"
-       height="22.197018"
-       x="-15.769039"
-       y="101.90027" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
+       d="m -15.769039,101.90027 h 32.390495 v 22.19702 h -32.390495 z" />
+    <path
        id="rect7290"
-       width="8.0023584"
-       height="7.6212935"
-       x="-6.1767759"
-       y="94.278976" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
+       d="m -6.1767759,94.278976 h 8.0023584 v 7.621294 h -8.0023584 z" />
+    <path
        id="rect7292"
-       width="4.9538412"
-       height="6.2875676"
-       x="17.777576"
-       y="107.42571" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
+       d="m 17.777576,107.42571 h 4.953842 v 6.28757 h -4.953842 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m -25.6606,113.70996 h 9.083944"
@@ -282,13 +226,11 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:url(#marker2649)"
        d="m 20.254527,99.926269 -1.5e-5,5.189801 -1.6e-5,2.30964"
-       id="path7935"
-       sodipodi:nodetypes="ccc" />
+       id="path7935" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:url(#marker2640)"
        d="M 18.41067,97.905238 H 10.118126 1.8255813"
-       id="path7937"
-       sodipodi:nodetypes="ccc" />
+       id="path7937" />
     <g
        id="g8300"
        transform="matrix(0.26458333,0,0,0.26458333,-81.389557,21.063189)">

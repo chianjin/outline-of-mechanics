@@ -5,10 +5,6 @@
    width="169.09911"
    height="34.098274"
    viewBox="0 0 169.09911 34.098274"
-   sodipodi:docname="fig03.06.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -53,49 +49,17 @@
          id="path2434" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview2333"
-     showgrid="false"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="7.7312427"
-     inkscape:cx="84.915197"
-     inkscape:cy="16.879563"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g2339"
-     inkscape:pagecheckerboard="0" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g2339"
      transform="translate(-225.30364,-161.20809)">
-    <circle
-       style="fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+    <path
        id="path2904"
-       cx="228.802"
-       cy="172.3098"
-       r="2" />
-    <circle
-       style="fill:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       d="m 230.802,172.3098 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
+    <path
        id="path2904-0"
-       cx="390.61273"
-       cy="172.3098"
-       r="2" />
+       style="stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       d="m 392.61273,172.3098 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 228.802,176.80891 v 18.49745"

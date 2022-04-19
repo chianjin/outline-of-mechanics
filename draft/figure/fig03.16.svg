@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="84.698959mm"
-   height="30.586296mm"
-   viewBox="0 0 84.698959 30.586295"
+   width="85.108093mm"
+   height="30.722467mm"
+   viewBox="0 0 85.108093 30.722466"
    version="1.1"
    id="svg5439"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig03.16.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:ns3="http://www.iki.fi/pav/software/textext/">
+   xmlns:ns27="http://www.iki.fi/pav/software/textext/">
   <defs
      id="defs5433">
     <marker
@@ -54,29 +50,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="4.0818436"
-     inkscape:cx="159.85424"
-     inkscape:cy="57.449531"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:pagecheckerboard="0"
-     inkscape:snap-global="false" />
   <metadata
      id="metadata5436">
     <rdf:RDF>
@@ -90,10 +63,8 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-76.891684,-123.75788)">
+     transform="translate(-76.618725,-123.62171)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 96.290377,150.93188 6.761443,-18.5769 51.03962,18.5769"
@@ -101,13 +72,11 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="m 103.05182,132.35498 v -8.33639"
-       id="path3687"
-       sodipodi:nodetypes="cc" />
+       id="path3687" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="m 103.05182,150.93188 h 58.27812"
-       id="path3689"
-       sodipodi:nodetypes="cc" />
+       id="path3689" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="m 128.94439,135.88727 4.13669,-11.36546"
@@ -123,21 +92,16 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.529167;stroke-dashoffset:0;stroke-opacity:1"
        d="m 103.05182,132.35498 31.19587,18.5769"
-       id="path3697"
-       sodipodi:nodetypes="cc" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3697" />
+    <path
        id="rect3699"
-       width="1.7147911"
-       height="1.3337264"
-       x="142.1051"
-       y="87.793472"
-       transform="rotate(20)" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
+       transform="rotate(20)"
+       d="m 142.1051,87.793472 h 1.71479 v 1.333727 h -1.71479 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 90.595471,140.10602 -13.183007,-0.0645"
-       id="path3701"
-       sodipodi:nodetypes="cc" />
+       id="path3701" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 90.595471,140.10602 -1.547781,4.25249"
@@ -145,8 +109,7 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 88.802639,145.08354 77.364055,140.30767"
-       id="path3705"
-       sodipodi:nodetypes="cc" />
+       id="path3705" />
     <g
        id="g3952"
        transform="matrix(0.26458333,0,0,0.26458333,66.666801,105.8882)">
@@ -418,8 +381,7 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 104.15031,132.02158 1.33769,-3.67529"
-       id="path4813"
-       sodipodi:nodetypes="cc" />
+       id="path4813" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 104.08559,132.02158 4.90425,1.76189"
@@ -427,41 +389,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2640);marker-end:url(#marker2649)"
        d="M 103.00098,132.60912 V 150.6274"
-       id="path5776"
-       sodipodi:nodetypes="cc" />
-    <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.132292;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path5776" />
+    <path
        id="rect6591"
-       width="3.1739628"
-       height="5.1271706"
-       x="101.46484"
-       y="139.37808" />
+       style="fill:#ffffff;stroke-width:0.132292;stroke-linecap:square"
+       d="m 101.46484,139.37808 h 3.17397 v 5.12717 h -3.17397 z" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6709"
-       sodipodi:type="arc"
-       sodipodi:cx="77.364052"
-       sodipodi:cy="140.10602"
-       sodipodi:rx="5.2916665"
-       sodipodi:ry="5.2916665"
-       sodipodi:start="0"
-       sodipodi:end="0.39308942"
-       sodipodi:arc-type="arc"
-       d="m 82.655718,140.10602 a 5.2916665,5.2916665 0 0 1 -0.403595,2.02694"
-       sodipodi:open="true" />
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:square"
+       d="m 82.655718,140.10602 a 5.2916665,5.2916665 0 0 1 -0.403595,2.02694" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6711"
-       sodipodi:type="arc"
-       sodipodi:cx="154.09145"
-       sodipodi:cy="150.93188"
-       sodipodi:rx="5.2916665"
-       sodipodi:ry="5.2916665"
-       sodipodi:start="3.1467762"
-       sodipodi:end="3.4879932"
-       sodipodi:arc-type="arc"
-       d="m 148.79985,150.90446 a 5.2916665,5.2916665 0 0 1 0.31425,-1.76917"
-       sodipodi:open="true" />
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:square"
+       d="m 148.79985,150.90446 a 5.2916665,5.2916665 0 0 1 0.31425,-1.76917" />
     <g
        id="g18935"
        transform="translate(-9.8481366,18.457104)">
@@ -869,16 +809,16 @@
     </g>
     <g
        transform="matrix(0.246945,0,0,0.246945,108.27906,143.61821)"
-       ns3:version="1.8.1"
-       ns3:texconverter="xelatex"
-       ns3:pdfconverter="inkscape"
-       ns3:text="$M$"
-       ns3:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
-       ns3:scale="0.7"
-       ns3:alignment="middle center"
-       ns3:stroke-to-path="0"
-       ns3:inkscapeversion="1.0.1"
-       ns3:jacobian_sqrt="0.246945"
+       ns27:version="1.8.1"
+       ns27:texconverter="xelatex"
+       ns27:pdfconverter="inkscape"
+       ns27:text="$M$"
+       ns27:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
+       ns27:scale="0.7"
+       ns27:alignment="middle center"
+       ns27:stroke-to-path="0"
+       ns27:inkscapeversion="1.0.1"
+       ns27:jacobian_sqrt="0.246945"
        id="g21306">
       <defs
          id="id-116037c9-6e69-4e9c-a462-5f6803fcd2d0" />

@@ -5,10 +5,6 @@
    width="109.09215"
    height="148.56326"
    viewBox="0 0 109.09215 148.56326"
-   sodipodi:docname="fig01.32.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -65,90 +61,45 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview1824"
-     showgrid="false"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="10.895954"
-     inkscape:cx="63.739259"
-     inkscape:cy="135.78435"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1830"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g1830"
-     transform="translate(-173.357, -319.643)">
+     transform="translate(-173.35696,-319.6434)">
     <g
        id="g2610"
        transform="translate(2.5962906,0.23547157)">
-      <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      <path
          id="rect1945"
-         width="3"
-         height="60.906704"
-         x="194.11557"
-         y="400.01559" />
-      <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;stroke:#000000"
+         d="m 194.11557,400.01559 h 3 v 60.90671 h -3 z" />
+      <path
          id="rect1945-1"
-         width="3"
-         height="60.906704"
-         x="253.49791"
-         y="400.01559" />
+         style="fill:#ffffff;stroke:#000000"
+         d="m 253.49791,400.01559 h 3 v 60.90671 h -3 z" />
     </g>
-    <circle
-       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="path2523-63"
-       cx="227.90303"
-       cy="369.6434"
-       r="49.5" />
+       style="fill:#ffffff;stroke:#000000"
+       d="m 277.40303,369.6434 a 49.5,49.5 0 0 1 -49.5,49.5 49.5,49.5 0 0 1 -49.5,-49.5 49.5,49.5 0 0 1 49.5,-49.5 49.5,49.5 0 0 1 49.5,49.5 z" />
     <g
        id="g2594">
-      <ellipse
-         style="fill:#ffffff;stroke:none;stroke-width:0.501377;stroke-miterlimit:4;stroke-dasharray:4.01101, 0.501377;stroke-dashoffset:0;stroke-opacity:1"
+      <path
          id="path2582"
-         cx="268.74109"
-         cy="287.38919"
-         rx="21.760973"
-         ry="9.5164623"
-         transform="matrix(0.95735557,0.28891228,-0.1872002,0.98232178,0,0)" />
-      <ellipse
-         style="fill:#ffffff;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:4, 0.5;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#ffffff;stroke-width:0.501377;stroke-dasharray:4.01101, 0.501377"
+         transform="matrix(0.95735557,0.28891228,-0.1872002,0.98232178,0,0)"
+         d="m 290.50206,287.38919 a 21.760973,9.5164623 0 0 1 -21.76097,9.51646 21.760973,9.5164623 0 0 1 -21.76097,-9.51646 21.760973,9.5164623 0 0 1 21.76097,-9.51646 21.760973,9.5164623 0 0 1 21.76097,9.51646 z" />
+      <path
          id="path2584"
-         cx="226.85008"
-         cy="396.74213"
-         rx="14.075834"
-         ry="19.640699" />
-      <ellipse
-         style="fill:#ffffff;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:4, 0.5;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#ffffff;stroke-width:0.5;stroke-dasharray:4, 0.5"
+         d="m 240.92592,396.74213 a 14.075834,19.640699 0 0 1 -14.07584,19.6407 14.075834,19.640699 0 0 1 -14.07583,-19.6407 14.075834,19.640699 0 0 1 14.07583,-19.6407 14.075834,19.640699 0 0 1 14.07584,19.6407 z" />
+      <path
          id="path2586"
-         cx="107.29244"
-         cy="424.07971"
-         rx="25.369238"
-         ry="19.149683"
-         transform="rotate(-20.438549)" />
-      <ellipse
-         style="fill:#ffffff;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:4, 0.5;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#ffffff;stroke-width:0.5;stroke-dasharray:4, 0.5"
+         transform="rotate(-20.438549)"
+         d="m 132.66168,424.07971 a 25.369238,19.149683 0 0 1 -25.36924,19.14968 25.369238,19.149683 0 0 1 -25.369236,-19.14968 25.369238,19.149683 0 0 1 25.369236,-19.14968 25.369238,19.149683 0 0 1 25.36924,19.14968 z" />
+      <path
          id="path2588"
-         cx="258.7662"
-         cy="345.51263"
-         rx="5.7285376"
-         ry="9.0019875" />
+         style="fill:#ffffff;stroke-width:0.5;stroke-dasharray:4, 0.5"
+         d="m 264.49474,345.51263 a 5.7285376,9.0019875 0 0 1 -5.72854,9.00199 5.7285376,9.0019875 0 0 1 -5.72853,-9.00199 5.7285376,9.0019875 0 0 1 5.72853,-9.00198 5.7285376,9.0019875 0 0 1 5.72854,9.00198 z" />
     </g>
     <g
        id="g2743"
@@ -213,14 +164,11 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 227.90303,369.6434 36.11894,-28.20612"
-       id="path2525"
-       sodipodi:nodetypes="cc" />
-    <circle
-       style="fill:#000000;stroke:none;stroke-width:0.999996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2525" />
+    <path
        id="path2541"
-       cx="267.94598"
-       cy="353.98682"
-       r="1" />
+       style="stroke-width:0.999996"
+       d="m 268.94598,353.98682 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2640);marker-end:url(#marker2649)"
        d="m 202.71664,450.04031 h 50.37279"

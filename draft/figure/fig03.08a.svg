@@ -5,10 +5,6 @@
    viewBox="0 0 23.55732 15.21792"
    version="1.1"
    id="svg2081"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig03.08a.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,30 +25,6 @@
          id="path2424" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="9.3364433"
-     inkscape:cx="23.938452"
-     inkscape:cy="28.758275"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata2078">
     <rdf:RDF>
@@ -66,17 +38,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-57.769, -102.004)">
-    <rect
-       style="fill:none;stroke:none;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-57.768959,-102.00414)">
+    <path
        id="rect1992-82"
-       width="23.425026"
-       height="15.21792"
-       x="57.768959"
-       y="102.00414" />
+       style="fill:none;stroke-width:0.264583;stroke-linecap:square"
+       d="m 57.768959,102.00414 h 23.425026 v 15.21792 H 57.768959 Z" />
     <g
        id="g168"
        transform="matrix(0.26458333,0,0,0.26458333,47.831442,-26.221625)">
@@ -185,20 +152,14 @@
            id="path8288-9" />
       </g>
     </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="rect170"
-       width="5.0270834"
-       height="5.0270834"
-       x="60.115883"
-       y="108.84367" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
+       d="m 60.115883,108.84367 h 5.027083 v 5.02709 h -5.027083 z" />
+    <path
        id="rect995"
-       width="6.879168"
-       height="6.8791676"
-       x="65.142967"
-       y="106.99158" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
+       d="m 65.142967,106.99158 h 6.879168 v 6.87916 h -6.879168 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2622)"
        d="m 72.794997,110.54169 h 7.42005"

@@ -3,12 +3,8 @@
    version="1.1"
    id="svg833"
    width="319.44568"
-   height="142.1662"
-   viewBox="0 0 319.44568 142.1662"
-   sodipodi:docname="fig06.10.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   height="142.68086"
+   viewBox="0 0 319.44568 142.68086"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -33,9 +29,7 @@
        id="Arrow1Mend"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -120,75 +114,80 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview835"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="4.110245"
-     inkscape:cx="159.72284"
-     inkscape:cy="72.380114"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g841"
-     inkscape:pagecheckerboard="0">
-    <sodipodi:guide
-       position="23.128556,98.933348"
-       orientation="0,-1"
-       id="guide851" />
-    <sodipodi:guide
-       position="2.2827458,96.153908"
-       orientation="0,-1"
-       id="guide861" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g841"
-     transform="translate(-44.1339, -246.385)">
+     transform="translate(-44.133928,-245.87029)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 349.37579,384.39675 V 250.70562"
        id="path847" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="M 66.984539,388.55115 V 247.37029"
        id="path849" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+    <path
        id="path853"
-       cx="67.262482"
-       cy="289.6178"
-       r="12" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000"
+       d="m 79.262482,289.6178 a 12,12 0 0 1 -12,12 12,12 0 0 1 -12,-12 12,12 0 0 1 12,-12 12,12 0 0 1 12,12 z" />
+    <path
        id="path855"
-       cx="349.37579"
-       cy="289.6178"
-       r="5" />
+       style="fill:none;stroke:#000000"
+       d="m 354.37579,289.6178 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 66.984539,264.60282 H 349.37579"
        id="path857" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
        d="M 51.975555,289.6178 H 360.49355"
        id="path859" />
     <path
@@ -198,34 +197,29 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 81.993522,371.88927 c 36.966558,-68.09632 102.005488,-76.43445 147.032448,-76.43455 45.02695,-9e-5 85.05091,7.22646 104.78495,46.97246"
-       id="path865"
-       sodipodi:nodetypes="csc" />
+       id="path865" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 107.12743,337.82113 H 66.984539"
        id="path952" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33332px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="43.915176"
-       y="283.78098"
-       id="text956"><tspan
-         sodipodi:role="line"
-         id="tspan954"
-         x="43.915176"
-         y="283.78098"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">地</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33332px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="356.3244"
-       y="284.0589"
-       id="text960"><tspan
-         sodipodi:role="line"
-         id="tspan958"
-         x="356.3244"
-         y="284.0589"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">月</tspan></text>
+    <g
+       aria-label="地"
+       id="text956"
+       style="font-style:italic;font-size:9.33332px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 49.420377,276.48932 q 0.874998,0.21875 0.947915,0.32812 0,0.0365 -0.182291,0.1823 -0.21875,0.21874 -0.21875,0.2552 v 1.93229 l 1.130207,-0.47396 q 0.03646,-0.0365 0.218749,-0.36458 0.07292,-0.18229 0.109375,-0.18229 0.401041,0.14583 0.765624,0.47396 0,0.0365 -0.145833,0.18229 -0.182292,0.21875 -0.182292,0.25521 -0.03646,1.09375 -0.07292,1.74999 -0.03646,0.6198 -0.03646,0.98438 -0.21875,0.61979 -0.874999,0.875 -0.03646,0 -0.07292,-0.0729 -0.07292,-0.36458 -0.729165,-0.65625 v -0.0729 q 0.947915,0.14584 1.020832,-0.14583 0.182291,-0.54687 0.218749,-2.8802 l -1.348956,0.58333 v 3.49999 q -0.182292,0.1823 -0.546874,0.29167 v -3.57291 l -1.093749,0.51042 v 3.17187 q -0.182291,0.65625 0.729166,0.58333 1.130207,0 2.369788,0 0.656249,0.14583 0.947915,-1.71354 h 0.109375 q -0.109375,1.49479 0.364583,1.64062 -0.182291,0.58333 -1.385415,0.61979 -1.05729,0 -2.11458,0 -1.89583,0.10938 -1.567706,-0.83854 v -3.24478 l -0.802082,0.36458 -0.291666,0.25521 -0.291667,-0.25521 1.385415,-0.58333 v -2.55208 q 0.838541,0.32812 0.874999,0.36458 0,0.10937 -0.21875,0.29167 -0.109375,0.10937 -0.109375,0.14583 v 1.49479 l 1.093749,-0.47396 z m -3.791661,0.25521 q 0.984373,0.4375 0.874998,0.4375 0,0.0365 -0.109375,0.10937 -0.218749,0.18229 -0.218749,0.25521 v 2.0052 h 0.364583 l 0.328124,-0.47395 0.619791,0.58333 v 0.0729 H 46.17559 v 3.02603 l 1.27604,-0.4375 0.03646,0.14584 q -2.296872,1.20312 -2.624996,1.38541 -0.21875,0.14584 -0.255208,0.14584 -0.328125,-0.21875 -0.473958,-0.58334 0,0 0.109375,-0.0365 0.583332,-0.10937 1.385415,-0.40104 v -3.24478 h -0.838541 l -0.364583,0.0729 -0.145833,-0.25521 h 1.348957 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path23944" />
+    </g>
+    <g
+       aria-label="月"
+       id="text960"
+       style="font-style:italic;font-size:9.33332px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 362.85043,276.58495 q 0.29167,0.18229 0.72917,0.58333 0,0.0365 -0.14583,0.14584 -0.18229,0.14583 -0.18229,0.21875 0,5.86978 0.0365,6.41665 -0.0365,0.61979 -1.02083,0.875 0.10938,-0.6927 -1.23958,-0.875 v -0.10937 q 0.58333,0.10937 0.98437,0.10937 0.4375,0.0365 0.51042,0 0.10937,0 0.10937,-0.47395 v -2.1875 h -3.24478 q 0,2.55208 -2.66146,3.60937 l -0.0729,-0.10938 q 1.64062,-1.02083 2.04166,-2.40624 0.0729,-0.51042 0.10937,-1.75 0.0729,-1.16666 0.0729,-4.01041 l 0.65625,0.40104 h 2.98958 q 0,0.0365 0.14583,-0.21875 0.14584,-0.21875 0.18229,-0.21875 z m -0.18229,0.65625 h -3.13541 q -0.10937,0.0365 -0.10937,0.18229 v 1.56771 h 3.24478 z m 0,1.96875 h -3.24478 v 1.85937 h 3.24478 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path23947" />
+    </g>
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-88c15639-5cb5-40d6-95bb-af776be359f0"

@@ -5,10 +5,6 @@
    viewBox="0 0 36.047863 15.70077"
    version="1.1"
    id="svg1730"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig02.10a.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -21,9 +17,7 @@
        id="marker1224"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -35,9 +29,7 @@
        id="marker1214"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -49,9 +41,7 @@
        id="Arrow1Mend"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -63,9 +53,7 @@
        id="Arrow1Mend-2"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -167,26 +155,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="5.9910195"
-     inkscape:cx="68.018473"
-     inkscape:cy="29.627679"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata1727">
     <rdf:RDF>
@@ -200,10 +168,8 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-77.982027,-62.438468)">
+     transform="translate(-77.982027,-62.438469)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 88.145006,69.400347 H 104.0981"
@@ -214,80 +180,43 @@
       <g
          id="g927"
          transform="translate(0.06245526)">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        <path
            id="rect22"
-           width="60.689213"
-           height="29.16235"
-           x="98.127365"
-           y="26.009663" />
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#000000"
+           d="M 98.127365,26.009663 H 158.81658 V 55.172012 H 98.127365 Z" />
+        <path
            id="rect849"
-           width="13.595959"
-           height="7.6846728"
-           x="158.81657"
-           y="36.748501" />
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#000000"
+           d="m 158.81657,36.748501 h 13.59596 v 7.684673 h -13.59596 z" />
+        <path
            id="rect849-6"
-           width="13.595959"
-           height="7.6846728"
-           x="84.531403"
-           y="36.748501" />
+           style="fill:none;stroke:#000000"
+           d="m 84.531403,36.748501 h 13.595958 v 7.684673 H 84.531403 Z" />
       </g>
       <g
          id="g922">
         <g
            id="g893">
           <path
-             sodipodi:type="star"
-             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
              id="path883"
-             sodipodi:sides="3"
-             sodipodi:cx="113.08541"
-             sodipodi:cy="58.822628"
-             sodipodi:r1="7.3012304"
-             sodipodi:r2="3.6506152"
-             sodipodi:arg1="1.5707963"
-             sodipodi:arg2="2.6179939"
-             inkscape:flatsided="true"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m 113.08541,66.123858 -6.32305,-10.951845 12.6461,0 z"
-             inkscape:transform-center-y="1.8253076" />
-          <circle
-             style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:none;fill-rule:evenodd;stroke:#000000"
+             d="m 113.08541,66.123858 -6.32305,-10.951845 h 12.6461 z" />
+          <path
              id="path866"
-             cx="113.08541"
-             cy="63.430614"
-             r="5.5" />
+             style="fill:#ffffff;stroke:#000000"
+             d="m 118.58541,63.430614 a 5.5,5.5 0 0 1 -5.5,5.5 5.5,5.5 0 0 1 -5.5,-5.5 5.5,5.5 0 0 1 5.5,-5.5 5.5,5.5 0 0 1 5.5,5.5 z" />
         </g>
         <g
            id="g893-2"
            transform="translate(30.898024)">
           <path
-             sodipodi:type="star"
-             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
              id="path883-4"
-             sodipodi:sides="3"
-             sodipodi:cx="113.08541"
-             sodipodi:cy="58.822628"
-             sodipodi:r1="7.3012304"
-             sodipodi:r2="3.6506152"
-             sodipodi:arg1="1.5707963"
-             sodipodi:arg2="2.6179939"
-             inkscape:flatsided="true"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m 113.08541,66.123858 -6.32305,-10.951845 12.6461,0 z"
-             inkscape:transform-center-y="1.8253076" />
-          <circle
-             style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:none;fill-rule:evenodd;stroke:#000000"
+             d="m 113.08541,66.123858 -6.32305,-10.951845 h 12.6461 z" />
+          <path
              id="path866-6"
-             cx="113.08541"
-             cy="63.430614"
-             r="5.5" />
+             style="fill:#ffffff;stroke:#000000"
+             d="m 118.58541,63.430614 a 5.5,5.5 0 0 1 -5.5,5.5 5.5,5.5 0 0 1 -5.5,-5.5 5.5,5.5 0 0 1 5.5,-5.5 5.5,5.5 0 0 1 5.5,5.5 z" />
         </g>
       </g>
     </g>

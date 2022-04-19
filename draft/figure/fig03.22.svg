@@ -5,10 +5,6 @@
    viewBox="0 0 36.197788 13.823665"
    version="1.1"
    id="svg6651"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig03.22.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -21,9 +17,7 @@
        id="marker6567"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -35,9 +29,7 @@
        id="marker6533"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -93,26 +85,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="8.1124149"
-     inkscape:cx="67.858955"
-     inkscape:cy="25.947884"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata6648">
     <rdf:RDF>
@@ -126,8 +98,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-93.154347,-183.61958)">
     <path
@@ -158,24 +128,19 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 120.27258,190.47522 4.78301,6.33457"
        id="path5822" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+    <path
        id="rect6462"
-       width="1.5875"
-       height="1.5875"
-       x="224.48552"
-       y="17.188599"
-       transform="rotate(52.949084)" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic';text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="100.47585"
-       y="191.34753"
-       id="text6607"><tspan
-         sodipodi:role="line"
-         id="tspan6605"
-         x="100.47585"
-         y="191.34753"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01;stroke-width:0.264583">船</tspan></text>
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+       transform="rotate(52.949084)"
+       d="m 224.48552,17.188599 h 1.5875 v 1.5875 h -1.5875 z" />
+    <g
+       aria-label="船"
+       id="text6607"
+       style="font-style:italic;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic';text-align:center;text-anchor:middle;stroke-width:0.264583">
+      <path
+         d="m 99.868139,189.31218 0.202571,0.0868 q 0,0.01 -0.0482,0.0482 -0.04823,0.0482 -0.05788,0.0675 -0.07717,0.10611 -0.09646,0.19292 h 0.2508 q 0,0 0.0482,-0.0675 0.0193,-0.0289 0.0289,-0.0386 0,0.01 0.0386,0.0386 0.13504,0.10611 0.13504,0.10611 -0.01,0.0193 -0.0868,0.0675 v 1.46623 q 0,0.0193 0,0.0386 0,0.0965 -0.01,0.13504 -0.0579,0.1254 -0.22186,0.17364 -0.01,0 -0.01,-0.01 0,-0.15434 -0.2508,-0.22186 l 0.0096,-0.0386 q 0.2701,0.0579 0.32798,0.0289 0.01,-0.01 0.01,-0.41479 0,-0.23151 0.01,-0.44373 h -0.443732 q 0,0.44373 -0.06752,0.62701 -0.125401,0.27009 -0.318326,0.47267 l -0.01929,-0.0289 q 0.202572,-0.27974 0.241157,-0.48232 0.03858,-0.26044 0.02894,-0.58842 h -0.08682 l -0.125401,0.0289 -0.05788,-0.0868 h 0.270095 v -0.83923 l 0.15434,0.0772 h 0.07717 q 0.01929,-0.0772 0.06752,-0.39549 z m 1.292601,0.16398 q 0.17363,0.1254 0.18328,0.13505 0,0.01 -0.0579,0.0675 -0.0386,0.0289 -0.0386,0.0289 v 0.43408 q -0.0193,0.1254 0.0965,0.11576 0.0965,0.0193 0.21221,-0.0386 l 0.10611,0.10611 q -0.11575,0.0772 -0.35691,0.0579 -0.20257,-0.0193 -0.19292,-0.20257 v -0.54984 h -0.2701 q -0.10611,0 -0.0965,0.0772 -0.01,0.0386 -0.01,0.0772 -0.0193,0.36656 -0.0482,0.44373 -0.10611,0.22186 -0.32797,0.33762 l -0.0193,-0.0289 q 0.18327,-0.17363 0.24115,-0.40514 0.0289,-0.22187 0.01,-0.58842 0,-0.0193 0,-0.0482 l 0.17363,0.0772 h 0.31833 q 0.01,0 0.0386,-0.0482 0.0289,-0.0482 0.0386,-0.0482 z m -1.01286,0.28939 h -0.337618 q -0.09646,0 -0.08682,0.0965 -0.0096,0.11576 -0.01929,0.2701 0,0.16398 0,0.33762 h 0.443728 z m -0.30868,0.16399 q 0.16399,0.14469 0.20257,0.24115 -0.01,0.13505 -0.135046,0.1447 -0.03858,-0.01 -0.03858,-0.10611 0,-0.1447 -0.04823,-0.26045 z m 1.45658,0.64629 q 0.01,0.01 0.18328,0.13505 0,0.01 -0.0386,0.0386 -0.0579,0.0386 -0.0482,0.0386 0,0.58842 0.01,0.72347 -0.0579,0.0868 -0.15434,0.0868 v -0.18328 h -0.54019 v 0.14469 q -0.0482,0.0579 -0.16398,0.0675 -0.01,0.0675 0.01,-0.27975 0,-0.13504 0,-0.27009 0,-0.2701 0,-0.47267 l 0.19293,0.0675 h 0.47266 q 0.01,0 0.0772,-0.0965 z m -1.466226,0.0579 q 0.163986,0.15434 0.183276,0.2508 0.01,0.1447 -0.09646,0.16399 -0.05788,-0.01 -0.04823,-0.0868 0,-0.16398 -0.05788,-0.30868 z m 0.964626,0.0965 q -0.0868,0 -0.0868,0.10611 v 0.5209 h 0.54019 v -0.62701 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path14245" />
+    </g>
   </g>
 </svg>

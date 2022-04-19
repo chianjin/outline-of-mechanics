@@ -7,10 +7,6 @@
    width="131"
    height="141.27637"
    viewBox="0 0 131 141.27637"
-   sodipodi:docname="fig10.32.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -70,57 +66,26 @@
       </g>
     </defs>
   </defs>
-  <sodipodi:namedview
-     id="namedview3146"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="5.4715451"
-     inkscape:cx="65.520798"
-     inkscape:cy="70.638183"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g3150" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g3150"
      transform="translate(-254.29126,-47.349257)">
-    <rect
-       style="fill:#f9f9f9;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:6, 2;stroke-dashoffset:0"
+    <path
        id="rect3267-3"
-       width="130"
-       height="5"
-       x="58.125622"
-       y="-259.79126"
-       transform="rotate(90)" />
-    <rect
-       style="fill:#f9f9f9;stroke:#000000;stroke-linejoin:bevel;stroke-miterlimit:10"
+       style="fill:#f9f9f9;stroke:#000000;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:6, 2"
+       transform="rotate(90)"
+       d="M 58.125622,-259.79126 H 188.12562 v 5 H 58.125622 Z" />
+    <path
        id="rect3267"
-       width="130"
-       height="5"
-       x="254.79126"
-       y="58.125622" />
-    <circle
-       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:6, 2;stroke-dashoffset:0"
+       style="fill:#f9f9f9;stroke:#000000;stroke-linejoin:bevel;stroke-miterlimit:10"
+       d="m 254.79126,58.125622 h 130 v 5 h -130 z" />
+    <path
        id="path3393"
-       cx="319.79126"
-       cy="60.625622"
-       r="1" />
-    <circle
-       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:6, 2;stroke-dashoffset:0"
+       style="stroke:#000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:6, 2"
+       d="m 320.79126,60.625622 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
+    <path
        id="path3393-3"
-       cx="257.29126"
-       cy="123.12563"
-       r="1" />
+       style="stroke:#000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:6, 2"
+       d="m 258.29126,123.12563 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-cdd81b8d-2f6e-4322-9459-549687ecc99e"

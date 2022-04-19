@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="52.786823"
-     inkscape:cx="635.43321"
+     inkscape:cx="635.4332"
      inkscape:cy="309.32909"
      inkscape:window-width="1920"
      inkscape:window-height="991"
@@ -90,10 +90,12 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2622);marker-end:url(#marker2631)"
        d="m 165.67164,81.210671 h 3.61892"
-       id="path2691" />
+       id="path2691"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2640);marker-end:url(#marker2649)"
        d="m 165.63033,82.499192 h 4.9937"
-       id="path2693" />
+       id="path2693"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

@@ -5,10 +5,6 @@
    viewBox="0 0 66.588898 12.22577"
    version="1.1"
    id="svg3199"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig03.03a.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,26 +25,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.876731"
-     inkscape:cx="125.48966"
-     inkscape:cy="30.937894"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1413"
-     inkscape:window-height="1030"
-     inkscape:window-x="160"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata3196">
     <rdf:RDF>
@@ -62,8 +38,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-59.779669,-90.07784)">
     <g
@@ -283,13 +257,10 @@
            id="path8288-5" />
       </g>
     </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="rect1362"
-       width="6.4430256"
-       height="6.4070101"
-       x="108.15397"
-       y="93.98848" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+       d="m 108.15397,93.98848 h 6.44302 v 6.40701 h -6.44302 z" />
     <g
        id="g1433"
        transform="matrix(0.26458333,0,0,0.26458333,42.871437,-10.730538)">

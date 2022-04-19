@@ -2,32 +2,26 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   sodipodi:docname="fig09.02.svg"
-   viewBox="0 0 127.5957 63.247887"
-   height="63.247887"
-   width="127.5957"
+   viewBox="0 0 127.59575 63.246819"
+   height="63.246819"
+   width="127.59575"
    id="svg76005"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:ns2="http://www.iki.fi/pav/software/textext/">
+   xmlns:ns27="http://www.iki.fi/pav/software/textext/">
   <defs
      id="defs76009">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Send"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto">
       <path
-         transform="scale(0.2) rotate(180) translate(6,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path15509" />
     </marker>
     <g
@@ -491,60 +485,87 @@
          height="80"
          id="rect16946" />
     </clipPath>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
-  <sodipodi:namedview
-     id="namedview76007"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="7.633476"
-     inkscape:cx="63.797935"
-     inkscape:cy="31.636963"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g76011" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g76011"
-     transform="translate(-264.241,-11.199604)">
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:6,2;stroke-dashoffset:0"
+     transform="translate(-264.24095,-11.19962)">
+    <path
        id="path76128"
-       cx="328.03885"
-       cy="42.823547"
-       rx="63.297852"
-       ry="31.123943" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:XITS;-inkscape-font-specification:'XITS, Italic'"
-       x="285.14032"
-       y="58.198025"
-       id="text78737"><tspan
-         sodipodi:role="line"
-         id="tspan78735"
-         x="285.14032"
-         y="58.198025"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">太阳</tspan></text>
+       style="fill:none;stroke:#000000;stroke-dasharray:4, 2"
+       d="M 391.3367,42.823547 A 63.297852,31.123943 0 0 1 328.03885,73.947491 63.297852,31.123943 0 0 1 264.741,42.823547 63.297852,31.123943 0 0 1 328.03885,11.699604 63.297852,31.123943 0 0 1 391.3367,42.823547 Z" />
+    <g
+       aria-label="太阳"
+       id="text78737"
+       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:XITS;-inkscape-font-specification:'XITS, Italic'">
+      <path
+         d="m 289.18719,50.578236 1.05729,0.401041 q -0.36458,0.291667 -0.36458,0.401042 -0.0365,0.802083 -0.10937,1.822916 h 2.77083 l 0.51042,-0.692708 0.83854,0.874999 -0.0365,0.07292 h -3.60938 q 0.83855,4.010415 3.97396,4.848957 v 0.145833 q -0.91146,-0.03646 -1.16666,0.401042 -2.625,-1.713542 -3.0625,-5.395832 h -0.25521 q -0.18229,2.078124 -0.83854,3.171874 1.71354,0.911458 1.53125,1.203125 -0.0365,0.473958 -0.36459,0.546874 -0.14583,0 -0.18229,-0.182291 -0.40104,-0.911458 -1.05729,-1.421875 -1.09375,1.53125 -3.46354,2.406249 l -0.0365,-0.109375 q 3.71875,-1.604166 3.79167,-5.614581 h -2.84375 l -0.32813,0.109375 -0.21875,-0.364583 h 3.42709 q 0.0365,-0.802083 0.0365,-1.385416 0,-0.619792 0,-1.239583 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path37265" />
+      <path
+         d="m 297.79136,50.833444 q 0.25521,0.182292 0.72916,0.65625 -0.0365,0.03646 -0.0729,0.03646 -0.32813,0.03646 -0.47396,0.364583 -0.83854,1.385416 -0.91146,1.604166 0,0.03646 0.10938,0.145834 1.34895,1.312499 1.02083,2.442707 -0.36458,0.65625 -1.02083,0.911458 -0.0365,0 -0.0365,-0.03646 -0.10938,-0.473958 -0.76563,-0.729167 v -0.07292 q 0.51042,0.182291 0.91146,0.07292 0.65625,-0.401041 0.32813,-1.458332 -0.40105,-0.838542 -0.69271,-1.130208 -0.0365,-0.07292 -0.0365,-0.109375 0,-0.03646 0.0729,-0.291667 0.10937,-0.364583 0.54687,-1.786458 h -0.875 q -0.47396,0 -0.4375,0.328125 v 6.96354 q -0.21875,0.218749 -0.61979,0.218749 0.0365,-0.583333 0.0729,-2.296874 0,-0.874999 0,-2.187499 0.0365,-1.09375 0.0365,-3.68229 l 0.65625,0.473958 h 1.09375 q 0.0365,-0.03646 0.14584,-0.21875 0.14583,-0.182292 0.21875,-0.21875 z m 1.05729,0.21875 0.69271,0.364583 h 2.40625 q 0.0365,0 0.18229,-0.21875 0.10937,-0.109375 0.14583,-0.145833 0.69271,0.4375 0.69271,0.510416 0,0 -0.10938,0.109375 -0.10937,0.109375 -0.21875,0.21875 -0.0365,1.932291 0,3.718749 0,1.677083 0.0729,2.807291 -0.25521,0.291666 -0.61979,0.255208 v -1.09375 h -2.73438 v 0.984375 q -0.36458,0.328125 -0.6927,0.21875 0,-0.109375 0,-0.291667 0.0729,-0.874999 0.10937,-2.661457 0.0365,-1.677083 0.0729,-4.77604 z m 0.98437,0.583333 q -0.54687,-0.03646 -0.47396,0.401042 v 2.333332 h 2.73438 v -2.734374 z m -0.47396,2.953124 v 2.770832 h 2.73438 v -2.770832 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path37267" />
+    </g>
     <g
        transform="matrix(0.933331,0,0,0.933331,326.09792,31.913519)"
-       ns2:version="1.8.1"
-       ns2:texconverter="xelatex"
-       ns2:pdfconverter="inkscape"
-       ns2:text="$r$"
-       ns2:preamble="C:\Users\chian\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
-       ns2:scale="0.7"
-       ns2:alignment="middle center"
-       ns2:stroke-to-path="0"
-       ns2:inkscapeversion="1.1.1"
-       ns2:jacobian_sqrt="0.933331"
+       ns27:version="1.8.1"
+       ns27:texconverter="xelatex"
+       ns27:pdfconverter="inkscape"
+       ns27:text="$r$"
+       ns27:preamble="C:\Users\chian\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+       ns27:scale="0.7"
+       ns27:alignment="middle center"
+       ns27:stroke-to-path="0"
+       ns27:inkscapeversion="1.1.1"
+       ns27:jacobian_sqrt="0.933331"
        id="g14616">
       <defs
          id="id-29321b7b-a1d6-4781-9e79-d8c42cd56118">
@@ -586,10 +607,9 @@
       </g>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 298.59489,40.767508 357.45353,16.851269"
-       id="path14762"
-       sodipodi:nodetypes="cc" />
+       id="path14762" />
     <g
        id="g17624">
       <path

@@ -3,12 +3,8 @@
    version="1.1"
    id="svg3818"
    width="118.06245"
-   height="118.06245"
-   viewBox="0 0 118.06245 118.06246"
-   sodipodi:docname="fig05.04.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   height="118.06246"
+   viewBox="0 0 118.06245 118.06248"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -33,9 +29,7 @@
        id="Arrow1Mend"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -121,65 +115,28 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview3820"
-     showgrid="false"
-     inkscape:snap-global="true"
-     inkscape:snap-object-midpoints="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="6.5473821"
-     inkscape:cx="59.031227"
-     inkscape:cy="59.031227"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g3826"
-     inkscape:pagecheckerboard="0" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g3826"
-     transform="translate(-271.034, -295.21)">
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="translate(-271.03399,-295.20992)">
+    <path
        id="path3830"
-       cx="330.06522"
-       cy="354.24115"
-       r="58.531227" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000"
+       d="m 388.59644,354.24115 a 58.531227,58.531227 0 0 1 -58.53122,58.53123 58.531227,58.531227 0 0 1 -58.53123,-58.53123 58.531227,58.531227 0 0 1 58.53123,-58.53123 58.531227,58.531227 0 0 1 58.53122,58.53123 z" />
+    <path
        id="path4393"
-       cx="374.09088"
-       cy="312.76031"
-       r="2" />
+       d="m 376.09088,312.76031 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="m 330.06522,354.24115 42.1353,-39.59048"
-       id="path4395"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33332px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="322.17624"
-       y="364.4205"
-       id="text4423"><tspan
-         sodipodi:role="line"
-         id="tspan4421"
-         x="322.17624"
-         y="364.4205">O</tspan></text>
+       id="path4395" />
+    <g
+       aria-label="O"
+       id="text4423"
+       style="font-style:italic;font-size:9.33332px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 325.32157,364.51383 q -1.19467,0 -1.83867,-0.69066 -0.63466,-0.7 -0.63466,-1.89466 0,-0.85867 0.224,-1.63334 0.23333,-0.77466 0.672,-1.36266 0.43866,-0.59733 1.064,-0.93333 0.62533,-0.34534 1.40933,-0.34534 1.12933,0 1.76399,0.70934 0.63467,0.7 0.63467,1.91333 0,0.868 -0.21467,1.63333 -0.20533,0.76533 -0.62533,1.35333 -0.41067,0.57867 -1.02666,0.91467 -0.616,0.33599 -1.428,0.33599 z m 0.028,-0.73733 q 0.56,0 0.99866,-0.28 0.43867,-0.28 0.74667,-0.76533 0.308,-0.49467 0.46666,-1.12933 0.168,-0.63467 0.168,-1.344 0,-0.88666 -0.42,-1.372 -0.41999,-0.49466 -1.14799,-0.49466 -0.56,0 -1.008,0.28 -0.448,0.27066 -0.76533,0.756 -0.31734,0.47599 -0.48534,1.11999 -0.168,0.63467 -0.168,1.36267 0,0.88666 0.42934,1.38133 0.42933,0.48533 1.18533,0.48533 z"
+         id="path21963" />
+    </g>
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-3cb2a873-cbe8-42ac-86e2-69b8ce4455ef"

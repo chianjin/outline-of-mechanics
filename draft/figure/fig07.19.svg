@@ -3,12 +3,8 @@
    version="1.1"
    id="svg4837"
    width="102.51306"
-   height="126.28067"
-   viewBox="0 0 102.51306 126.28067"
-   sodipodi:docname="fig07.19.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   height="126.28068"
+   viewBox="0 0 102.51306 126.28068"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -91,55 +87,25 @@
       </g>
     </defs>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview4839"
-     showgrid="false"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="4.0927461"
-     inkscape:cx="84.417648"
-     inkscape:cy="80.019623"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g4845"
-     inkscape:pagecheckerboard="0" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g4845"
      transform="translate(-109.90782,-34.104885)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 123.1447,155.88556 200.11014,38.604885"
        id="path6385" />
-    <circle
-       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+    <path
        id="path6363-0"
-       cx="123.1447"
-       cy="155.88556"
-       r="4" />
-    <circle
-       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#000000"
+       d="m 127.1447,155.88556 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z" />
+    <path
        id="path6387"
-       cx="175.06584"
-       cy="77.331947"
-       r="1.5881758" />
-    <circle
-       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="stroke:#000000"
+       d="m 176.65402,77.331947 a 1.5881758,1.5881758 0 0 1 -1.58818,1.588176 1.5881758,1.5881758 0 0 1 -1.58817,-1.588176 1.5881758,1.5881758 0 0 1 1.58817,-1.588175 1.5881758,1.5881758 0 0 1 1.58818,1.588175 z" />
+    <path
        id="path6363"
-       cx="200.11014"
-       cy="38.604885"
-       r="4" />
+       style="fill:#ffffff;stroke:#000000"
+       d="m 204.11014,38.604885 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z" />
     <g
        transform="matrix(0.933331,0,0,0.933331,109.61615,158.19983)"
        id="g24042"

@@ -2,19 +2,15 @@
 <svg
    version="1.1"
    id="svg331"
-   width="216.54527"
-   height="151.22392"
-   viewBox="0 0 216.54527 151.22392"
-   sodipodi:docname="fig07.09.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   width="217.05994"
+   height="151.73859"
+   viewBox="0 0 217.05993 151.73858"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:ns5="http://www.iki.fi/pav/software/textext/">
+   xmlns:ns27="http://www.iki.fi/pav/software/textext/">
   <metadata
      id="metadata337">
     <rdf:RDF>
@@ -34,9 +30,7 @@
        id="Arrow1Mstart"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.4,0,0,0.4,4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -48,9 +42,7 @@
        id="Arrow1Mend"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -62,9 +54,7 @@
        id="Arrow1Lstart"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.8,0,0,0.8,10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -165,92 +155,95 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview333"
-     showgrid="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-midpoints="true"
-     inkscape:zoom="5.1306658"
-     inkscape:cx="107.68583"
-     inkscape:cy="75.331353"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g339"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
-    <sodipodi:guide
-       position="6.474981,47.386295"
-       orientation="1,0"
-       id="guide385" />
-    <sodipodi:guide
-       position="81.8034,195.36585"
-       orientation="1,0"
-       id="guide389" />
-    <sodipodi:guide
-       position="204.69496,15.536205"
-       orientation="1,0"
-       id="guide1230" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g339"
-     transform="translate(-167.11809,-20.502574)">
+     transform="translate(-167.11809,-19.987915)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 173.59338,124.34018 c 57.94494,0 59.15476,-10.14036 75.56986,-10.14036 16.4151,0 32.59403,41.04433 122.65012,42.97583"
-       id="path343"
-       sodipodi:nodetypes="czc" />
+       id="path343" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 173.59338,124.34018 c 68.80962,0 58.91332,-37.084109 75.32842,-37.084109 16.4151,0 26.31666,60.311269 122.89156,68.409989"
-       id="path343-6"
-       sodipodi:nodetypes="czc" />
+       id="path343-6" />
     <path
        id="path343-6-5"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 259.38593,35.623037 c 7.74237,46.863317 30.0443,104.637443 112.42743,118.559773"
-       sodipodi:nodetypes="cc" />
+       d="m 259.38593,35.623037 c 7.74237,46.863317 30.0443,104.637443 112.42743,118.559773" />
     <path
        id="path395"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 173.59338,124.34018 c 53.63061,0 53.42135,-38.720151 60.51964,-76.547731"
-       sodipodi:nodetypes="cc" />
+       d="m 173.59338,124.34018 c 53.63061,0 53.42135,-38.720151 60.51964,-76.547731" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2640);marker-end:url(#marker2649)"
        d="M 173.59338,21.487915 V 161.03864 h 209.08465"
        id="path387" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="M 248.9218,161.03864 V 28.078918"
        id="path391" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="179.07059"
-       y="37.873604"
-       id="text1580"><tspan
-         sodipodi:role="line"
-         id="tspan1578"
-         x="179.07059"
-         y="37.873604"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">振幅</tspan></text>
+    <g
+       aria-label="振幅"
+       id="text1580"
+       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 180.78413,30.253815 q 0.875,0.328125 0.875,0.401041 0,0.03646 -0.14584,0.145834 -0.21875,0.109375 -0.18229,0.145833 v 1.421874 h 0.4375 l 0.4375,-0.510416 0.58334,0.546875 v -1.640625 l 0.76562,0.364583 h 2.84375 l 0.40104,-0.510416 0.69271,0.692708 -0.0365,0.03646 h -3.82812 q -0.25521,0.07292 -0.25521,0.364584 v 2.406249 h 3.42708 l 0.40104,-0.510417 0.69271,0.692708 -0.0365,0.03646 h -2.55208 q 0.0365,0.656249 0.40104,1.494791 0.72917,-0.4375 1.3125,-1.130208 0.61979,0.692708 0.54688,0.692708 -0.0365,0.03646 -0.14584,0.03646 -0.25521,0 -0.4375,0.03646 -0.21875,0.109375 -0.36458,0.182291 -0.58333,0.255208 -0.83854,0.401042 0.83854,1.640624 2.33333,2.114582 l -0.0729,0.109375 q -0.54687,-0.182291 -0.91145,0.21875 -1.75,-1.239583 -2.07813,-4.156248 h -0.58333 v 3.536457 q 0,0.109375 1.20312,-0.510417 l 0.0365,0.109375 q -1.27604,0.911458 -1.45833,1.203125 -0.10938,0.109375 -0.10938,0.145833 -0.47395,-0.401041 -0.54687,-0.546875 0,-0.03646 0.0729,-0.109375 0.2552,-0.182291 0.2552,-0.291666 v -3.536457 h -0.58333 q -0.0365,3.135415 -2.00521,4.520831 l -0.10937,-0.109374 q 1.56771,-1.458333 1.56771,-4.338541 v -1.822922 h -1.4583 v 1.822916 l 1.20313,-0.473958 0.0365,0.109375 -1.23959,0.729167 v 3.390623 q -0.18229,0.4375 -0.875,0.619792 -0.0729,-0.619792 -0.91145,-0.802083 l 0.0365,-0.109375 q 0.83855,0.109375 0.98438,0.109375 0.21875,0 0.21875,-0.109375 v -2.770833 q -0.58333,0.291667 -0.94792,0.583334 -0.10937,0.109375 -0.14583,0.07292 -0.21875,-0.07292 -0.40104,-0.546875 0.0365,-0.03646 1.49479,-0.583333 v -2.041666 h -0.875 l -0.32813,0.03646 -0.14583,-0.255209 h 1.34896 z m 5.54166,1.968749 0.80209,0.619792 -0.0365,0.07292 h -2.66146 l -0.47396,0.07292 q -0.0729,-0.03646 -0.10937,-0.145833 -0.10938,-0.109375 -0.0729,-0.145834 h 2.1875 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path28728" />
+      <path
+         d="m 190.37267,30.290273 0.80208,0.364583 -0.36458,0.328125 v 1.239583 h 0.54687 l 0.29167,-0.401041 0.61979,0.510416 -0.32813,0.255208 q 0,3.718749 0.0365,3.791666 -0.0365,0.291666 -0.69271,0.473958 -0.0729,-0.401042 -0.47395,-0.510417 v 2.1875 q -0.1823,0.109375 -0.54688,0.291666 0,-0.911458 0.0365,-2.515624 0.0365,-1.749999 0.0729,-3.864582 h -0.36459 q -0.36458,-0.03646 -0.29166,0.291667 v 3.828123 q -0.21875,0.21875 -0.54688,0.255209 0,0 0,-0.109375 0.0365,-0.291667 0.14584,-4.812499 l 0.51041,0.328125 h 0.54688 z m 6.23437,0.364583 0.83854,0.65625 -0.0729,0.07292 h -4.41145 l -0.51042,0.109375 -0.32812,-0.328125 h 4.04687 z m -0.72917,1.203125 0.65625,0.4375 -0.32812,0.328125 v 1.494791 q -0.14584,0.21875 -0.54688,0.255208 V 33.82673 h -2.04166 v 0.255208 q -0.10938,0.21875 -0.51042,0.255209 l 0.0365,-2.369791 0.61979,0.291666 h 1.78646 z m -4.41145,0.583333 h -0.65625 v 3.68229 q 0.6927,0.21875 0.65625,-0.07292 z m 2.625,0 q -0.54688,0 -0.47396,0.255208 v 0.911458 h 2.04166 v -1.166666 z m 2.26041,2.005208 0.69271,0.510416 q 0,0.03646 -0.14583,0.145833 -0.1823,0.109375 -0.1823,0.145834 0,1.057291 0,1.968749 0.0365,0.802083 0.0729,1.385416 -0.29167,0.145834 -0.61979,0.21875 v -0.911458 h -3.02604 v 0.692708 q -0.29167,0.182292 -0.61979,0.182292 0.0365,-0.765625 0.0729,-2.151041 0,-1.276041 0.0365,-2.078124 l 0.58334,0.291666 h 2.84374 q 0,0.03646 0.14584,-0.182291 0.10937,-0.21875 0.14583,-0.21875 z m -2.00521,0.619791 h -0.98437 q -0.25521,0 -0.21875,0.21875 v 0.984375 h 1.20312 z m 1.82292,0 h -1.3125 v 1.203125 h 1.3125 z m -1.82292,1.421875 h -1.20312 v 1.276041 h 1.20312 z m 1.82292,0 h -1.3125 v 1.276041 h 1.3125 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path28730" />
+    </g>
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-2f97144c-4883-4e44-b5cb-c5f1737e13b7"
@@ -425,16 +418,16 @@
     </g>
     <g
        transform="matrix(0.933331,0,0,0.933331,286.89287,69.317869)"
-       ns5:version="1.8.1"
-       ns5:texconverter="xelatex"
-       ns5:pdfconverter="inkscape"
-       ns5:text="$Q_1 &lt; Q_2$"
-       ns5:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
-       ns5:scale="0.7"
-       ns5:alignment="middle center"
-       ns5:stroke-to-path="0"
-       ns5:inkscapeversion="1.0.2-2"
-       ns5:jacobian_sqrt="0.933331"
+       ns27:version="1.8.1"
+       ns27:texconverter="xelatex"
+       ns27:pdfconverter="inkscape"
+       ns27:text="$Q_1 &lt; Q_2$"
+       ns27:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
+       ns27:scale="0.7"
+       ns27:alignment="middle center"
+       ns27:stroke-to-path="0"
+       ns27:inkscapeversion="1.0.2-2"
+       ns27:jacobian_sqrt="0.933331"
        id="g6371">
       <defs
          id="id-3846a6c1-8cec-414b-ab36-ed9a498afde6">

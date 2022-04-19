@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="46.094254mm"
-   height="29.099323mm"
-   viewBox="0 0 46.094254 29.099323"
+   height="29.099327mm"
+   viewBox="0 0 46.094254 29.099327"
    version="1.1"
    id="svg7083"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="fig01.20.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -21,9 +17,7 @@
        id="marker1290"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -35,9 +29,7 @@
        id="marker1280"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -49,9 +41,7 @@
        id="marker1270"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -63,10 +53,7 @@
        id="Arrow1Mstart"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mstart"
-       inkscape:isstock="true"
-       inkscape:collect="always">
+       orient="auto">
       <path
          transform="matrix(0.4,0,0,0.4,4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -81,26 +68,6 @@
        x="0"
        y="0" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="5.7763549"
-     inkscape:cx="71.758056"
-     inkscape:cy="49.425633"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata7080">
     <rdf:RDF>
@@ -114,41 +81,30 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-69.935018,-103.35578)">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.136471;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-69.935015,-103.35578)">
+    <path
        id="rect4583"
-       width="36.484951"
-       height="27.67403"
-       x="118.19351"
-       y="113.21352"
-       transform="matrix(1,0,-0.34202015,0.93969262,0,0)" />
-    <ellipse
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.136471;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
-       id="path4585"
-       cx="136.43599"
-       cy="127.05053"
+       style="fill:none;stroke:#000000;stroke-width:0.136471;stroke-linecap:round;stroke-linejoin:round"
        transform="matrix(1,0,-0.34202015,0.93969262,0,0)"
-       rx="11.509375"
-       ry="8.7299213" />
+       d="m 118.19351,113.21352 h 36.48495 v 27.67403 h -36.48495 z" />
+    <path
+       id="path4585"
+       style="fill:none;stroke:#000000;stroke-width:0.136471;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#Arrow1Mstart)"
+       transform="matrix(1,0,-0.34202015,0.93969262,0,0)"
+       d="m 147.94536,127.05053 a 11.509375,8.7299213 0 0 1 -11.50937,8.72992 11.509375,8.7299213 0 0 1 -11.50938,-8.72992 11.509375,8.7299213 0 0 1 11.50938,-8.72992 11.509375,8.7299213 0 0 1 11.50937,8.72992 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1270)"
        d="M 93.012877,119.47765 V 103.8289"
-       id="path4587"
-       sodipodi:nodetypes="cc" />
+       id="path4587" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1290)"
        d="m 93.012877,119.4565 9.931103,-5.38016"
-       id="path6625"
-       sodipodi:nodetypes="cc" />
+       id="path6625" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1280)"
        d="m 103.43749,113.80781 -4.659003,-4.44196"
-       id="path6694"
-       sodipodi:nodetypes="cc" />
+       id="path6694" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        d="m 98.417939,117.98293 -0.0668,-0.43759 -0.332951,0.20234 0.01886,0.0339 c 0.01259,-0.01 0.0429,-0.0272 0.05706,-0.0333 0.04961,-0.0214 0.08051,-0.0179 0.09274,0.0104 0.0046,0.0107 0.01223,0.0284 0.01585,0.0562 l 0.145326,0.91216 0.173621,-0.0748 -0.02371,-0.19145 c -0.0062,-0.0435 -0.0618,-0.70867 0.07639,-0.76824 0.04252,-0.0183 0.05592,0.081 0.144501,0.0428 0.09213,-0.0397 0.106047,-0.16337 0.06786,-0.25196 -0.02597,-0.0602 -0.08126,-0.091 -0.145034,-0.0635 -0.124015,0.0535 -0.171229,0.24609 -0.195718,0.40371 -0.008,0.0496 -0.01295,0.10642 -0.01741,0.15456 z m 0,0"

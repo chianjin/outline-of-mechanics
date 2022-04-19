@@ -7,10 +7,6 @@
    width="99.374298"
    height="86.309235"
    viewBox="0 0 99.374298 86.309235"
-   sodipodi:docname="fig10.02.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -70,46 +66,21 @@
       </g>
     </defs>
   </defs>
-  <sodipodi:namedview
-     id="namedview2526"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="4.7199876"
-     inkscape:cx="48.199279"
-     inkscape:cy="52.860308"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g2530" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g2530"
      transform="translate(-288.54779,-91.052886)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+    <path
        id="path2694-1"
-       cx="300.74384"
-       cy="168.11047"
-       r="3" />
+       style="stroke-width:0.5"
+       d="m 303.74384,168.11047 a 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 300.74384,168.11047 373.32119,98.547519"
        id="path2670" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+    <path
        id="path2694"
-       cx="373.3212"
-       cy="98.547516"
-       r="3" />
+       style="stroke-width:0.5"
+       d="m 376.3212,98.547516 a 3,3 0 0 1 -3,3.000004 3,3 0 0 1 -3,-3.000004 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 z" />
     <g
        id="g9323"
        transform="translate(-8.8983283,61.86457)">

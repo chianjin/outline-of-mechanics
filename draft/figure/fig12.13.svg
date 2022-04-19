@@ -7,10 +7,6 @@
    width="56"
    height="291.09302"
    viewBox="0 0 56 291.09302"
-   sodipodi:docname="fig12.13.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -70,58 +66,17 @@
       </g>
     </defs>
   </defs>
-  <sodipodi:namedview
-     id="namedview12821"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:snap-midpoints="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:zoom="2.4049461"
-     inkscape:cx="31.393635"
-     inkscape:cy="147.40455"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g12825"
-     inkscape:snap-global="true">
-    <sodipodi:guide
-       position="28,274.21853"
-       orientation="1,0"
-       id="guide13173" />
-    <sodipodi:guide
-       position="55.5,130.12303"
-       orientation="0,-1"
-       id="guide13292" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g12825"
      transform="translate(-312.66211,-15.874489)">
-    <rect
-       style="fill:none;stroke:#000000;stroke-linejoin:bevel"
+    <path
        id="rect12954"
-       width="55"
-       height="33"
-       x="313.16211"
-       y="16.374489" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6, 2;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-linejoin:bevel"
+       d="m 313.16211,16.374489 h 55 v 33 h -55 z" />
+    <path
        id="rect12954-3"
-       width="55"
-       height="33"
-       x="313.16211"
-       y="160.34448" />
+       style="fill:none;stroke:#000000;stroke-linejoin:round;stroke-dasharray:6, 2"
+       d="m 313.16211,160.34448 h 55 v 33 h -55 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
        d="M 318.76123,32.874489 340.66211,295.55954"
@@ -130,36 +85,26 @@
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
        d="M 362.56299,32.874489 340.66211,295.55954"
        id="path13210" />
-    <circle
-       style="fill:#000000;stroke:#000000;stroke-linejoin:bevel"
+    <path
        id="path13396"
-       cx="318.76123"
-       cy="32.874489"
-       r="1" />
-    <circle
-       style="fill:#000000;stroke:#000000;stroke-linejoin:bevel"
+       style="stroke:#000000;stroke-linejoin:bevel"
+       d="m 319.76123,32.874489 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
+    <path
        id="path13396-3"
-       cx="362.56299"
-       cy="32.874489"
-       r="1" />
-    <circle
-       style="fill:#000000;stroke:#000000;stroke-linejoin:bevel"
+       style="stroke:#000000;stroke-linejoin:bevel"
+       d="m 363.56299,32.874489 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
+    <path
        id="path13396-9"
-       cx="330.76447"
-       cy="176.84448"
-       r="1" />
-    <circle
-       style="fill:#000000;stroke:#000000;stroke-linejoin:bevel"
+       style="stroke:#000000;stroke-linejoin:bevel"
+       d="m 331.76447,176.84448 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
+    <path
        id="path13396-0"
-       cx="350.55975"
-       cy="176.84448"
-       r="1" />
-    <circle
-       style="fill:#000000;stroke:#000000;stroke-linejoin:bevel"
+       style="stroke:#000000;stroke-linejoin:bevel"
+       d="m 351.55975,176.84448 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
+    <path
        id="path13396-0-4"
-       cx="340.66211"
-       cy="295.55954"
-       r="1" />
+       style="stroke:#000000;stroke-linejoin:bevel"
+       d="m 341.66211,295.55954 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-fdb9be8e-a0b4-42f0-b475-2c5fc4ceb201"

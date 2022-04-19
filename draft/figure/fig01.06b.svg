@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="15.191594mm"
-   height="14.921835mm"
-   viewBox="0 0 15.191594 14.921835"
+   width="15.120274mm"
+   height="14.921832mm"
+   viewBox="0 0 15.120273 14.921832"
    version="1.1"
    id="svg2394"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig01.06b.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,26 +25,6 @@
          id="path2434" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="13.902454"
-     inkscape:cx="29.239442"
-     inkscape:cy="28.232426"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata2391">
     <rdf:RDF>
@@ -62,16 +38,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-70.887944,-113.49146)">
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.13229167;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker2649)"
+    <path
        id="path1145"
-       cx="78.348862"
-       cy="-120.95238"
-       r="7.3947716"
-       transform="scale(1,-1)" />
+       style="fill:none;stroke:#000000;stroke-width:0.132292;marker-end:url(#marker2649)"
+       transform="scale(1,-1)"
+       d="m 85.743633,-120.95238 a 7.3947716,7.3947716 0 0 1 -7.394771,7.39477 7.3947716,7.3947716 0 0 1 -7.394772,-7.39477 7.3947716,7.3947716 0 0 1 7.394772,-7.39477 7.3947716,7.3947716 0 0 1 7.394771,7.39477 z" />
   </g>
 </svg>

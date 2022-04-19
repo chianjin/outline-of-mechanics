@@ -3,12 +3,8 @@
    version="1.1"
    id="svg4296"
    width="237.66878"
-   height="88.864578"
-   viewBox="0 0 237.66878 88.864579"
-   sodipodi:docname="fig02.05.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   height="88.864807"
+   viewBox="0 0 237.66878 88.864808"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -65,31 +61,7 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview4298"
-     showgrid="false"
-     inkscape:zoom="4.4729313"
-     inkscape:cx="112.566"
-     inkscape:cy="43.483789"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g4304"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g4304"
      transform="translate(-86.299343,-142.21113)">
     <path
@@ -108,54 +80,46 @@
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 248.82524,177.715 v 4.90028"
        id="path4871-5" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="160.54816"
-       y="149.87486"
-       id="text4995"><tspan
-         sodipodi:role="line"
-         id="tspan4993"
-         x="160.54816"
-         y="149.87486"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">早</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="242.56743"
-       y="149.83092"
-       id="text4999"><tspan
-         sodipodi:role="line"
-         id="tspan4997"
-         x="242.56743"
-         y="149.83092"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">晚</tspan></text>
+    <g
+       aria-label="早"
+       id="text4995"
+       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 167.3294,142.32799 q 0.0729,0.0365 0.80209,0.58333 0,0.0729 -0.18229,0.18229 -0.14584,0.14584 -0.1823,0.1823 0,0.36458 0,0.98437 0.0365,1.82292 0.10938,2.44271 -0.25521,0.21875 -0.58333,0.21875 -0.10938,0 -0.10938,-0.0365 v -0.51042 h -1.82291 v 1.53125 h 2.73437 l 0.54687,-0.65625 0.76563,0.80209 -0.0365,0.0729 h -4.01041 v 2.40625 q -0.51042,0.25521 -0.65625,0.21875 0,-0.25521 0,-0.875 0,-0.36458 0,-0.80208 0,-0.47396 0.0365,-0.94792 h -3.46354 l -0.4375,0.14584 -0.14583,-0.36459 h 4.04687 v -1.53125 h -1.5677 v 0.47396 q -0.51042,0.32813 -0.69271,0.21875 0.0729,-0.36458 0.0729,-1.27604 0,-0.4375 0,-1.16667 0.0365,-0.61979 0.0365,-2.29687 l 0.72917,0.4375 h 3.71875 q 0.25521,-0.4375 0.29166,-0.4375 z m -3.79166,0.65625 q -0.36458,-0.0729 -0.36458,0.32812 v 1.13021 h 4.01041 v -1.45833 z m -0.36458,1.67708 v 1.49479 h 4.01041 v -1.49479 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path4876" />
+    </g>
+    <g
+       aria-label="晚"
+       id="text4999"
+       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 247.67159,142.21113 0.80209,0.47396 q 0,0.0365 -0.0729,0.0365 -0.21875,0.0729 -0.36458,0.29167 -0.10938,0.14583 -0.25521,0.32813 -0.10938,0.14583 -0.10938,0.21875 h 1.49479 q 0.10938,-0.10938 0.1823,-0.1823 0.18229,-0.18229 0.2552,-0.14583 0.6198,0.47396 0.69271,0.61979 0,0.0365 -0.10937,0.0365 -0.76563,0.14583 -1.71354,1.20313 v 0.0365 h 1.38541 q 0.25521,-0.40104 0.32813,-0.40104 0.54687,0.40104 0.65625,0.51042 0,0.0365 -0.10938,0.10937 -0.25521,0.1823 -0.21875,0.21875 0,1.49479 0.0365,1.85938 -0.25521,0.18229 -0.58333,0.21875 v -0.40104 h -0.91146 q 0,0.4375 0,2.40625 -0.0729,0.47395 0.4375,0.47395 0.76562,0.0365 1.09375,-0.0729 0.32812,-0.18229 0.47396,-1.42188 h 0.10937 q -0.0729,1.20313 0.32813,1.3125 0.0365,0 0.0729,0.0365 -0.10937,0.4375 -0.58333,0.58333 -0.72917,0.0729 -2.00521,0.0365 -0.58333,-0.0729 -0.51041,-0.80208 0,-0.94792 0,-2.55208 h -0.0729 q -0.58333,2.73437 -3.90104,3.60937 l -0.0365,-0.14583 q 2.84375,-1.09375 3.46354,-3.46354 h -1.05729 v 0.29166 q -0.29167,0.18229 -0.58333,0.14584 0,-0.0729 0,-0.54688 0.0365,-0.29166 0.0365,-1.96875 -0.32813,0.29167 -0.72917,0.61979 0,2.73438 0.0365,3.13542 -0.32813,0.25521 -0.54688,0.25521 v -0.61979 h -1.23958 v 0.98437 q -0.18229,0.10938 -0.54687,0.18229 0.0364,-2.66146 0.0729,-6.48958 l 0.58333,0.32813 h 1.02084 q 0.25521,-0.32813 0.32812,-0.36459 0.0365,0 0.65625,0.54688 0,0.0365 -0.0729,0.0729 -0.1823,0.0729 -0.29167,0.14584 v 1.56771 l 0.0365,0.0365 q 1.23958,-1.34895 2.04166,-3.35416 z m -2.58854,1.53125 h -0.83854 q -0.4375,0 -0.40104,0.40104 v 1.78646 h 1.23958 z m 2.44271,0.0365 q -0.61979,0.875 -0.83854,1.05729 -0.0729,0.10937 -0.0729,0.10937 l 0.21875,0.18229 h 1.27604 q 0.61979,-0.76562 1.02084,-1.34895 z m -0.29167,1.5677 q -0.47395,-0.0365 -0.40104,0.4375 v 1.23959 h 1.13021 q 0.0729,-0.51042 0.14583,-1.67709 z m 2.73438,0 h -1.3125 q -0.0365,0.36459 -0.14584,1.13021 -0.0729,0.4375 -0.0729,0.54688 h 1.53125 z m -4.88542,0.76563 h -1.23958 v 2.22396 h 1.23958 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path4879" />
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 178.86015,157.08114 h 53.35859"
        id="path5001" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="243.03618"
-       y="230.09882"
-       id="text4995-3"><tspan
-         sodipodi:role="line"
-         id="tspan4993-1"
-         x="243.03618"
-         y="230.09882"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">早</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="160.07941"
-       y="230.05487"
-       id="text4999-9"><tspan
-         sodipodi:role="line"
-         id="tspan4997-8"
-         x="160.07941"
-         y="230.05487"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">晚</tspan></text>
+    <g
+       aria-label="早"
+       id="text4995-3"
+       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 249.81743,222.55194 q 0.0729,0.0365 0.80208,0.58334 0,0.0729 -0.18229,0.18229 -0.14584,0.14583 -0.18229,0.18229 0,0.36458 0,0.98437 0.0365,1.82292 0.10937,2.44271 -0.25521,0.21875 -0.58333,0.21875 -0.10938,0 -0.10938,-0.0365 v -0.51041 h -1.82291 v 1.53125 h 2.73437 l 0.54688,-0.65625 0.76562,0.80208 -0.0365,0.0729 h -4.01041 v 2.40625 q -0.51042,0.2552 -0.65625,0.21875 0,-0.25521 0,-0.875 0,-0.36459 0,-0.80209 0,-0.47396 0.0365,-0.94791 h -3.46354 l -0.4375,0.14583 -0.14584,-0.36458 h 4.04688 v -1.53125 h -1.56771 v 0.47396 q -0.51042,0.32812 -0.69271,0.21875 0.0729,-0.36459 0.0729,-1.27605 0,-0.4375 0,-1.16666 0.0365,-0.61979 0.0365,-2.29688 l 0.72917,0.4375 h 3.71875 q 0.25521,-0.4375 0.29167,-0.4375 z m -3.79167,0.65625 q -0.36458,-0.0729 -0.36458,0.32813 v 1.13021 h 4.01041 v -1.45834 z m -0.36458,1.67709 v 1.49479 h 4.01041 v -1.49479 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path4882" />
+    </g>
+    <g
+       aria-label="晚"
+       id="text4999-9"
+       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 165.18357,222.43508 0.80208,0.47396 q 0,0.0365 -0.0729,0.0365 -0.21875,0.0729 -0.36459,0.29166 -0.10937,0.14584 -0.2552,0.32813 -0.10938,0.14583 -0.10938,0.21875 h 1.49479 q 0.10938,-0.10938 0.18229,-0.18229 0.1823,-0.18229 0.25521,-0.14584 0.61979,0.47396 0.69271,0.6198 0,0.0365 -0.10937,0.0365 -0.76563,0.14584 -1.71355,1.20313 v 0.0365 h 1.38542 q 0.25521,-0.40104 0.32813,-0.40104 0.54687,0.40104 0.65625,0.51041 0,0.0365 -0.10938,0.10938 -0.25521,0.18229 -0.21875,0.21875 0,1.49479 0.0365,1.85937 -0.25521,0.18229 -0.58333,0.21875 v -0.40104 h -0.91146 q 0,0.4375 0,2.40625 -0.0729,0.47396 0.4375,0.47396 0.76562,0.0365 1.09375,-0.0729 0.32812,-0.18229 0.47396,-1.42187 h 0.10937 q -0.0729,1.20312 0.32813,1.3125 0.0365,0 0.0729,0.0365 -0.10937,0.4375 -0.58333,0.58334 -0.72917,0.0729 -2.00521,0.0365 -0.58333,-0.0729 -0.51042,-0.80209 0,-0.94791 0,-2.55208 h -0.0729 q -0.58334,2.73437 -3.90104,3.60937 l -0.0365,-0.14583 q 2.84375,-1.09375 3.46354,-3.46354 h -1.05729 v 0.29167 q -0.29167,0.18229 -0.58333,0.14583 0,-0.0729 0,-0.54688 0.0365,-0.29166 0.0365,-1.96874 -0.32812,0.29166 -0.72916,0.61979 0,2.73437 0.0365,3.13541 -0.32813,0.25521 -0.54688,0.25521 v -0.61979 h -1.23958 v 0.98437 q -0.18229,0.10938 -0.54688,0.1823 0.0365,-2.66146 0.0729,-6.48959 l 0.58333,0.32813 h 1.02084 q 0.2552,-0.32813 0.32812,-0.36458 0.0365,0 0.65625,0.54687 0,0.0365 -0.0729,0.0729 -0.18229,0.0729 -0.29166,0.14583 v 1.56771 l 0.0365,0.0365 q 1.23958,-1.34896 2.04166,-3.35417 z m -2.58854,1.53125 h -0.83854 q -0.4375,0 -0.40104,0.40104 v 1.78646 h 1.23958 z m 2.44271,0.0365 q -0.61979,0.875 -0.83854,1.05729 -0.0729,0.10938 -0.0729,0.10938 l 0.21875,0.18229 h 1.27604 q 0.61979,-0.76563 1.02083,-1.34896 z m -0.29167,1.56771 q -0.47396,-0.0365 -0.40104,0.4375 v 1.23958 h 1.13021 q 0.0729,-0.51042 0.14583,-1.67708 z m 2.73438,0 h -1.3125 q -0.0365,0.36458 -0.14584,1.13021 -0.0729,0.43749 -0.0729,0.54687 h 1.53125 z m -4.88542,0.76562 h -1.23958 v 2.22396 h 1.23958 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path4885" />
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2622)"
        d="m 179.84549,216.16756 h 53.35859"

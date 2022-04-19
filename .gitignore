@@ -1,10 +1,11 @@
 ## Directories
 .idea
 build
+figure-work
+
 
 ## Special files
-/tex/intromech.pdf
-/力学概论.pdf
+/tex/outline-of-mechanics.pdf
 
 ## Font files
 *.ttf
@@ -254,4 +255,3 @@ TSWLatexianTemp*
 # generated if using elsarticle.cls
 *.spl
 *.xcp
-/tex/outline-of-mechanics.pdf

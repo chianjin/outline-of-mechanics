@@ -5,10 +5,6 @@
    width="145.35231"
    height="80.958412"
    viewBox="0 0 145.35231 80.958414"
-   sodipodi:docname="fig01.09.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -77,48 +73,21 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview835"
-     showgrid="false"
-     inkscape:zoom="7.452953"
-     inkscape:cx="72.119065"
-     inkscape:cy="43.808139"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g841"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g841"
      transform="translate(-248.22604,-52.490854)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="m 255.15027,54.520259 c 33.04256,-8.391761 52.79816,15.035239 65.38581,25.175284 12.58764,10.140045 51.15962,37.035187 71.96419,-16.986789"
-       id="path845"
-       sodipodi:nodetypes="csc" />
+       id="path845" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 256.64803,131.99541 36.2179,-68.927034"
-       id="path1123"
-       sodipodi:nodetypes="cc" />
+       id="path1123" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 256.64803,131.99541 338.54901,93.679562"
-       id="path1153"
-       sodipodi:nodetypes="cc" />
+       id="path1153" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-4d7a5971-6412-4803-96d4-18034021c4a0"

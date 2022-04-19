@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="41.302151mm"
-   height="38.264713mm"
-   viewBox="0 0 41.302151 38.264713"
+   width="41.30727mm"
+   height="38.264557mm"
+   viewBox="0 0 41.30727 38.264557"
    version="1.1"
    id="svg1291"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig05.03.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -21,9 +17,7 @@
        id="marker3584"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -35,9 +29,7 @@
        id="Arrow1Lend"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -49,9 +41,7 @@
        id="Arrow1Mstart-91"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.4,0,0,0.4,4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -63,9 +53,7 @@
        id="Arrow1Mstart-91-4"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.4,0,0,0.4,4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -77,9 +65,7 @@
        id="marker3241-8"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -91,9 +77,7 @@
        id="marker3241-2"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -179,36 +163,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="5.3449484"
-     inkscape:cx="78.111138"
-     inkscape:cy="72.311269"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-global="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata1288">
     <rdf:RDF>
@@ -222,53 +176,45 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-136.688, -221.162)">
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="translate(-136.6828,-221.16183)">
+    <path
        id="path3155"
-       cx="155.81509"
-       cy="240.2942"
-       r="17" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.26458299;stroke-miterlimit:4;stroke-dasharray:1.58749792,0.52916597;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 172.81509,240.2942 a 17,17 0 0 1 -17,17 17,17 0 0 1 -17,-17 17,17 0 0 1 17,-17 17,17 0 0 1 17,17 z" />
+    <path
        id="path3155-7"
-       cx="155.81509"
-       cy="240.2942"
-       r="19" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:1.5875, 0.529166"
+       d="m 174.81509,240.2942 a 19,19 0 0 1 -19,19 19,19 0 0 1 -19,-19 19,19 0 0 1 19,-19 19,19 0 0 1 19,19 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="m 166.45993,235.4725 4.55099,-2.04779"
-       id="path3231"
-       sodipodi:nodetypes="cc" />
+       id="path3231" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="m 177.96299,230.26206 -4.59926,2.06388"
-       id="path3231-0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic';stroke-width:0.264583"
-       x="151.66464"
-       y="243.66646"
-       id="text3572"><tspan
-         sodipodi:role="line"
-         id="tspan3570"
-         x="151.66464"
-         y="243.66646"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01;stroke-width:0.264583">地球</tspan></text>
+       id="path3231-0" />
+    <g
+       aria-label="地球"
+       id="text3572"
+       style="font-style:italic;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic';stroke-width:0.264583">
+      <path
+         d="m 153.12123,241.73721 q 0.23151,0.0579 0.2508,0.0868 0,0.01 -0.0482,0.0482 -0.0579,0.0579 -0.0579,0.0675 v 0.51125 l 0.29903,-0.1254 q 0.01,-0.01 0.0579,-0.0965 0.0193,-0.0482 0.0289,-0.0482 0.10611,0.0386 0.20257,0.1254 0,0.01 -0.0386,0.0482 -0.0482,0.0579 -0.0482,0.0675 -0.01,0.28939 -0.0193,0.46302 -0.01,0.16399 -0.01,0.26045 -0.0579,0.16399 -0.23151,0.23151 -0.01,0 -0.0193,-0.0193 -0.0193,-0.0965 -0.19292,-0.17363 v -0.0193 q 0.2508,0.0386 0.27009,-0.0386 0.0482,-0.1447 0.0579,-0.76206 l -0.35691,0.15434 v 0.92604 q -0.0482,0.0482 -0.14469,0.0772 v -0.94533 l -0.28939,0.13505 v 0.83922 q -0.0482,0.17364 0.19292,0.15434 0.29904,0 0.62701,0 0.17363,0.0386 0.2508,-0.45337 h 0.0289 q -0.0289,0.3955 0.0965,0.43408 -0.0482,0.15434 -0.36655,0.16399 -0.27975,0 -0.55949,0 -0.5016,0.0289 -0.41479,-0.22187 v -0.85851 l -0.21221,0.0965 -0.0772,0.0675 -0.0772,-0.0675 0.36655,-0.15434 v -0.67524 q 0.22187,0.0868 0.23151,0.0965 0,0.0289 -0.0579,0.0772 -0.0289,0.0289 -0.0289,0.0386 v 0.3955 l 0.28939,-0.12541 z m -1.00321,0.0675 q 0.26044,0.11576 0.23151,0.11576 0,0.01 -0.0289,0.0289 -0.0579,0.0482 -0.0579,0.0675 v 0.53054 h 0.0965 l 0.0868,-0.1254 0.16398,0.15434 v 0.0193 h -0.34726 v 0.80064 l 0.33762,-0.11575 0.01,0.0386 q -0.60771,0.31833 -0.69453,0.36656 -0.0579,0.0386 -0.0675,0.0386 -0.0868,-0.0579 -0.1254,-0.15434 0,0 0.0289,-0.01 0.15434,-0.0289 0.36656,-0.10611 v -0.85852 h -0.22187 l -0.0965,0.0193 -0.0386,-0.0675 h 0.35692 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path21872" />
+      <path
+         d="m 155.60996,241.6311 0.22186,0.11575 q 0,0.01 -0.0289,0.0289 -0.0386,0.0386 -0.0386,0.0482 v 0.41479 h 0.41479 l 0.11575,-0.13504 0.21222,0.18327 -0.01,0.01 h -0.72347 q 0.0482,0.28939 0.17364,0.54984 l 0.27974,-0.37621 0.14469,0.1447 q 0,0.01 -0.0289,0.0193 -0.0386,0 -0.0772,0.0193 -0.11575,0.0868 -0.29903,0.24116 0.18328,0.44373 0.55948,0.627 l -0.0193,0.0193 q -0.16399,-0.0386 -0.26045,0.0386 -0.0193,0.01 -0.0193,0.01 -0.01,0 -0.0193,-0.01 -0.36656,-0.42443 -0.44373,-1.09002 0,0.16398 0,0.36655 0,0.92604 -0.01,0.93569 -0.0482,0.0675 -0.20257,0.1254 -0.0289,0 -0.0482,0.0193 -0.0289,-0.17363 -0.30868,-0.2508 l 0.0193,-0.0193 q 0.27974,0.0386 0.37621,0.0289 0.01,-0.0289 0.0193,-0.62701 -0.19293,0.1254 -0.47267,0.38585 -0.0772,0.0675 -0.0772,0.0675 -0.10611,-0.0868 -0.1254,-0.15434 0.26045,-0.11575 0.67524,-0.36655 v -0.70418 h -0.5209 l -0.0965,0.0386 -0.0482,-0.0965 h 0.66559 z m 0.30868,0.16399 q 0.22186,0.0675 0.30868,0.14469 0.0675,0.15434 -0.0579,0.19292 -0.0289,0 -0.0482,-0.0482 -0.0675,-0.13504 -0.20257,-0.2508 z m -1.01286,0.0772 0.18328,0.18327 -0.01,0.01 h -0.3762 v 0.58842 h 0.0965 l 0.10611,-0.1254 0.18328,0.16399 v 0.0193 h -0.38585 v 0.56913 q 0.0482,-0.01 0.16399,-0.0675 0.16398,-0.0675 0.18328,-0.0675 l 0.01,0.0193 q -0.61736,0.40515 -0.69453,0.46302 -0.0579,0.0289 -0.0579,0.0289 -0.1061,-0.0868 -0.13504,-0.15434 0,0 0.0289,-0.01 0.16398,-0.0482 0.34726,-0.13505 v -0.6463 h -0.18328 l -0.0868,0.0289 -0.0482,-0.0868 h 0.31833 v -0.58842 h -0.23151 l -0.0868,0.0386 -0.0386,-0.0868 h 0.60771 z m 0.18328,0.57877 q 0.0193,0.0193 0.0386,0.0289 0.27974,0.15434 0.29903,0.24116 0.0289,0.17363 -0.0965,0.20257 -0.0482,0 -0.0675,-0.0965 -0.0386,-0.20257 -0.18328,-0.34726 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
+         id="path21874" />
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="m 155.81509,240.2942 15.29867,6.78971"
-       id="path3574"
-       sodipodi:nodetypes="cc" />
+       id="path3574" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 174.11071,229.81084 -2.03772,3.18213"
-       id="path3656"
-       sodipodi:nodetypes="cc" />
+       id="path3656" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-f4078dff-f0ae-448b-be3c-6208b136c0b8"

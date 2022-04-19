@@ -5,16 +5,12 @@
    width="215.37688"
    height="139.83643"
    viewBox="0 0 215.37688 139.83642"
-   sodipodi:docname="fig02.08.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:ns16="http://www.iki.fi/pav/software/textext/">
+   xmlns:ns27="http://www.iki.fi/pav/software/textext/">
   <metadata
      id="metadata3324">
     <rdf:RDF>
@@ -34,9 +30,7 @@
        id="marker1431"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -68,128 +62,60 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview3320"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-bbox="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:snap-center="true"
-     inkscape:zoom="5.4349212"
-     inkscape:cx="107.72925"
-     inkscape:cy="68.722247"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g3326"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
-    <sodipodi:guide
-       position="140.36651,82.436443"
-       orientation="0.70710678,0.70710678"
-       id="guide3891"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g3326"
      transform="translate(-175.56794,-290.14802)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 175.78762,416.21192 H 381.0516"
-       id="path3893"
-       sodipodi:nodetypes="cc" />
+       id="path3893" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 384.59838,416.21192 318.35331,349.96686"
-       id="path3895"
-       sodipodi:nodetypes="cc" />
+       id="path3895" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 175.78762,416.21192 312.76356,349.21641"
-       id="path3897"
-       sodipodi:nodetypes="cc" />
+       id="path3897" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="m 316.13581,416.21192 -0.1705,-65.09714"
-       id="path3899"
-       sodipodi:nodetypes="cc" />
+       id="path3899" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
        d="M 315.93445,347.548 276.46783,308.08138"
        id="path3901" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="321.8414"
-       y="302.70752"
-       id="text3943"><tspan
-         sodipodi:role="line"
-         id="tspan3941"
-         x="321.8414"
-         y="302.70752">北</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01"
-       x="382.15836"
-       y="408.59946"
-       id="text3947"><tspan
-         sodipodi:role="line"
-         id="tspan3945"
-         x="382.15836"
-         y="408.59946">东</tspan></text>
+    <g
+       aria-label="北"
+       id="text3943"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 324.9039,295.27002 q 0.875,0.36459 0.91146,0.40104 0,0.0365 -0.18229,0.21875 -0.14584,0.1823 -0.14584,0.21875 v 7.07292 q -0.25521,0.21875 -0.58333,0.29166 l 0.0365,-1.60416 q -2.00521,0.47396 -2.47917,0.80208 -0.0365,0 -0.0365,0 -0.40104,-0.58333 -0.40104,-0.72917 0,0 0.10938,0 0.10937,0.0365 2.80729,-0.29166 v -3.46354 h -2.1875 l -0.40104,0.10937 -0.21875,-0.32812 h 2.80729 z m 2.1875,0.0365 q 0.36458,0.14583 0.91146,0.36458 0,0.0365 -0.1823,0.21875 -0.18229,0.1823 -0.14583,0.1823 v 2.77083 q 1.3125,-1.16667 1.93229,-2.26042 0.29167,0.36458 0.69271,0.72917 -0.0365,0.0729 -0.10937,0.0729 -0.1823,0 -0.36459,0.14584 -1.13021,0.94791 -2.15104,1.60416 v 2.91667 q -0.32812,0.80208 1.3125,0.65625 0.69271,0.0365 0.80208,-0.21875 0.14584,-0.21875 0.36459,-1.85937 h 0.14583 q -0.14583,1.74999 0.25521,1.93229 0.0365,0.0365 0.0729,0.0365 -0.1823,0.69271 -1.82292,0.65625 -1.38542,0 -1.53125,-0.18229 -0.21875,-0.10937 -0.18229,-1.13021 z"
+         id="path5493" />
+    </g>
+    <g
+       aria-label="东"
+       id="text3947"
+       style="font-size:9.33333px;line-height:1.25;font-family:FZShuSong-Z01;-inkscape-font-specification:FZShuSong-Z01">
+      <path
+         d="m 386.3146,400.90675 q 0.83855,0.4375 0.875,0.51042 -0.0365,0.0365 -0.10937,0.0729 -0.25521,0.0365 -0.36458,0.25521 -0.36459,0.61979 -0.51042,0.83854 h 3.39062 l 0.51042,-0.58333 0.83854,0.72917 -0.0365,0.0729 h -4.8125 l -1.5677,2.51563 h 2.15104 q -0.0365,-1.45833 -0.0729,-1.85938 0.58333,0.21875 0.94792,0.40105 0,0.0729 -0.21875,0.21874 -0.0729,0.0729 -0.0729,0.0729 v 1.16667 h 1.60417 l 0.47395,-0.47396 0.76563,0.61979 v 0.0729 h -2.84375 q 0,2.15104 0.0365,2.80729 0,0.72916 0,0.69271 -0.25521,0.40104 -0.91146,0.58333 -0.0365,0 -0.0365,-0.0365 0,-0.58333 -1.13021,-0.80208 v -0.10938 q 0.80209,0.0729 1.0573,0.0729 0.29166,0.0365 0.36458,0 0.0365,-0.0365 0.0365,-0.80208 0,-0.91146 0,-2.40625 h -2.22396 q -0.0729,0.0365 -0.40104,0.25521 -0.0729,0 -0.47396,-0.47396 0,0 0.0729,-0.0365 0.25521,-0.10938 0.32812,-0.21875 0.65625,-0.94792 1.42188,-2.26042 h -2.15104 l -0.36459,0.0729 -0.29166,-0.29167 h 2.91666 q 0.0365,-0.14583 0.21875,-0.47395 0.32813,-0.6198 0.58333,-1.20313 z m -1.1302,4.99479 q 0.58333,0.54688 0.65625,0.61979 -0.0365,0.0365 -0.10938,0.0365 -0.18229,0.0365 -0.40104,0.25521 -1.71354,1.67708 -2.88021,2.22396 l -0.0365,-0.10938 q 1.67709,-1.20312 2.77084,-3.02604 z m 2.91666,0.18229 q 1.60417,0.875 2.47917,1.96875 0.21875,0.83854 -0.40104,0.875 -0.0729,-0.0365 -0.14584,-0.25521 -0.47396,-1.23958 -1.96875,-2.51562 z"
+         id="path5496" />
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2631)"
        d="M 175.78762,416.21192 H 312.40041"
-       id="path4111"
-       sodipodi:nodetypes="cc" />
+       id="path4111" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2649)"
        d="M 315.93445,347.548 V 293.14791"
-       id="path4231"
-       sodipodi:nodetypes="cc" />
+       id="path4231" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4297"
-       sodipodi:type="arc"
-       sodipodi:cx="175.78761"
-       sodipodi:cy="416.21191"
-       sodipodi:rx="22.295216"
-       sodipodi:ry="22.295216"
-       sodipodi:start="5.8342321"
-       sodipodi:end="0.012513033"
-       sodipodi:arc-type="arc"
-       d="m 195.87342,406.53528 a 22.295216,22.295216 0 0 1 2.20766,9.95561"
-       sodipodi:open="true" />
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round"
+       d="m 195.87342,406.53528 a 22.295216,22.295216 0 0 1 2.20766,9.95561" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1431)"
        id="path4299"
-       sodipodi:type="arc"
-       sodipodi:cx="384.59839"
-       sodipodi:cy="416.21191"
-       sodipodi:rx="21.907475"
-       sodipodi:ry="21.907475"
-       sodipodi:start="3.1415927"
-       sodipodi:end="3.9269908"
-       sodipodi:arc-type="slice"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;marker-end:url(#marker1431)"
        d="m 362.69091,416.21191 a 21.907475,21.907475 0 0 1 6.41655,-15.49092 l 15.49093,15.49092 z" />
     <g
        id="g13426"
@@ -425,16 +351,16 @@
     </g>
     <g
        transform="matrix(0.933331,0,0,0.933331,349.18751,403.05254)"
-       ns16:version="1.8.1"
-       ns16:texconverter="xelatex"
-       ns16:pdfconverter="inkscape"
-       ns16:text="$45^\\circ$"
-       ns16:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
-       ns16:scale="0.7"
-       ns16:alignment="middle center"
-       ns16:stroke-to-path="0"
-       ns16:inkscapeversion="1.0.1"
-       ns16:jacobian_sqrt="0.933331"
+       ns27:version="1.8.1"
+       ns27:texconverter="xelatex"
+       ns27:pdfconverter="inkscape"
+       ns27:text="$45^\\circ$"
+       ns27:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
+       ns27:scale="0.7"
+       ns27:alignment="middle center"
+       ns27:stroke-to-path="0"
+       ns27:inkscapeversion="1.0.1"
+       ns27:jacobian_sqrt="0.933331"
        id="g14602">
       <defs
          id="id-fb1aa4e3-b43b-4c1c-889a-3f73f877c77a" />

@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="23.60409mm"
-   height="15.350215mm"
-   viewBox="0 0 23.60409 15.350215"
+   height="15.350217mm"
+   viewBox="0 0 23.60409 15.350217"
    version="1.1"
    id="svg2238"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig03.08b.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -21,9 +17,7 @@
        id="Arrow1Mstart-9"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.4,0,0,0.4,4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -117,26 +111,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="9.2559778"
-     inkscape:cx="44.565794"
-     inkscape:cy="29.00828"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata2235">
     <rdf:RDF>
@@ -150,17 +124,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-69.8408, -96.6463)">
-    <rect
-       style="fill:none;stroke:none;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-69.840813,-96.646323)">
+    <path
        id="rect1992"
-       width="23.425026"
-       height="15.21792"
-       x="69.887589"
-       y="96.778618" />
+       style="fill:none;stroke-width:0.264583;stroke-linecap:square"
+       d="M 69.887589,96.778618 H 93.312614 V 111.99654 H 69.887589 Z" />
     <g
        id="g168-9"
        transform="matrix(0.26458333,0,0,0.26458333,59.950066,-31.447143)">
@@ -269,20 +238,14 @@
            id="path8288-9-6" />
       </g>
     </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
        id="rect170-5"
-       width="5.0270834"
-       height="5.0270834"
-       x="70.823029"
-       y="103.61815" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
+       d="m 70.823029,103.61815 h 5.027083 v 5.02708 h -5.027083 z" />
+    <path
        id="rect995-4"
-       width="6.879168"
-       height="6.8791676"
-       x="75.850113"
-       y="101.76606" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
+       d="m 75.850113,101.76606 h 6.879168 v 6.87917 h -6.879168 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker2622)"
        d="m 83.501549,105.31617 h 7.42005"

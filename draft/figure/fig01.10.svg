@@ -5,10 +5,6 @@
    width="162.84747"
    height="150.60588"
    viewBox="0 0 162.84747 150.60588"
-   sodipodi:docname="fig01.10.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -33,9 +29,7 @@
        id="marker2812"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -47,9 +41,7 @@
        id="marker2802"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -61,9 +53,7 @@
        id="marker2760"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.8,0,0,0.8,10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -75,9 +65,7 @@
        id="marker2750"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.8,0,0,0.8,10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -187,46 +175,7 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview2076"
-     showgrid="false"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="4.7270373"
-     inkscape:cx="82.821432"
-     inkscape:cy="70.551591"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g2082"
-     inkscape:pagecheckerboard="0"
-     inkscape:snap-global="false">
-    <sodipodi:guide
-       position="35.803997,14.373223"
-       orientation="-0.69021092,0.72360824"
-       id="guide2651" />
-    <sodipodi:guide
-       position="123.61312,58.759403"
-       orientation="58.35275,-120.93395"
-       id="guide2653" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g2082"
      transform="translate(-226.50334,-104.07216)">
     <path
@@ -252,45 +201,40 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
        d="m 257.82184,244.58329 99.69851,-95.09704"
-       id="path2665"
-       sodipodi:nodetypes="cc" />
+       id="path2665" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
        d="M 249.29475,244.56687 356.05759,193.05193"
-       id="path2667"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
-       x="230.8739"
-       y="102.61062"
-       id="text2671"><tspan
-         sodipodi:role="line"
-         id="tspan2669"
-         x="230.8739"
-         y="102.61062" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="358.39191"
-       y="154.54536"
-       id="text2734"><tspan
-         sodipodi:role="line"
-         id="tspan2732"
-         x="358.39191"
-         y="154.54536"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">割线</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'"
-       x="358.95224"
-       y="195.03267"
-       id="text2738"><tspan
-         sodipodi:role="line"
-         id="tspan2736"
-         x="358.95224"
-         y="195.03267"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">切线</tspan></text>
+       id="path2667" />
+    <g
+       id="text2671"
+       style="font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '" />
+    <g
+       aria-label="割线"
+       id="text2734"
+       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 360.7617,146.92558 q 1.60416,0.65625 0.76562,1.31249 h 1.67709 q 0.10937,-0.14583 0.36458,-0.43749 0.65625,0.47395 0.76562,0.61979 0,0.0365 -0.0365,0.0365 -0.61979,-0.0365 -1.53124,0.80209 l -0.10938,-0.10938 q 0.14583,-0.18229 0.36458,-0.47396 0.0729,-0.10937 0.14584,-0.21875 h -3.46354 q 0.0365,0.51042 -0.1823,0.83855 -0.58333,0.47395 -0.6927,0 -0.0365,-0.10938 0.14583,-0.29167 0.47396,-0.4375 0.54687,-1.3125 h 0.0729 q 0.0729,0.32812 0.10938,0.54687 h 1.5677 q -0.0729,-0.6927 -0.58333,-1.20312 z m 5.39583,0.10937 q 0.76562,0.32813 0.91146,0.4375 -0.29167,0.14583 -0.32813,0.25521 0,1.64062 0,3.57291 0,1.78646 0.0365,3.35417 0,0.65625 -0.94792,0.875 -0.0365,-0.0365 -0.0729,-0.14583 0.0365,-0.4375 -1.09375,-0.72917 l 0.0365,-0.10938 q 1.75,0.36459 1.53125,-0.14583 l -0.0365,-4.63021 q 0,-0.36458 -0.0365,-1.67708 0,-0.875 0,-1.05729 z m -1.42188,1.05729 q 0.54688,0.32813 0.80209,0.47396 0,0.0365 -0.14584,0.14583 -0.18229,0.10938 -0.18229,0.14584 v 4.30208 q -0.18229,0.18229 -0.51041,0.21875 z m -3.53645,0.40104 q 0.40104,0.10938 0.72916,0.36459 -0.0729,0.0729 -0.2552,0.21875 v 0.4375 h 1.27604 l 0.29166,-0.40105 0.54688,0.51042 -0.0365,0.10938 h -2.07812 v 0.875 h 0.72916 l 0.36459,-0.4375 0.65625,0.58333 -0.0365,0.0729 h -1.71354 v 0.875 h 1.49479 l 0.40104,-0.54688 0.72916,0.69271 -0.0365,0.0729 h -2.58854 v 0.47395 q -0.1823,0.1823 -0.47396,0.21875 v -0.6927 h -1.75 l -0.51042,0.0365 -0.21875,-0.2552 h 2.47917 v -0.875 h -0.875 l -0.4375,0.0729 -0.18229,-0.29166 h 1.49479 v -0.875 h -1.16667 l -0.40104,0.0729 -0.18229,-0.29166 h 1.75 z m -1.53125,3.97396 0.61979,0.36458 h 2.26042 q 0.14583,-0.29166 0.21875,-0.32812 0.21875,0.0729 0.72916,0.47396 0,0.0365 -0.18229,0.18229 -0.18229,0.14583 -0.14583,0.14583 v 1.67708 q -0.21875,0.21875 -0.54688,0.21875 v -0.61979 h -2.44271 v 0.69271 q -0.21875,0.18229 -0.54687,0.25521 z m 2.95312,0.58333 h -2.11458 q -0.40104,-0.0365 -0.32813,0.32813 v 1.05729 h 2.44271 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal'"
+         id="path1448" />
+      <path
+         d="m 372.64711,146.85266 0.98437,0.47396 q -0.32812,0.25521 -0.32812,0.29166 0,1.53125 0,1.75 l 1.53125,-0.18229 0.36458,-0.54687 0.76563,0.54687 v 0.0729 l -2.66146,0.32812 q 0,0.76563 0.10937,1.34896 l 1.67709,-0.21875 0.40104,-0.61979 0.83854,0.61979 -0.0365,0.0729 -2.84375,0.32812 q 0.10938,1.09375 0.36459,1.67708 0.65625,-0.58333 1.16666,-1.31249 0.58334,0.54687 0.58334,0.58333 -0.0365,0.0365 -0.10938,0.0729 -0.29167,0.10937 -0.51042,0.29166 -0.29166,0.25521 -0.875,0.83854 0.72917,1.13021 1.60417,1.27604 0.10938,0.10938 0.51042,-1.53125 h 0.10937 q -0.32812,1.4948 0.0729,2.33334 0.0729,0.14583 0.0729,0.21875 -1.64063,-0.29167 -2.8073,-1.93229 -1.20312,0.875 -3.3177,1.53125 l -0.0729,-0.1823 q 1.89583,-0.65625 3.17187,-1.78645 -0.29166,-0.51042 -0.51041,-2.00521 l -1.23958,0.14583 -0.47396,0.10938 -0.21875,-0.21875 1.93229,-0.21875 q -0.10938,-0.76563 -0.10938,-1.34896 l -0.98437,0.10937 -0.29167,0.0729 -0.21875,-0.21875 1.45834,-0.18229 q 0,-1.71354 -0.10938,-2.58854 z m -2.88021,0.14583 q 0.18229,0.18229 0.10938,0.10938 0.65625,0.51041 0.58333,0.51041 -0.0365,0.0365 -0.0729,0.0365 -0.2552,0.0365 -0.58333,0.58333 -0.83854,1.13021 -1.27604,1.75 l 1.67708,-0.10937 q 0.47396,-0.72917 0.91146,-1.42188 0.58333,0.6198 0.58333,0.65625 -0.0365,0.0365 -0.0729,0.0365 -0.18229,-0.0365 -0.69271,0.58334 -0.10938,0.10937 -0.21875,0.2552 -1.20313,1.34896 -1.96875,2.07813 l 2.55208,-0.36458 0.0365,0.14583 q -1.85937,0.4375 -2.77083,0.80208 -0.10938,0.0365 -0.10938,0.0365 -0.32812,-0.32812 -0.36458,-0.61979 0.29167,-0.0365 0.51042,-0.21875 0.61979,-0.58333 1.42187,-1.71354 -1.20312,0.25521 -1.49479,0.40104 -0.18229,0.0365 -0.21875,0.0365 -0.0729,0 -0.36458,-0.61979 0,0.0365 0,0.0365 0.29166,0 0.54687,-0.36458 0.69271,-1.02083 1.16667,-2.40625 0.0365,-0.10937 0.10937,-0.21875 z m 4.19271,0.18229 q 1.02083,0.29167 1.34896,0.72917 0.18229,0.51042 -0.32813,0.65625 -0.14583,0 -0.29166,-0.32813 -0.29167,-0.65624 -0.72917,-0.98437 z m -2.29687,5.76042 0.0729,0.10937 q -2.98958,1.45834 -3.13541,1.53125 -0.14584,0.10938 -0.14584,0.10938 -0.40104,-0.21875 -0.51041,-0.51042 0,0 0.0729,0 0.0365,0.0365 3.64584,-1.23958 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal'"
+         id="path1450" />
+    </g>
+    <g
+       aria-label="切线"
+       id="text2738"
+       style="font-style:italic;font-size:9.33333px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic'">
+      <path
+         d="m 360.77516,187.44934 q 0.91145,0.40104 0.94791,0.4375 0,0.0365 -0.29166,0.25521 -0.0729,0.0729 -0.0729,0.0729 v 2.1875 l 0.98437,-0.25521 0.32813,-0.61979 0.83854,0.47396 v 0.0729 l -2.15104,0.51041 v 2.91667 l 2.11458,-1.16667 0.0729,0.10938 q -2.04167,1.38541 -2.40625,2.00521 0,0.0365 0,0.0365 -0.14583,-0.0365 -0.69271,-0.54687 0,0 0.10938,-0.10938 0.2552,-0.18229 0.2552,-0.2552 v -2.84375 l -0.98437,0.25521 -0.40104,0.21875 -0.29167,-0.29167 1.67708,-0.40104 v -2.07813 z m 6.08854,0.65625 q 0,0 0.40104,0.29166 0.36458,0.29167 0.40104,0.25521 0,0.0729 -0.32813,0.29167 -0.0729,0.0365 -0.0729,0.0365 -0.0729,1.05729 -0.0729,1.89583 -0.14583,4.375 -0.25521,4.04687 -0.47396,0.58334 -1.27604,0.80209 -0.0365,-0.0365 -0.0729,-0.10938 -0.0365,-0.51041 -1.20312,-0.69271 l 0.0365,-0.14583 q 1.45833,0.25521 1.64062,0.10938 0.47396,0.72916 0.61979,-6.125 h -1.75 q -0.18229,4.08333 -0.80208,5.0677 -0.51041,1.20313 -3.0625,2.1875 l -0.0729,-0.14583 q 2.11458,-0.94792 2.69791,-2.26042 0.58333,-1.05729 0.65625,-4.84895 h -0.80208 l -0.47396,0.14583 -0.29167,-0.36458 h 3.68229 q 0.32813,-0.36459 0.40105,-0.4375 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal'"
+         id="path1453" />
+      <path
+         d="m 373.20744,187.33996 0.98438,0.47396 q -0.32813,0.25521 -0.32813,0.29167 0,1.53125 0,1.75 l 1.53125,-0.18229 0.36459,-0.54688 0.76562,0.54688 v 0.0729 l -2.66146,0.32813 q 0,0.76562 0.10938,1.34896 l 1.67708,-0.21875 0.40104,-0.6198 0.83854,0.6198 -0.0365,0.0729 -2.84375,0.32813 q 0.10937,1.09375 0.36458,1.67708 0.65625,-0.58333 1.16667,-1.3125 0.58333,0.54687 0.58333,0.58333 -0.0365,0.0365 -0.10938,0.0729 -0.29166,0.10937 -0.51041,0.29167 -0.29167,0.2552 -0.875,0.83854 0.72916,1.13021 1.60416,1.27604 0.10938,0.10937 0.51042,-1.53125 h 0.10938 q -0.32813,1.49479 0.0729,2.33333 0.0729,0.14584 0.0729,0.21875 -1.64063,-0.29166 -2.80729,-1.93229 -1.20313,0.875 -3.31771,1.53125 l -0.0729,-0.18229 q 1.89584,-0.65625 3.17188,-1.78646 -0.29167,-0.51042 -0.51042,-2.00521 l -1.23958,0.14584 -0.47396,0.10937 -0.21875,-0.21875 1.93229,-0.21875 q -0.10937,-0.76562 -0.10937,-1.34896 l -0.98438,0.10938 -0.29166,0.0729 -0.21875,-0.21875 1.45833,-0.1823 q 0,-1.71354 -0.10938,-2.58854 z m -2.8802,0.14584 q 0.18229,0.18229 0.10937,0.10937 0.65625,0.51042 0.58333,0.51042 -0.0365,0.0365 -0.0729,0.0365 -0.25521,0.0365 -0.58334,0.58333 -0.83854,1.13021 -1.27604,1.75 l 1.67709,-0.10938 q 0.47395,-0.72916 0.91145,-1.42187 0.58334,0.61979 0.58334,0.65625 -0.0365,0.0365 -0.0729,0.0365 -0.18229,-0.0365 -0.69271,0.58333 -0.10937,0.10938 -0.21875,0.25521 -1.20312,1.34896 -1.96875,2.07812 l 2.55209,-0.36458 0.0365,0.14583 q -1.85937,0.4375 -2.77083,0.80209 -0.10937,0.0365 -0.10937,0.0365 -0.32813,-0.32812 -0.36459,-0.61979 0.29167,-0.0365 0.51042,-0.21875 0.61979,-0.58333 1.42187,-1.71354 -1.20312,0.25521 -1.49479,0.40104 -0.18229,0.0365 -0.21875,0.0365 -0.0729,0 -0.36458,-0.61979 0,0.0365 0,0.0365 0.29167,0 0.54687,-0.36458 0.69271,-1.02084 1.16667,-2.40625 0.0365,-0.10938 0.10938,-0.21875 z m 4.1927,0.18229 q 1.02084,0.29166 1.34896,0.72916 0.18229,0.51042 -0.32812,0.65625 -0.14584,0 -0.29167,-0.32812 -0.29167,-0.65625 -0.72917,-0.98438 z m -2.29687,5.76041 0.0729,0.10938 q -2.98959,1.45833 -3.13542,1.53125 -0.14583,0.10937 -0.14583,0.10937 -0.40104,-0.21875 -0.51042,-0.51041 0,0 0.0729,0 0.0365,0.0365 3.64583,-1.23959 z"
+         style="font-style:normal;font-family:FZShuSong-Z01;-inkscape-font-specification:'FZShuSong-Z01, Normal'"
+         id="path1455" />
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="m 266.58619,236.22345 v 9.02722"

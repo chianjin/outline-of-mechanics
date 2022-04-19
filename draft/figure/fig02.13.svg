@@ -5,10 +5,6 @@
    width="346.77325"
    height="122.97597"
    viewBox="0 0 346.77326 122.97597"
-   sodipodi:docname="fig02.13.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -65,44 +61,13 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview3665"
-     showgrid="false"
-     inkscape:object-paths="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:zoom="3.4545902"
-     inkscape:cx="174.40564"
-     inkscape:cy="62.380771"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g3671"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g3671"
      transform="translate(-22.481615,-349.64221)">
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+    <path
        id="path4236"
-       cx="74.776169"
-       cy="401.57275"
-       r="18.140108" />
+       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+       d="m 92.916277,401.57275 a 18.140108,18.140108 0 0 1 -18.140108,18.14011 18.140108,18.140108 0 0 1 -18.140108,-18.14011 18.140108,18.140108 0 0 1 18.140108,-18.1401 18.140108,18.140108 0 0 1 18.140108,18.1401 z" />
     <g
        id="g4866"
        transform="matrix(0.36029135,0,0,0.36029135,253.49696,247.09468)"

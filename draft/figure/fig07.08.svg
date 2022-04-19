@@ -2,13 +2,9 @@
 <svg
    version="1.1"
    id="svg5331"
-   width="220.03909"
-   height="141.08313"
-   viewBox="0 0 220.03909 141.08313"
-   sodipodi:docname="fig07.08.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   width="220.47871"
+   height="141.59778"
+   viewBox="0 0 220.47871 141.59778"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -33,9 +29,7 @@
        id="marker6042"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -47,9 +41,7 @@
        id="marker6032"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -102,60 +94,58 @@
         </symbol>
       </g>
     </defs>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="3"
+       refY="2"
+       orient="auto"
+       id="marker2640">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 12,0 0,2 12,4 8.5,2 12,0"
+         id="path2439" />
+    </marker>
+    <marker
+       markerWidth="12"
+       markerHeight="4"
+       refX="9"
+       refY="2"
+       orient="auto"
+       id="marker2649">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 12,2 0,4 3.5,2 0,0"
+         id="path2434" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="3"
+       refY="1.25"
+       orient="auto"
+       id="marker2622">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 7.5,0 0,1.25 7.5,2.5 5.3125,1.25 7.5,0"
+         id="path2424" />
+    </marker>
+    <marker
+       markerWidth="7.5"
+       markerHeight="2.5"
+       refX="4.5"
+       refY="1.25"
+       orient="auto"
+       id="marker2631">
+      <path
+         style="fill:#000000;stroke-width:0px"
+         d="M 0,0 7.5,1.25 0,2.5 2.1875,1.25 0,0"
+         id="path2429" />
+    </marker>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     id="namedview5333"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:zoom="5.4790394"
-     inkscape:cx="109.41699"
-     inkscape:cy="70.541562"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g5339"
-     inkscape:pagecheckerboard="0">
-    <sodipodi:guide
-       position="9.3907202,119.07815"
-       orientation="1,0"
-       id="guide5379" />
-    <sodipodi:guide
-       position="9.3421202,119.15412"
-       orientation="0,-1"
-       id="guide5381" />
-    <sodipodi:guide
-       position="9.3421202,20.943689"
-       orientation="0,-1"
-       id="guide5383" />
-    <sodipodi:guide
-       position="147.47374,90.846898"
-       orientation="1,0"
-       id="guide5385" />
-    <sodipodi:guide
-       position="21.71805,70.048898"
-       orientation="0,-1"
-       id="guide5387" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g5339"
-     transform="translate(-95.8172, -30.2194)">
+     transform="translate(-95.8922,-29.704766)">
     <path
        id="path5437"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -169,11 +159,11 @@
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:4.00001, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="m 105.15929,150.35887 0.77734,-0.96498 0.77734,-0.94601 0.77735,-0.92743 0.77734,-0.9092 0.77735,-0.89133 0.77734,-0.87382 0.77734,-0.85664 0.77735,-0.83981 0.77734,-0.82331 0.77735,-0.80713 0.77734,-0.79126 0.77734,-0.77572 0.77735,-0.76048 0.77734,-0.74553 0.77734,-0.73087 0.77735,-0.71652 0.77734,-0.70244 0.77735,-0.68863 0.77734,-0.6751 0.77734,-0.66183 0.77735,-0.64883 0.77734,-0.63608 0.77734,-0.62357 0.77735,-0.61133 0.77734,-0.59931 0.77734,-0.58753 0.77735,-0.57599 0.77734,-0.56467 0.77735,-0.55357 0.77734,-0.54269 0.77734,-0.53203 0.77735,-0.52158 0.77734,-0.51132 0.77734,-0.50128 0.77735,-0.49142 0.77734,-0.48177 0.77735,-0.4723 0.77734,-0.46302 0.77734,-0.45393 0.77735,-0.445 0.77734,-0.43625 0.77734,-0.42769 0.77735,-0.41927 0.77734,-0.41104 0.77735,-0.40296 0.77734,-0.39505 0.77734,-0.38728 0.77735,-0.37967 0.77734,-0.37221 0.77734,-0.36489 0.77735,-0.35772 0.77734,-0.3507 0.77735,-0.3438 0.77734,-0.33705 0.77734,-0.33042 0.77735,-0.32393 0.77734,-0.31756 0.77734,-0.31133 0.77735,-0.3052 0.77734,-0.29921 0.77735,-0.29333 0.77734,-0.28756 0.77734,-0.28192 0.77735,-0.27637 0.77734,-0.27094 0.77734,-0.26562 0.77735,-0.2604 0.77734,-0.25528 0.77735,-0.25026 0.77734,-0.24535 0.77734,-0.24052 0.77735,-0.2358 0.77734,-0.23117 0.77734,-0.22662 0.77735,-0.22217 0.77734,-0.2178 0.77734,-0.21352 0.77735,-0.20933 0.77734,-0.20521 0.77735,-0.20118 0.77734,-0.19723 0.77734,-0.19335 0.77735,-0.18955 0.77734,-0.18583 0.77734,-0.18218 0.77735,-0.17859 0.77734,-0.17509 0.77735,-0.17164 0.77734,-0.16827 0.77734,-0.16497 0.77735,-0.16172 0.77734,-0.15855 0.77734,-0.15542 0.77735,-0.15238 0.77734,-0.14938 0.77735,-0.14644 0.77734,-0.14357 0.77734,-0.14075 0.77735,-0.13798 0.77734,-0.13527 0.77734,-0.13261 0.77735,-0.13 0.77734,-0.12745 0.77734,-0.12495 0.77735,-0.12249 0.77734,-0.12008 0.77735,-0.11773 0.77734,-0.11541 0.77734,-0.11314 0.77735,-0.11092 0.77734,-0.10873 0.77734,-0.10661 0.77735,-0.1045 0.77734,-0.10246 0.77735,-0.10044 0.77734,-0.0985 0.77734,-0.0965 0.77735,-0.0946 0.77734,-0.0928 0.77734,-0.091 0.77735,-0.0892 0.77734,-0.0874 0.77735,-0.0857 0.77734,-0.084 0.77734,-0.0824 0.77735,-0.0807 0.77734,-0.0791 0.77734,-0.0776 0.77735,-0.0761 0.77734,-0.0746 0.77735,-0.0731 0.77734,-0.0717 0.77734,-0.0703 0.77735,-0.0689 0.77734,-0.0675 0.77734,-0.0662 0.77735,-0.0649 0.77734,-0.0636 0.77734,-0.0624 0.77735,-0.0612 0.77734,-0.06 0.77735,-0.0588 0.77734,-0.0576 0.77734,-0.0565 0.77735,-0.0554 0.77734,-0.0543 0.77734,-0.0532 0.77735,-0.0522 0.77734,-0.0512 0.77735,-0.0501 0.77734,-0.0492 0.77734,-0.0482 0.77735,-0.0473 0.77734,-0.0463 0.77734,-0.0454 0.77735,-0.0445 0.77734,-0.0436 0.77735,-0.0428 0.77734,-0.0419 0.77734,-0.0411 0.77735,-0.0403 0.77734,-0.0395 0.77734,-0.0387 0.77735,-0.038 0.77734,-0.0372 0.77735,-0.0365 0.77734,-0.0358 0.77734,-0.0351 0.77735,-0.0344 0.77734,-0.0337 0.77734,-0.0331 0.77735,-0.0324 0.77734,-0.0318 0.77735,-0.0311 0.77734,-0.0305 0.77734,-0.0299 0.77735,-0.0293 0.54103,-0.02" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6032)"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="M 105.20789,171.30255 V 31.204766"
        id="path5391" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6042)"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2649)"
        d="M 105.20789,101.25366 H 314.87092"
        id="path5393" />
     <g

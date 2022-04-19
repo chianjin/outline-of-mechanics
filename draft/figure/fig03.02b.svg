@@ -5,42 +5,14 @@
    viewBox="0 0 23.604092 15.666592"
    version="1.1"
    id="svg6715"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="fig03.02b.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:ns3="http://www.iki.fi/pav/software/textext/">
+   xmlns:ns27="http://www.iki.fi/pav/software/textext/">
   <defs
      id="defs6709" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="4.1111214"
-     inkscape:cx="44.635023"
-     inkscape:cy="17.148606"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata6712">
     <rdf:RDF>
@@ -54,10 +26,8 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-98.567, -123.986)">
+     transform="translate(-98.567002,-123.9859)">
     <g
        id="g4955"
        transform="matrix(0.26458333,0,0,0.26458333,56.319187,-0.61825268)">
@@ -219,21 +189,17 @@
          d="m 190.17678,526.44482 h 55"
          id="path4732-8-8" />
     </g>
-    <rect
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+    <path
        id="rect5409"
-       width="5.0824833"
-       height="4.5995798"
-       x="101.97785"
-       y="134.07069" />
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
+       d="m 101.97785,134.07069 h 5.08249 v 4.59958 h -5.08249 z" />
     <g
        id="g5681-6"
        transform="matrix(0.26458333,0,0,0.26458333,89.453034,-0.62265268)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 76.043197,517.91276 -9.495902,-0.0412"
-         id="path5460-2-2"
-         sodipodi:nodetypes="cc" />
+         id="path5460-2-2" />
       <g
          id="g5674-4"
          transform="matrix(1.4181389,0,0,1.0082498,-39.039604,-4.2331664)"
@@ -245,27 +211,25 @@
         <path
            style="fill:none;stroke:#000000;stroke-width:0.418144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 95.014015,517.87283 c 0.0417,0.49323 0.0672,1.01896 0.0476,1.46739 -0.034,0.68356 -0.18323,1.38369 -0.37327,1.89137 -0.19341,0.50769 -0.48862,0.93573 -0.77705,1.15805 -0.28504,0.22233 -0.64811,0.28869 -0.95011,0.17586 -0.302,-0.11282 -0.62775,-0.42804 -0.8585,-0.84945 -0.23412,-0.42473 -0.43771,-1.04524 -0.52934,-1.68565 -0.0916,-0.64374 -0.11196,-1.4401 -0.0238,-2.15683 0.0883,-0.72006 0.27825,-1.51642 0.54291,-2.15684 0.26468,-0.64372 0.64472,-1.26423 1.04852,-1.68897 0.4038,-0.42141 0.906,-0.73663 1.38105,-0.84945 0.47506,-0.1095 1.01119,-0.0464 1.46928,0.17586 0.46148,0.22232 0.93314,0.65037 1.29622,1.15805 0.36647,0.50768 0.68544,1.20783 0.89582,1.89138 0.20698,0.68355 0.32915,1.50314 0.3529,2.21324 0.0272,0.70677 -0.0577,1.46664 -0.2036,2.04733 -0.14591,0.58069 -0.4004,1.11492 -0.66169,1.4401 -0.26466,0.32851 -0.61417,0.51764 -0.92296,0.51764 -0.30538,0 -0.65489,-0.18914 -0.91957,-0.51764 -0.26467,-0.32518 -0.51917,-0.85941 -0.66168,-1.4401 -0.14591,-0.58069 -0.23075,-1.34056 -0.20699,-2.04733 0.0272,-0.7101 0.14931,-1.52969 0.35629,-2.21324 0.21039,-0.68355 0.52935,-1.3837 0.89582,-1.89138 0.36308,-0.50768 0.83474,-0.93573 1.29283,-1.15805 0.46148,-0.22232 0.99761,-0.28537 1.47267,-0.17586 0.47506,0.11283 0.97385,0.42804 1.381055,0.84945 0.40379,0.42474 0.78384,1.04525 1.04851,1.68897 0.26468,0.64042 0.4547,1.43678 0.54292,2.15684 0.0849,0.71673 0.0679,1.51309 -0.0238,2.15683 -0.0916,0.64041 -0.29521,1.26092 -0.52934,1.68565 -0.23074,0.42141 -0.55989,0.73664 -0.86188,0.84945 -0.302,0.11284 -0.661695,0.0465 -0.950115,-0.17586 -0.28503,-0.22232 -0.58364,-0.65036 -0.77366,-1.15805 -0.19342,-0.50768 -0.33933,-1.20781 -0.37326,-1.89137 -0.0374,-0.68355 0.0169,-1.49983 0.16287,-2.20992 0.1493,-0.7101 0.40719,-1.46997 0.72615,-2.05065 0.31557,-0.58069 0.746525,-1.11492 1.180855,-1.44011 0.43774,-0.3285 0.96029,-0.51763 1.44213,-0.51763 0.47845,0 1.00101,0.18914 1.43874,0.51763 0.43773,0.32519 0.86528,0.85942 1.18424,1.44011 0.31897,0.58068 0.57685,1.34055 0.72277,2.05065 0.0499,0.26376 0.091,0.51184 0.11743,0.74297"
-           id="path3888-7-2-6"
-           sodipodi:nodetypes="ccccsccccccccccscsccccccccccccsccccccscscc" />
+           id="path3888-7-2-6" />
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 110.45064,517.91245 9.49587,-0.0392"
-         id="path5462-7-1"
-         sodipodi:nodetypes="cc" />
+         id="path5462-7-1" />
     </g>
     <g
        transform="matrix(0.246945,0,0,0.246945,103.72038,135.56589)"
-       ns3:version="1.8.1"
-       ns3:texconverter="xelatex"
-       ns3:pdfconverter="inkscape"
-       ns3:text="$B$"
-       ns3:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
-       ns3:scale="0.7"
-       ns3:alignment="middle center"
-       ns3:stroke-to-path="0"
-       ns3:inkscapeversion="1.0.1"
-       ns3:jacobian_sqrt="0.246945"
+       ns27:version="1.8.1"
+       ns27:texconverter="xelatex"
+       ns27:pdfconverter="inkscape"
+       ns27:text="$B$"
+       ns27:preamble="D:\GitHub\introMech\draft\introMech_textext.tex"
+       ns27:scale="0.7"
+       ns27:alignment="middle center"
+       ns27:stroke-to-path="0"
+       ns27:inkscapeversion="1.0.1"
+       ns27:jacobian_sqrt="0.246945"
        id="g2418">
       <defs
          id="id-7c650103-2ff8-4699-9019-00f398e1e768">

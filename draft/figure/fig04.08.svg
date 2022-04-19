@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   sodipodi:docname="fig04.08.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    id="svg1562"
    version="1.1"
    viewBox="0 0 47.987721 36.849559"
    height="36.84956mm"
    width="47.98772mm"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -21,9 +17,7 @@
        id="marker1397"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -35,9 +29,7 @@
        id="marker1407"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -157,27 +149,6 @@
          id="path2429" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.8434047"
-     inkscape:cx="92.7563"
-     inkscape:cy="72.72198"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0"
-     inkscape:snap-global="false" />
   <metadata
      id="metadata1559">
     <rdf:RDF>
@@ -191,8 +162,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-57.725777,-92.505052)">
     <path
@@ -208,8 +177,7 @@
        d="m 91.784592,100.54574 c -2.5437,1.3265 -4.833205,2.65284 -6.868518,3.97918 -2.035315,1.3265 -3.81467,2.65284 -5.341595,3.97918 -1.526926,1.32631 -2.797894,2.65283 -3.816433,3.97916 -1.016775,1.32633 -1.779354,2.65285 -2.289507,3.97917 -0.254192,0.66317 -0.444838,1.32635 -0.571934,1.98953"
        title="x*x"
        clip-path="none"
-       id="path931"
-       sodipodi:nodetypes="ccsccc" />
+       id="path931" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="id-2088d6c6-30f7-4594-933c-a35cd6826799"
