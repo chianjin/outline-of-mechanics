@@ -11,13 +11,13 @@
 % 页面、版心
 \RequirePackage{geometry}
 \geometry{
-    paperheight=203mm,
-    paperwidth=140mm,
-    top=27mm,
-    bottom=19.8mm,
-    left=21mm,
-    right=15mm,
-    footskip=10mm
+  paperheight=203mm,
+  paperwidth=140mm,
+  top=27mm,
+  bottom=19.8mm,
+  left=21mm,
+  right=15mm,
+  footskip=10mm
 }
 
 % 中文行距 1.5
@@ -25,18 +25,18 @@
 
 % 英文字体
 \setmainfont[
-    BoldFont=XITS-Bold.otf,
-    ItalicFont=XITS-Italic.otf,
-    BoldItalicFont=XITS-BoldItalic.otf
+  BoldFont=XITS-Bold.otf,
+  ItalicFont=XITS-Italic.otf,
+  BoldItalicFont=XITS-BoldItalic.otf
 ]{XITS-Regular.otf}
 
 % 中文字体，使用方正书宋、黑体、楷体、仿宋四种免费字体，采用思源字体作为书宋和黑体粗体
 \setCJKmainfont[
-    BoldFont=Source Han Serif SC Bold,
-    ItalicFont=FZKai-Z03
+  BoldFont=Source Han Serif SC Bold,
+  ItalicFont=FZKai-Z03
 ]{FZShuSong-Z01}
 \setCJKsansfont[
-    BoldFont=Source Han Sans SC Bold
+  BoldFont=Source Han Sans SC Bold
 ]{FZHei-B01}
 
 \setCJKmonofont{FZFangSong-Z02}
@@ -72,44 +72,44 @@
 
 % plain 版式，章标题页
 \fancypagestyle{plain}{
-    \fancyhf{}
-    \fancyhead[RO,LE]{\zihao{-5}\thepage}
-    \renewcommand{\headrulewidth}{0pt}
-    \renewcommand{\footrulewidth}{0pt}
+  \fancyhf{}
+  \fancyhead[RO,LE]{\zihao{-5}\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
 }
 % heading 版式，正文普通页
 \fancypagestyle{heading}{
-    \fancyhf{}
-    \fancyhead[LO]{\zihao{6}\underline{力学概论}}
-    \fancyhead[RE]{\zihao{6}\underline{\leftmark}}
-    \fancyhead[RO,LE]{\zihao{-5}\thepage}
-    \renewcommand{\headrulewidth}{0pt}
-    \renewcommand{\footrulewidth}{0pt}
+  \fancyhf{}
+  \fancyhead[LO]{\zihao{6}\underline{力学概论}}
+  \fancyhead[RE]{\zihao{6}\underline{\leftmark}}
+  \fancyhead[RO,LE]{\zihao{-5}\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
 }
 % foreword 版式，前言、目录、序等页
 \fancypagestyle{foreword}{
-    \fancyhf{}
-    \fancyfoot[RO,LE]{\zihao{-5}\thepage}
-    \renewcommand{\headrulewidth}{0pt}
-    \renewcommand{\footrulewidth}{0pt}
+  \fancyhf{}
+  \fancyfoot[RO,LE]{\zihao{-5}\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
 }
 
 % 章节标题
 \ctexset{
-    %contentsname=~\vspace{-2em}\\\makebox[5][s]{目录}\vspace{-1em},
-    chapter={
-        nameformat=\zihao{4}\fangsong,
-        aftername=\vspace{0.7em}\break,
-        titleformat=\zihao{-3},
-        beforeskip=1em,
-        afterskip=2em,
-    },
-    section={
-        %number={\arabic{chapter}$\cdot$\arabic{section}},
-        format=\zihao{4}\kaishu,
-        beforeskip=1.2em,
-        afterskip=1em,
-    }
+  %contentsname=~\vspace{-2em}\\\makebox[5][s]{目录}\vspace{-1em},
+  chapter={
+    nameformat=\zihao{4}\fangsong,
+    aftername=\vspace{0.7em}\break,
+    titleformat=\zihao{-3},
+    beforeskip=1em,
+    afterskip=2em,
+   },
+  section={
+    %number={\arabic{chapter}$\cdot$\arabic{section}},
+    format=\zihao{4}\kaishu,
+    beforeskip=1.2em,
+    afterskip=1em,
+   }
 }
 
 % 目录
@@ -130,22 +130,22 @@
 \newcounter{question}[chapter]
 \newcommand{\question}{\stepcounter{question}\par\thequestion .}
 \newenvironment{questions}{
-    \refstepcounter{section}
-    \addcontentsline{toc}{section}{思考题}
-    \setcounter{question}{0}
-    \begin{center}\textsf{\makebox[5em][s]{思考题}}\end{center}
-    \fangsong
+  \refstepcounter{section}
+  \addcontentsline{toc}{section}{思考题}
+  \setcounter{question}{0}
+  \begin{center}\textsf{\makebox[5em][s]{思考题}}\end{center}
+  \fangsong
 }{\normalfont}
 
 % 习题，按节处理
 \newcounter{exercise}[chapter]
 \newcommand{\exercise}{\stepcounter{exercise}\par\theexercise .}
 \newenvironment{exercises}{%
-    \refstepcounter{section}
-    \addcontentsline{toc}{section}{习题}
-    \setcounter{exercise}{0}
-    \begin{center}\textsf{\makebox[5em][s]{习题}} \end{center}
-    \fangsong
+  \refstepcounter{section}
+  \addcontentsline{toc}{section}{习题}
+  \setcounter{exercise}{0}
+  \begin{center}\textsf{\makebox[5em][s]{习题}} \end{center}
+  \fangsong
 }{\normalfont}
 
 % ----------------------------------------------------------
@@ -167,8 +167,8 @@
 
 % 数学字体
 \setmathfont[
-    BoldFont=XITSMath-Bold.otf,
-    StylisticSet=8 % 直立积分符号
+  BoldFont=XITSMath-Bold.otf,
+  StylisticSet=8 % 直立积分符号
 ]{XITSMath-Regular.otf}
 
 \RequirePackage{etoolbox}
@@ -176,56 +176,64 @@
 \makeatletter
 \newif\if@gather@prefix
 \preto\place@tag@gather{%
-    \if@gather@prefix\iftagsleft@
-    \kern-\gdisplaywidth@
-    \rlap{\gather@prefix}%
-    \kern\gdisplaywidth@
-    \fi\fi
+  \if@gather@prefix
+    \iftagsleft@
+      \kern-\gdisplaywidth@
+      \rlap{\gather@prefix}%
+      \kern\gdisplaywidth@
+    \fi
+  \fi
 }
 \appto\place@tag@gather{%
-    \if@gather@prefix\iftagsleft@\else
-    \kern-\displaywidth
-    \rlap{\gather@prefix}%
-    \kern\displaywidth
-    \fi\fi
-    \global\@gather@prefixfalse
+  \if@gather@prefix
+    \iftagsleft@\else
+      \kern-\displaywidth
+      \rlap{\gather@prefix}%
+      \kern\displaywidth
+    \fi
+  \fi
+  \global\@gather@prefixfalse
 }
 \preto\place@tag{%
-    \if@gather@prefix\iftagsleft@
-    \kern-\gdisplaywidth@
-    \rlap{\gather@prefix}%
-    \kern\displaywidth@
-    \fi\fi
+  \if@gather@prefix
+    \iftagsleft@
+      \kern-\gdisplaywidth@
+      \rlap{\gather@prefix}%
+      \kern\displaywidth@
+    \fi
+  \fi
 }
 \appto\place@tag{%
-    \if@gather@prefix\iftagsleft@\else
-    \kern-\displaywidth
-    \rlap{\gather@prefix}%
-    \kern\displaywidth
-    \fi\fi
-    \global\@gather@prefixfalse
+  \if@gather@prefix
+    \iftagsleft@\else
+      \kern-\displaywidth
+      \rlap{\gather@prefix}%
+      \kern\displaywidth
+    \fi
+  \fi
+  \global\@gather@prefixfalse
 }
 \def\math@cr@@@align{%
-    \ifst@rred\nonumber\fi
-    \if@eqnsw \global\tag@true \fi
-    \global\advance\row@\@ne
-    \add@amps\maxfields@
-    \omit
-    \kern-\alignsep@
-    \if@gather@prefix\tag@true\fi
-    \iftag@
+  \ifst@rred\nonumber\fi
+  \if@eqnsw \global\tag@true \fi
+  \global\advance\row@\@ne
+  \add@amps\maxfields@
+  \omit
+  \kern-\alignsep@
+  \if@gather@prefix\tag@true\fi
+  \iftag@
     \setboxz@h{\@lign\strut@{\make@display@tag}}%
     \place@tag
-    \fi
-    \ifst@rred\else\global\@eqnswtrue\fi
-    \global\lineht@\z@
-    \cr
+  \fi
+  \ifst@rred\else\global\@eqnswtrue\fi
+  \global\lineht@\z@
+  \cr
 }
 \newcommand*{\beforetext}[1]{%
-    \ifmeasuring@\else
+  \ifmeasuring@\else
     \gdef\gather@prefix{#1}%
     \global\@gather@prefixtrue
-    \fi
+  \fi
 }
 \makeatother
 
@@ -253,23 +261,23 @@
 % 书签、链接
 \RequirePackage{hyperref}
 \hypersetup{
-    hidelinks,
-    colorlinks=true,
-    allcolors=black,
-    pdfstartview=Fit,
-    breaklinks=true,
-    bookmarksnumbered=true,
-    pdftitle=力学概论,
-    %pdfpagelabels=true
+  hidelinks,
+  colorlinks=true,
+  allcolors=black,
+  pdfstartview=Fit,
+  breaklinks=true,
+  bookmarksnumbered=true,
+  pdftitle=力学概论,
+  %pdfpagelabels=true
 }
 \RequirePackage{bookmark}
 
 % 摘录
 \RequirePackage[
-    leftmargin=2em,
-    rightmargin=2em,
-    font={fangsong},
-    vskip=0pt
+  leftmargin=2em,
+  rightmargin=2em,
+  font={fangsong},
+  vskip=0pt
 ]{quoting}
 
 % 图形
@@ -289,17 +297,17 @@
 \RequirePackage{caption}
 \DeclareCaptionFormat{table}{\heiti\zihao{-5}#1#2#3}
 \captionsetup[table]{%
-    position=above,
-    format=table,
-    skip=0.2em,
-    labelsep=quad
+  position=above,
+  format=table,
+  skip=0.2em,
+  labelsep=quad
 }
 \captionsetup[figure]{%
-    position=below,
-    format=hang,
-    font=small,
-    skip=0.5em,
-    labelsep=quad
+  position=below,
+  format=hang,
+  font=small,
+  skip=0.5em,
+  labelsep=quad
 }
 
 % ----------------------------------------------------------
@@ -307,11 +315,11 @@
 % ----------------------------------------------------------
 % 星号脚注
 \newcommand\sbfootnote[1]{%
-    \begingroup
-    \renewcommand\thefootnote{\fnsymbol{footnote}}
-    \footnote{#1}%
-    \addtocounter{footnote}{-1}%
-    \endgroup
+  \begingroup
+  \renewcommand\thefootnote{\fnsymbol{footnote}}
+  \footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
 }
 
 % ----------------------------------------------------------

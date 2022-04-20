@@ -3,72 +3,72 @@
 本节再讨论相对论力学的另一个重要结论。我们仍从相对论
 的质点运动方程\eqref{eqn:11.06.01}出发。注意其中质量是速度的函数式\lhbrak \eqref{eqn:11.06.12} \rhbrak ，所以
 \begin{equation}\label{eqn:11.07.01}
-    \begin{split}
-        \vec{F} &= \frac {  \dif } {  \dif t } \left( m \vec{u} \right) \\
-          &= m \frac {  \dif \vec{u} } {  \dif t } + \vec{u} \frac {  \dif m } {  \dif t }
-    \end{split}
+  \begin{split}
+    \vec{F} &= \frac { \dif } { \dif t } \left( m \vec{u} \right) \\
+    &= m \frac { \dif \vec{u} } { \dif t } + \vec{u} \frac { \dif m } { \dif t }
+  \end{split}
 \end{equation}
 其中$ \vec{u} $为质点速度矢量。外力$\vec{F}$作的功仍应等于质点动能的增
 加，即
 \begin{equation*}
-    \Delta E = \int _ 1 ^ 2 \vec{F} \cdot  \dif \vec{s}
+  \Delta E = \int _ 1 ^ 2 \vec{F} \cdot \dif \vec{s}
 \end{equation*}
 利用式\eqref{eqn:11.07.01}，上式化为
 \begin{equation}\label{eqn:11.07.02}
-    \begin{aligned}
-        \Delta E &=\int_{1}^{2} m \frac{ \dif \vec{u}}{ \dif t} \cdot  \dif \vec{s}+\int_{1}^{2} \frac{ \dif m}{ \dif t} \vec{u } \cdot  \dif \vec{s} \\
-        &=\int_{1}^{2} m \vec{u} \cdot  \dif \vec{u}+\int \vec{u} \cdot \vec{u}  \dif m \\
-        &=\frac{1}{2} \int_{1}^{2} m  \dif u^{2}+\int_{1}^{2} u^{2}  \dif m
-    \end{aligned}
+  \begin{aligned}
+    \Delta E & =\int_{1}^{2} m \frac{ \dif \vec{u}}{ \dif t} \cdot \dif \vec{s}+\int_{1}^{2} \frac{ \dif m}{ \dif t} \vec{u } \cdot \dif \vec{s} \\
+             & =\int_{1}^{2} m \vec{u} \cdot \dif \vec{u}+\int \vec{u} \cdot \vec{u} \dif m                                                      \\
+             & =\frac{1}{2} \int_{1}^{2} m \dif u^{2}+\int_{1}^{2} u^{2} \dif m
+  \end{aligned}
 \end{equation}
 其中1及2分别表示初始及终了两状态。根据式\eqref{eqn:11.06.12}，可
 得
 \begin{equation}\label{eqn:11.07.03}
-    u ^ { 2 } = c ^ { 2 } \left( 1 - \frac { m _ { 0 } ^ { 2 } } { m ^ { 2 } } \right)
+  u ^ { 2 } = c ^ { 2 } \left( 1 - \frac { m _ { 0 } ^ { 2 } } { m ^ { 2 } } \right)
 \end{equation}
 故
 \begin{equation}\label{eqn:11.07.04}
-    \frac{ \dif u^{2}}{ \dif m}=-\frac{2 m_{0}^{2} c^{2}}{m^{3}}
+  \frac{ \dif u^{2}}{ \dif m}=-\frac{2 m_{0}^{2} c^{2}}{m^{3}}
 \end{equation}
 将式\eqref{eqn:11.07.03}、\eqref{eqn:11.07.04}代入式\eqref{eqn:11.07.02}，得到
 
 % 347.jpg
 ~\vspace{-1.2em}
 \begin{equation*}
-    \begin{aligned}
-        \Delta E &=\int_{1}^{2} m \frac{m_{0}^{2} c^{2}}{m^{3}}  \dif m+\int_{1}^{2} c^{2}\Bigg(1-\frac{m_{0}^{2}}{m^{2}}\Bigg)  \dif m \\
-        &=\int_{1}^{2} c^{2}  \dif m
-    \end{aligned}
+  \begin{aligned}
+    \Delta E & =\int_{1}^{2} m \frac{m_{0}^{2} c^{2}}{m^{3}} \dif m+\int_{1}^{2} c^{2}\Bigg(1-\frac{m_{0}^{2}}{m^{2}}\Bigg) \dif m \\
+             & =\int_{1}^{2} c^{2} \dif m
+  \end{aligned}
 \end{equation*}
 \begin{align}\label{eqn:11.07.05}
-    \beforetext{即}\Delta E = c ^ { 2 } \Delta m
+  \beforetext{即}\Delta E = c ^ { 2 } \Delta m
 \end{align}
 此式表明能量的变化与质量的变化之间有简单的比例关系。它意
 味着能量与质量本身之间存在着简单的比例关系，即
 \begin{equation}\label{eqn:11.07.06}
-    E = m c ^ { 2 }
+  E = m c ^ { 2 }
 \end{equation}
 当然，如果在式\eqref{eqn:11.07.06}中附加以任何常数，仍能导致式
 \eqref{eqn:11.07.05}，写出式\eqref{eqn:11.07.06}，即相当于取该常数为零。按照式
 \eqref{eqn:11.06.12}，式\eqref{eqn:11.07.06}还可写成
 \vspace{-1.2em}
 \begin{equation}\label{eqn:11.07.07}
-    E=\frac{m_{0} c^{2}}{\sqrt{1-u^{2} / c^{2}}}
+  E=\frac{m_{0} c^{2}}{\sqrt{1-u^{2} / c^{2}}}
 \end{equation}
 如果展开成$ \dfrac { u ^ 2 } { c ^ 2 } $的幂级数，则
 \begin{equation}\label{eqn:11.07.08}
-    E=m_{0} c^{2}\Big\{1+\frac{1}{2} \cdot \frac{u^{2}}{c^{2}}+\frac{3}{8} \cdot \frac{u^{4}}{c^{4}}+\cdots\Big\}
+  E=m_{0} c^{2}\Big\{1+\frac{1}{2} \cdot \frac{u^{2}}{c^{2}}+\frac{3}{8} \cdot \frac{u^{4}}{c^{4}}+\cdots\Big\}
 \end{equation}
 当$ u $小时，忽略掉所有较高级项，只保留前两项，得到
 \begin{equation}\label{eqn:11.07.09}
-    E \approx m _ { 0 } c ^ { 2 } + \frac { 1 } { 2 } m _ { 0 } u ^ { 2 }
+  E \approx m _ { 0 } c ^ { 2 } + \frac { 1 } { 2 } m _ { 0 } u ^ { 2 }
 \end{equation}
 上式第一项是常数，第二项是质点动能项。在速度较大时，动能
-已不能仅由$  \dfrac { 1 } { 2 } m _ { 0 } u ^ 2   $来表示，而应考虑$ \dfrac{3}{8} \cdot \dfrac{m_0 u^{4}}{c^{2}} $等修正项。特别
+已不能仅由$ \dfrac { 1 } { 2 } m _ { 0 } u ^ 2 $来表示，而应考虑$ \dfrac{3}{8} \cdot \dfrac{m_0 u^{4}}{c^{2}} $等修正项。特别
 应注意的是，按式\eqref{eqn:11.07.06}，当质点速度为零时，它的能量并不
 为零，而是等于
 \begin{equation}\label{eqn:11.07.10}
-    E = v _ { o } c ^ { 2 }
+  E = v _ { o } c ^ { 2 }
 \end{equation}
 也就是说，即使质点没有运动，只要它的静止质量不为零，它就
 已经具有能量。这个能量与静止质量成正比。这个重要的论断已

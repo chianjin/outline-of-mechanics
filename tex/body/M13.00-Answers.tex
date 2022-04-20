@@ -2,7 +2,7 @@
 \pagestyle{plain}
 \refstepcounter{chapter}
 \begin{center}
-    \zihao{-3}\textbf{全部习题答案}
+  \zihao{-3}\textbf{全部习题答案}
 \end{center}
 \addcontentsline{toc}{chapter}{全部习题答案}
 \setlength{\mathindent}{4em}
@@ -13,21 +13,21 @@
 \renewcommand{\figurename}{答案图}
 
 \newcommand{\achapter}{
-    \setcounter{answer}{0}
-    \setcounter{figure}{0}
-    \addtocounter{chapter}{1}
-    \begin{center}
-        \textsf{第\chinese{chapter}章}
-    \end{center}
+  \setcounter{answer}{0}
+  \setcounter{figure}{0}
+  \addtocounter{chapter}{1}
+  \begin{center}
+    \textsf{第\chinese{chapter}章}
+  \end{center}
 }
 
 \newlength{\itemwidth}
 \settowidth{\itemwidth}{88.}
 \setlength{\parindent}{1.75em}
 \newcommand{\answer}{
-    \noindent
-    \addtocounter{answer}{1}
-    \makebox[\itemwidth][l]{\theanswer .}
+  \noindent
+  \addtocounter{answer}{1}
+  \makebox[\itemwidth][l]{\theanswer .}
 }
 
 \newlength{\xindent}

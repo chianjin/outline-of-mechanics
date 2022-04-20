@@ -18,16 +18,16 @@ $t$，还利用了一种很特别的钟，该钟使用的重复性过程是：�
 测得的时间为$t'$。
 
 \begin{figure}[!h]
- \centering
- \includegraphics{figure/fig01.02}
- \caption{芝诺时的定义}\label{fig:01.02}
+  \centering
+  \includegraphics{figure/fig01.02}
+  \caption{芝诺时的定义}\label{fig:01.02}
 \end{figure}
 
 如图\ref{fig:01.02}，阿基里斯和龟在开始时相距为$L$，速度分别为$v_1$及
 $v_2$，并且$v_1>v_2$。如果用普通的钟，则阿基里斯将在
 \begin{equation}
- t=L/\left(v_1-v_2\right)
- \label{eqn:01.02.01}
+  t=L/\left(v_1-v_2\right)
+  \label{eqn:01.02.01}
 \end{equation}
 时，赶上龟；当$t>L/\left(v_1-v_2\right)$时，阿基里斯就超过龟了。
 
@@ -44,34 +44,34 @@ $t'$，阿基里斯总是落在龟的后面。这就是芝诺的结论。
 验证表\ref{tab:01.02} 给出的两种时间的对应。因此，一般有
 {\setlength{\mathindent}{4em}
 \begin{equation}\label{eqn:01.02.02}
- t=\sum_{n=0}^{t^{\prime}-1} \frac{L}{v_{1}}{\left(\frac{v_{2}}{v_{1}}\right)}^{n}=\frac{L}{v_{1}-v_{2}}\left[1-{\left(\frac{v_{2}}{v_{1}}\right)}^{t'}\right]
+  t=\sum_{n=0}^{t^{\prime}-1} \frac{L}{v_{1}}{\left(\frac{v_{2}}{v_{1}}\right)}^{n}=\frac{L}{v_{1}-v_{2}}\left[1-{\left(\frac{v_{2}}{v_{1}}\right)}^{t'}\right]
 \end{equation}}%
 或者
 \begin{equation}
- t^{\prime}=\frac{1}{\ln \left(v_{2} / v_{1}\right)} \ln \left[1-\left(\frac{v_{1}-v_{2}}{L}\right) t\right]
- \label{eqn:01.02.03}
+  t^{\prime}=\frac{1}{\ln \left(v_{2} / v_{1}\right)} \ln \left[1-\left(\frac{v_{1}-v_{2}}{L}\right) t\right]
+  \label{eqn:01.02.03}
 \end{equation}%
 式\eqref{eqn:01.02.02}或式\eqref{eqn:01.02.03}称为芝诺变换。它给出的$t'$与t的关系。在
-图\ref{fig:01.03}~中画出。
+图\ref{fig:01.03}中画出。
 
-\begin{table}[!h]
- %\renewcommand\arraystretch{1.6}
- \centering
- \caption{普通时与芝诺时的关系}\label{tab:01.02}
- \zihao{-5}
- \begin{tblr}{colsep=2em,row{2-Z}={rowsep=0em},colspec={c|X}}
- \toprule
- 芝诺时（$t'$） & \SetCell{c}普通时（$t$） \\
- \midrule
- 0 & 0 \\[1.75ex]
- 1 & $\dfrac{L}{v_1}$ \\[1.75ex]
- 2 & $\dfrac{L}{v_1} +\dfrac{L}{v_1}\cdot\dfrac{v_2}{v_1}$ \\[1.75ex]
- \vdots & \vdots \\
- $n$ & $\dfrac{L}{v_1} + \dfrac{L}{v_1}\cdot\dfrac{v_2}{v_1} + \cdots +\dfrac{L}{v_1}\cdot{\left(\dfrac{v_2}{v_1}\right)}^{n-1} $ \\[1.75ex]
- & $= \displaystyle \sum_{i=0}^{n-1} \frac{L}{v_1}{\left(\frac{v_2}{v_1}\right)}^i$\\
- \bottomrule
- \end{tblr}
-\vspace{-0.8em}
+\begin{table}[h]
+  %\renewcommand\arraystretch{1.6}
+  \centering
+  \caption{普通时与芝诺时的关系}\label{tab:01.02}
+  \zihao{-5}
+  \begin{tblr}{colsep=2em,row{2-Z}={rowsep=0.3em},colspec={c|X}}
+    \toprule
+    芝诺时（$t'$） & \SetCell{c}普通时（$t$）                                                                                                        \\
+    \midrule
+    0         & 0                                                                                                                          \\
+    1         & $\dfrac{L}{v_1}$                                                                                                           \\
+    2         & $\dfrac{L}{v_1} +\dfrac{L}{v_1}\cdot\dfrac{v_2}{v_1}$                                                                      \\
+    \vdots    & \vdots                                                                                                                     \\
+    $n$       & $\dfrac{L}{v_1} + \dfrac{L}{v_1}\cdot\dfrac{v_2}{v_1} + \cdots +\dfrac{L}{v_1}\cdot{\left(\dfrac{v_2}{v_1}\right)}^{n-1} $ \\
+              & $= \displaystyle \sum_{i=0}^{n-1} \frac{L}{v_1}{\left(\frac{v_2}{v_1}\right)}^i$                                           \\
+    \bottomrule
+  \end{tblr}
+  \vspace{-0.8em}
 \end{table}
 
 由图\ref{fig:01.03}看到，芝诺变换是有奇性的，即当$t=L/\left(v_1-v_2\right)$时，
@@ -88,10 +88,10 @@ $t$上的一个有限范围，即从零到$ L/\left(v_1-v_2\right) $。
 芝诺佯谬给我们的启示是，时间与时间的度量不同，一种时
 
 \begin{wrapfigure}[10]{10}{48mm}
- %\vspace{-0.5em}
- \includegraphics{figure/fig01.03}
- \caption{芝诺时的定义}\label{fig:01.03}
- %\vspace{-1.2em}
+  %\vspace{-0.5em}
+  \includegraphics{figure/fig01.03}
+  \caption{芝诺时的定义}\label{fig:01.03}
+  %\vspace{-1.2em}
 \end{wrapfigure}
 \noindent 间的度量达到无限之后，还是可以有时间的；反之，一种时
 间的度量达到无限，从其他的度量看，可能是有限的。

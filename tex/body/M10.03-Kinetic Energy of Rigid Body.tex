@@ -3,7 +3,7 @@
 刚体是由许多质点组成的。所以，刚体的动能就等于各质点
 的动能之和，即
 \begin{equation}\label{eqn:10.03.01}
-    T = \sum _ { i = 1 } ^ { n } \dfrac { 1 } { 2 } m _ i v _ i ^ { 2 }
+  T = \sum _ { i = 1 } ^ { n } \dfrac { 1 } { 2 } m _ i v _ i ^ { 2 }
 \end{equation}
 
 上节中已经指出，刚体的运动总可以分解为随着某基点$ O $的
@@ -17,61 +17,61 @@
 就是质心速度$ \vec{v} _ c $，转动部分的速度就是质点相对于质心系的运动
 速度$ \vec{v}' _i $。根据速度合成，有
 \begin{equation*}
-    \vec{v} _ { i } = \vec{v} _ { c } + \vec{v} _ { i } ^ { \prime }
+  \vec{v} _ { i } = \vec{v} _ { c } + \vec{v} _ { i } ^ { \prime }
 \end{equation*}
 所以，式\eqref{eqn:10.03.01}可以改写为
 \begin{equation}\label{eqn:10.03.02}
-    \begin{split}
-                T &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i}\left(\vec{v}_{c}+\vec{v}_{i}^{\prime}\right)^{2} \\
-                &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i}\left(\vec{v}_{c}^{2}+\vec{v}_{i}^{2 \prime}+2 \vec{v}_{c} \cdot \vec{v}_{i}^{\prime}\right) \\
-                &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i} v_{c}^{2}+\sum_{i=1}^{n} \dfrac{1}{2} m_{i} v_{i}^{\prime 2}+\sum_{i=1}^{n} m_{i} \vec{v}_{i}^{\prime} \cdot \vec{v}_{c}
-    \end{split}
+  \begin{split}
+    T &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i}\left(\vec{v}_{c}+\vec{v}_{i}^{\prime}\right)^{2} \\
+    &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i}\left(\vec{v}_{c}^{2}+\vec{v}_{i}^{2 \prime}+2 \vec{v}_{c} \cdot \vec{v}_{i}^{\prime}\right) \\
+    &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i} v_{c}^{2}+\sum_{i=1}^{n} \dfrac{1}{2} m_{i} v_{i}^{\prime 2}+\sum_{i=1}^{n} m_{i} \vec{v}_{i}^{\prime} \cdot \vec{v}_{c}
+  \end{split}
 \end{equation}
 因为
-$ \vec{v} _ i ^ { \prime } = \dfrac { \dif \vec{r}'_ i }  { \dif t }  $，
+$ \vec{v} _ i ^ { \prime } = \dfrac { \dif \vec{r}'_ i } { \dif t } $，
 $ \vec{r}'_i $是第$ i $个质点相对于质心的位置矢量，所以
 % 294.jpg
 
 ~\vspace{-1.5em}
 \begin{equation*}
-    \sum _ { i = 0 } ^ { n } m _ { i } \vec{v}' _ { i } = \dfrac { \dif } { \dif t } \sum_{ i = 1 }^ n m _ i \vec{r}_i
+  \sum _ { i = 0 } ^ { n } m _ { i } \vec{v}' _ { i } = \dfrac { \dif } { \dif t } \sum_{ i = 1 }^ n m _ i \vec{r}_i
 \end{equation*}
 按质心的定义，应有
 \begin{equation*}
-    \sum _ { i = 1 } ^ { n } m _ { i } \vec{r} _ { i } ^ { \prime } = 0
+  \sum _ { i = 1 } ^ { n } m _ { i } \vec{r} _ { i } ^ { \prime } = 0
 \end{equation*}
 所以，式\eqref{eqn:10.03.02}中最后一项总为零，故有
 \begin{equation}\label{eqn:10.03.03}
-    \begin{split}
-        T &= \dfrac { 1 } { 2 } \Big( \sum _ { i = 1 } ^ { n } \Big) v _ { c } ^ { 2 } + \dfrac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ n ^ { \prime 2 } \\
+  \begin{split}
+    T &= \dfrac { 1 } { 2 } \Big( \sum _ { i = 1 } ^ { n } \Big) v _ { c } ^ { 2 } + \dfrac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ n ^ { \prime 2 } \\
     &= \dfrac { 1 } { 2 } m v _ c ^ { 2 } + \dfrac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ n ^ { \prime 2 }
-    \end{split}
+  \end{split}
 \end{equation}
 其中$ m = \sum\limits_{ i = 1 } ^ n m _ i $是刚体的总质量。上式表示刚体的动能的确可以看
-成两部分的和，即以质心为基点的平动动能$ \dfrac { 1 } { 2 } - m v _ c ^ { 2 }  $及相对于质心
+成两部分的和，即以质心为基点的平动动能$ \dfrac { 1 } { 2 } - m v _ c ^ { 2 } $及相对于质心
 的转动能
 \begin{equation}\label{eqn:10.03.04}
-    T _ \text{转} = \frac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ n ^ { \prime 2 }
+  T _ \text{转} = \frac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ n ^ { \prime 2 }
 \end{equation}
 如果转动角速度为$ \omega $，则
 \begin{equation}\label{eqn:10.03.05}
-    v ^ { \prime } = r _ i \omega
+  v ^ { \prime } = r _ i \omega
 \end{equation}
 其中$ r _ i $是第$ i $个质点与转动轴的距离。将式\eqref{eqn:10.03.05}代入式\eqref{eqn:10.03.05}，得到
 \begin{equation}\label{eqn:10.03.06}
-\begin{split}
-        T _ \text{转} &= \dfrac { 1 } { 2 } \Big( \sum_{ i = 1 } ^ n m _ i r _ i ^ 2 \Big) \omega ^ { 2 }  \\
+  \begin{split}
+    T _ \text{转} &= \dfrac { 1 } { 2 } \Big( \sum_{ i = 1 } ^ n m _ i r _ i ^ 2 \Big) \omega ^ { 2 } \\
     &= \dfrac { 1 } { 2 } I _ { c } \omega ^ { 2 }
-\end{split}
+  \end{split}
 \end{equation}
 \begin{align}\label{eqn:10.03.07}
-    \beforetext{其中} I _ { c } = \sum_{ i = 1 } ^ n m _ i r _ i ^ 2
+  \beforetext{其中} I _ { c } = \sum_{ i = 1 } ^ n m _ i r _ i ^ 2
 \end{align}
 按式\eqref{eqn:09.04.09}，它就是该刚体相对于转动为$ \omega $的轴的转动惯量。由
 % 295.jpg
 式\eqref{eqn:10.03.04}、 \eqref{eqn:10.03.06} ，刚体动能\lhbrak 式\eqref{eqn:10.03.03}\rhbrak 可以写成
 \begin{equation}\label{eqn:10.03.08}
-    T = \frac { 1 } { 2 } m v _ { c } ^ { 2 } + \frac { 1 } { 2 } I _ { c } \omega ^ { 2 }
+  T = \frac { 1 } { 2 } m v _ { c } ^ { 2 } + \frac { 1 } { 2 } I _ { c } \omega ^ { 2 }
 \end{equation}
 这就是刚体动能的最终表达式。应当再强调一遍，只有选择质心
 作为分解平动及转动的基点时，式\eqref{eqn:10.03.08}才是适用的。
@@ -82,37 +82,37 @@ $ \vec{r}'_i $是第$ i $个质点相对于质心的位置矢量，所以
 刚体动能，基点总是可以任意选取的。如果我们取车轮与地面的
 接触点$ A $为基点，则各质点相对地面的速度$ \vec{v} _ i $可写为
 \begin{equation*}
-    \vec{v} _ i = \vec{v} _ { A } + \vec{v}' _ i
+  \vec{v} _ i = \vec{v} _ { A } + \vec{v}' _ i
 \end{equation*}
 式中$ \vec{v}' _ i $是质点$ m _ i $相对于基点$ A $的速度；$ \vec{v} _ A $是基点$ A $相对于地面的速
-度。上节已证明车轮与地面接触处相对地面的速度为零，即$  v _ { A } =
-0$， 所以
+度。上节已证明车轮与地面接触处相对地面的速度为零，即$ v _ { A } =
+  0$， 所以
 \begin{equation*}
-    \begin{split}
+  \begin{split}
     T &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i} \vec{v}_{i}^{2} \\
     &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i} \vec{v}_{i}^{\prime 2} \\
     &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i} v_{i}^{\prime 2} \\
     &=\sum_{i=1}^{n} \dfrac{1}{2} m_{i} r^{2}_{Ai} \omega_{A}^{2} \\
     &=\dfrac{1}{2}\Big(\sum_{i=1}^{n} m_{i} r_{Ai}^{2}\Big) \omega_{A}^{2} \\
     &=\dfrac{1}{2} I^{\prime} \omega_{A}^{2}
-    \end{split}
+  \end{split}
 \end{equation*}
 其中$ r_{Ai} $是质点$ m _ i $到通过$ A $的转轴的距离；$ I' $是车轮对通过$ A $且垂直
 于轮面的轴的转动惯量；$ \omega_{A} $是以$ A $为基点的角速度。我们已经知
 % 296.jpg
-道，刚体的角速度与基点的选取无关。故$  \omega _ { A } = \omega  $， 所以\vspace{-1.56em}
+道，刚体的角速度与基点的选取无关。故$ \omega _ { A } = \omega $， 所以\vspace{-1.56em}
 \begin{equation}\label{eqn:10.03.09}
-    T = \frac { 1 } { 2 } I ^ { \prime } \omega ^ { 2 }
+  T = \frac { 1 } { 2 } I ^ { \prime } \omega ^ { 2 }
 \end{equation}
 比较式\eqref{eqn:10.03.08}与式\eqref{eqn:10.03.09}，得
 \begin{equation*}
-    \frac { 1 } { 2 } I ^ { \prime } \omega ^ { 2 } = \frac { 1 } { 2 } m v _ { c } ^ { 2 } + \frac { 1 } { 2 } I _ { c } \omega ^ { 2 }
+  \frac { 1 } { 2 } I ^ { \prime } \omega ^ { 2 } = \frac { 1 } { 2 } m v _ { c } ^ { 2 } + \frac { 1 } { 2 } I _ { c } \omega ^ { 2 }
 \end{equation*}
 \begin{align*}
-    \beforetext{又} v _ { c } = r _ { 0 } \omega
+  \beforetext{又} v _ { c } = r _ { 0 } \omega
 \end{align*}
 \begin{align}\label{eqn:10.03.10}
-    \beforetext{故} I ^ { \prime } = m r _ 0 ^ { 2 } + I _ { c }
+  \beforetext{故} I ^ { \prime } = m r _ 0 ^ { 2 } + I _ { c }
 \end{align}
 式\eqref{eqn:10.03.10}表明，\!车轮绕过$ A $点的轴的转动惯量$ I' $与绕过质心
 的、\!与之平行的轴的转动惯量$ I _ c $之间有一个简单关系式。\!可以证

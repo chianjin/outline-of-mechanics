@@ -6,29 +6,29 @@
 这条曲线我们称之为轨迹。
 
 \begin{figure}[!h]
- \hspace{3em}
- \subfigure[\null]{
- \label{fig:01.06a}
- \includegraphics{figure/fig01.06a}
- }
- \hspace{3em}
- \subfigure[\null]{
- \label{fig:01.06b}
- \includegraphics{figure/fig01.06b}
- }
+  \hspace{3em}
+  \subfigure[\null]{
+    \label{fig:01.06a}
+    \includegraphics{figure/fig01.06a}
+  }
+  \hspace{3em}
+  \subfigure[\null]{
+    \label{fig:01.06b}
+    \includegraphics{figure/fig01.06b}
+  }
 
- \hspace{3.7em}
- \subfigure[\null]{
- \label{fig:01.06c}
- \includegraphics{figure/fig01.06c}
- }
- \hspace{1.3em}
- \subfigure[\null]{
- \label{fig:01.06d}
- \includegraphics{figure/fig01.06d}
- }
- \caption{各种运动的轨迹}
- \label{fig:01.06}
+  \hspace{3.7em}
+  \subfigure[\null]{
+    \label{fig:01.06c}
+    \includegraphics{figure/fig01.06c}
+  }
+  \hspace{1.3em}
+  \subfigure[\null]{
+    \label{fig:01.06d}
+    \includegraphics{figure/fig01.06d}
+  }
+  \caption{各种运动的轨迹}
+  \label{fig:01.06}
 \end{figure}
 
 \clearpage
@@ -38,18 +38,18 @@
 的不同，可以把运动分为直线运动和曲线运动两大类。
 
 如何描写轨迹呢？可利用曲线方程来描写。譬如，曲线方程 \begin{equation*}
- \begin{aligned}
- & x^2+y^2=r^2 \\
- & z=0
- \end{aligned}
+  \begin{aligned}
+     & x^2+y^2=r^2 \\
+     & z=0
+  \end{aligned}
 \end{equation*}
 就描写了在$z=0$平面上半径为$r$的圆周运动的轨迹。一般曲线方
 程可以表示成
 \begin{equation*}
- \begin{aligned}
- f_1\left(x,y,z\right)=0 \\
- f_2\left(x,y,z\right)=0
- \end{aligned}
+  \begin{aligned}
+    f_1\left(x,y,z\right)=0 \\
+    f_2\left(x,y,z\right)=0
+  \end{aligned}
 \end{equation*}
 
 在历史上很长一个时期内，人们只注重轨迹形状的研究，例
@@ -68,61 +68,60 @@
 对于在平直铁轨上稳定运动的列车上的某一点，所测得的各
 时刻的位置列于表\ref{tab:01.04}中，其中位置坐标$x$是以铁轨为参考系的(图\ref{fig:01.07})。
 \begin{table}[h]
- \caption{}
- \label{tab:01.04}
- \centering
- \zihao{-5}
- \begin{tblr}{c*{6}{|X[c]}}
- \toprule
- 时\hspace{2em}间（秒） & 0 & 1 & 2 & 3 & 4 & 5 \\
- \midrule
- 位置坐标（米） & 0 & 17 & 34 & 51 & 68 & 85 \\
- \bottomrule
- \end{tblr}
+  \caption{}
+  \label{tab:01.04}
+  \centering
+  \zihao{-5}
+  \begin{tblr}{c*{6}{|X[c]}}
+    \toprule
+    时\hspace{2em}间（秒） & 0 & 1  & 2  & 3  & 4  & 5  \\
+    \midrule
+    位置坐标（米）           & 0 & 17 & 34 & 51 & 68 & 85 \\
+    \bottomrule
+  \end{tblr}
 \end{table}
 
 \begin{figure}[!h]
- \centering
- \includegraphics{figure/fig01.07}
- \caption{列车的运动}
- \label{fig:01.07}
+  \centering
+  \includegraphics{figure/fig01.07}
+  \caption{列车的运动}
+  \label{fig:01.07}
 \end{figure}
 
 对于从地面上某一高度自由落下的质点(称为自由落体)，轨
 迹也是一条直线。如果我们取如图\ref{fig:01.08}所示的坐标系，则所测得的
 质点在各时刻的位置列在表\ref{tab:01.05}中。
 \begin{table}[!h]
- \caption{}
- \label{tab:01.05}
- \zihao{-5}
- \centering
- \begin{tblr}{c*{5}{|X[c]}}
- \toprule
- 时\hspace{2em}间（秒） & 0 & 1 & 2 & 3 & 4 \\
- \midrule
- 位置坐标（米） & 0 & 4.9 & 19.6 & 44.1 & 78.4 \\
- \bottomrule
- \end{tblr}
+  \caption{}
+  \label{tab:01.05}
+  \zihao{-5}
+  \centering
+  \begin{tblr}{c*{5}{|X[c]}}
+    \toprule
+    时\hspace{2em}间（秒） & 0 & 1   & 2    & 3    & 4    \\
+    \midrule
+    位置坐标（米）           & 0 & 4.9 & 19.6 & 44.1 & 78.4 \\
+    \bottomrule
+  \end{tblr}
 \end{table}
 
-用数学的语言说，表\ref{tab:01.04}~和表\ref{tab:01.05}~是给出了质点的位置坐标与
+用数学的语言说，表\ref{tab:01.04}和表\ref{tab:01.05}是给出了质点的位置坐标与
 时间之间的函数关系，这个函数关系$x\left(t\right)$，称之为轨迹函数，或
 \begin{wrapfigure}[14]{l}{8em}
- \centering
- \includegraphics{figure/fig01.08}
- \\ ~ \\
- \caption{落体的运动}
- \label{fig:01.08}
+  \centering
+  \includegraphics{figure/fig01.08}
+  \caption{落体的运动}
+  \label{fig:01.08}
 \end{wrapfigure}
 运动方程式、运动解。
 
 为了便于进行计算，我们常希望能把轨迹
-函数$x\left(t\right)$写成简单的分析表达式。对于表\ref{tab:01.04}~
+函数$x\left(t\right)$写成简单的分析表达式。对于表\ref{tab:01.04}
 的$x\left(t\right)$，可以写成
 \begin{equation}\label{eqn:01.05.01}
- x=17t
+  x=17t
 \end{equation}
-对于表\ref{tab:01.05}~的运动，可以写成$x=4.9t^2$。
+对于表\ref{tab:01.05}的运动，可以写成$x=4.9t^2$。
 
 对于曲线运动，轨迹函数就是位置矢量$\vec{r}$作为时间
 $t$的函数，亦即$\vec{r}\left(t\right)$。随着$t$的变化，位置矢量$\vec{r}$的
@@ -131,14 +130,14 @@ $t$的函数，亦即$\vec{r}\left(t\right)$。随着$t$的变化，位置矢量
 动，它们与$r\left(t\right)$的关系是
 \clearpage
 \begin{equation}\label{eqn:01.05.02}
- \vec{r}\left(t\right)=x\left(t\right)\vec{i}+y\left(t\right)\vec{j}+z\left(t\right)\vec{k}
+  \vec{r}\left(t\right)=x\left(t\right)\vec{i}+y\left(t\right)\vec{j}+z\left(t\right)\vec{k}
 \end{equation}
 
 \begin{wrapfigure}[7]{r}{11em}
- \centering
- \includegraphics{figure/fig01.09}
- \caption{曲线运动}
- \label{fig:01.09}
+  \centering
+  \includegraphics{figure/fig01.09}
+  \caption{曲线运动}
+  \label{fig:01.09}
 \end{wrapfigure}
 轨迹也具有相对性。譬如对于从地面上某一高度自由下落的质点，以
 地面为参考系，看到轨迹是一条直线；而相对于沿平直铁轨稳定运行的
