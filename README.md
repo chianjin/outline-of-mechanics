@@ -18,9 +18,9 @@ https://github.com/chianjin/outline-of-mechanics
 
 GitHub : https://github.com/chianjin/outline-of-mechanics/raw/main/%E5%8A%9B%E5%AD%A6%E6%A6%82%E8%AE%BA.pdf
 
-百度网盘 : https://pan.baidu.com/s/1N9tjCX2CQ4zSLUp7xdOcgg?pwd=asm2
+百度网盘 : https://pan.baidu.com/s/1NrHRigBab635aR77eTGOyQ?pwd=q817 
 
-阿里云盘 : https://www.aliyundrive.com/s/84WJTFsE9ox
+阿里云盘 : https://www.aliyundrive.com/s/B7fhNm7JmwL
 
 ## 字体设置
 
