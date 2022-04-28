@@ -164,6 +164,7 @@
 % 符号
 \RequirePackage{yhmath}
 \RequirePackage{unicode-math}
+\RequirePackage{scalerel}
 
 % 数学字体
 \setmathfont[
