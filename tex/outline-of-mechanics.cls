@@ -24,11 +24,7 @@
 
 
 % 英文字体
-\setmainfont[
-  BoldFont=XITS-Bold.otf,
-  ItalicFont=XITS-Italic.otf,
-  BoldItalicFont=XITS-BoldItalic.otf
-]{XITS-Regular.otf}
+\setmainfont{XITS}
 
 % 中文字体，使用方正书宋、黑体、楷体、仿宋四种免费字体，采用思源字体作为书宋和黑体粗体
 \setCJKmainfont[
@@ -164,13 +160,12 @@
 % 符号
 \RequirePackage{yhmath}
 \RequirePackage{unicode-math}
-\RequirePackage{scalerel}
+%\RequirePackage{scalerel}
 
 % 数学字体
 \setmathfont[
-  BoldFont=XITSMath-Bold.otf,
   StylisticSet=8 % 直立积分符号
-]{XITSMath-Regular.otf}
+]{XITS Math}
 
 \RequirePackage{etoolbox}
 % 公式前导文本， align 环境
