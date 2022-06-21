@@ -3,7 +3,7 @@
 @rem ------------------------------------------------
 @rem ->> Source and dist file names
 @rem ------------------------------------------------
-set PDFFileName=åŠ›å­¦æ¦‚è®º
+set PDFFileName=Á¦Ñ§¸ÅÂÛ
 set TeXFileName=outline-of-mechanics
 @rem ------------------------------------------------
 @rem ->> TeX compiler
