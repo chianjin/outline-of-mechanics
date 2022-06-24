@@ -2,7 +2,7 @@ cd `dirname $0`
 # ------------------------------------------------
 # ->> Source and dist file names
 # ------------------------------------------------
-PDFFileName=力学概论
+PDFFileName=力学概论-LaTeX-重排本
 TeXFileName=introMech
 # ------------------------------------------------
 # ->> Set Compiler

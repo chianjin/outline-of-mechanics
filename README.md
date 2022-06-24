@@ -36,11 +36,7 @@ GitHub : https://github.com/chianjin/outline-of-mechanics/raw/main/%E5%8A%9B%E5%
 - Bold Italic: XITS-BoldItalic.otf
 
 ```latex
-\setmainfont[
-	BoldFont=XITS-Bold.otf,
-	ItalicFont=XITS-Italic.otf,
-	BoldItalicFont=XITS-BoldItalic.otf
-	]{XITS-Regular.otf}
+\setmainfont{XITS}
 ```
 
 #### 数学字体
@@ -51,10 +47,10 @@ GitHub : https://github.com/chianjin/outline-of-mechanics/raw/main/%E5%8A%9B%E5%
 - Bold: XITSMath-Bold.otf
 
 ```latex
-\setmathfont[
-	BoldFont=XITSMath-Bold.otf
-	]{XITSMath-Regular.otf}
+\setmathfont{XITS Math}[StylisticSet=8]
 ```
+
+选项`StylisticSet=8`，表示使用直立积分符号。
 
 ### 中文字体
 
@@ -69,13 +65,13 @@ GitHub : https://github.com/chianjin/outline-of-mechanics/raw/main/%E5%8A%9B%E5%
 - 仿宋：方正仿宋_GBK（FZFangSong-Z02）
 
 ```latex
-\setCJKmainfont[
-    BoldFont=Source Han Serif SC Bold,
+\setCJKmainfont{FZShuSong-Z01}[
+    BoldFont={Source Han Serif SC Bold},
     ItalicFont=FZKai-Z03
-    ]{FZShuSong-Z01}
-\setCJKsansfont[
-    BoldFont=Source Han Sans SC Bold
-    ]{FZHei-B01}
+    ]
+\setCJKsansfont{FZHei-B01}[
+    BoldFont={Source Han Sans SC Bold}
+    ]
 \setCJKmonofont{FZFangSong-Z02}
 
 \setCJKfamilyfont{zhsong}{FZShuSong-Z01}

@@ -4,7 +4,7 @@ cd /d %~dp0
 @rem ------------------------------------------------
 @rem ->> Source and dist file names
 @rem ------------------------------------------------
-set PDFFileName=力学概论
+set PDFFileName=力学概论-LaTeX-重排本
 set TeXFileName=outline-of-mechanics
 @rem ------------------------------------------------
 @rem ->> TeX compiler

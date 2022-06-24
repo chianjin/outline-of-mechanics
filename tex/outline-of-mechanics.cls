@@ -20,21 +20,12 @@
   footskip=10mm
 }
 
-% 中文行距 1.5
-
-
 % 英文字体
 \setmainfont{XITS}
 
 % 中文字体，使用方正书宋、黑体、楷体、仿宋四种免费字体，采用思源字体作为书宋和黑体粗体
-\setCJKmainfont[
-  BoldFont=Source Han Serif SC Bold,
-  ItalicFont=FZKai-Z03
-]{FZShuSong-Z01}
-\setCJKsansfont[
-  BoldFont=Source Han Sans SC Bold
-]{FZHei-B01}
-
+\setCJKmainfont{FZShuSong-Z01}[BoldFont={Source Han Serif SC Bold}, ItalicFont=FZKai-Z03]
+\setCJKsansfont{FZHei-B01}[BoldFont={Source Han Sans SC Bold}]
 \setCJKmonofont{FZFangSong-Z02}
 
 \setCJKfamilyfont{zhsong}{FZShuSong-Z01}
@@ -163,9 +154,7 @@
 %\RequirePackage{scalerel}
 
 % 数学字体
-\setmathfont[
-  StylisticSet=8 % 直立积分符号
-]{XITS Math}
+\setmathfont{XITS Math}[StylisticSet=8] % 直立积分符号
 
 \RequirePackage{etoolbox}
 % 公式前导文本， align 环境
@@ -332,6 +321,7 @@
 \newcommand{\arctg}{\operatorname{arctg}}
 \newcommand{\arcctg}{\operatorname{arcctg}}
 
+% 龟壳括号，又称六角括号
 \newcommand{\lbr}{\ensuremath{\lbrbrak}}
 \newcommand{\rbr}{\ensuremath{\rbrbrak}}
 \newcommand{\lhbrak}{\ensuremath{\lbrbrak}}
