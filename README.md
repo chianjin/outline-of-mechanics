@@ -16,7 +16,7 @@ https://github.com/chianjin/outline-of-mechanics
 
 ## 下载地址
 
-GitHub : https://github.com/chianjin/outline-of-mechanics/blob/main/%E5%8A%9B%E5%AD%A6%E6%A6%82%E8%AE%BA-LaTeX-%E9%87%8D%E6%8E%92%E6%9C%AC.pdf
+GitHub : [Releases · chianjin/outline-of-mechanics · GitHub](https://github.com/chianjin/outline-of-mechanics/releases)
 
 百度网盘 : https://pan.baidu.com/s/1NrHRigBab635aR77eTGOyQ?pwd=q817 
 
