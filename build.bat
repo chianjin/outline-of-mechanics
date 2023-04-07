@@ -4,7 +4,7 @@ cd /d %~dp0
 @rem ------------------------------------------------
 @rem ->> Source and dist file names
 @rem ------------------------------------------------
-set PDFFileName=åŠ›å­¦æ¦‚è®º-LaTeX-é‡æŽ’æœ¬
+set PDFFileName=Á¦Ñ§¸ÅÂÛ-LaTeX-ÖØÅÅ±¾
 set TeXFileName=outline-of-mechanics
 @rem ------------------------------------------------
 @rem ->> TeX compiler

@@ -1,8 +1,9 @@
 \ProvidesClass{outline-of-mechanics}[Introduction to Mechanics]
 \NeedsTeXFormat{LaTeX2e}
-
+\RequirePackage{fix-cm}
 \ProcessOptions\relax
 \LoadClass[openany,twoside,scheme=chinese,fontset=none]{ctexbook}
+
 
 % ----------------------------------------------------------
 % 基本设置
@@ -10,39 +11,43 @@
 
 % 页面、版心
 \RequirePackage{geometry}
-\geometry{
-  paperheight=203mm,
-  paperwidth=140mm,
-  top=27mm,
-  bottom=19.8mm,
-  left=21mm,
-  right=15mm,
-  footskip=10mm
-}
+\geometry
+  {
+    paperheight=203mm,
+    paperwidth=140mm,
+    top=27mm,
+    bottom=19.8mm,
+    left=21mm,
+    right=15mm,
+    footskip=10mm
+  }
 
 % 英文字体
 \setmainfont{XITS}
 
 % 中文字体，使用方正书宋、黑体、楷体、仿宋四种免费字体，采用思源字体作为书宋和黑体粗体
-\setCJKmainfont{FZShuSong-Z01}[BoldFont={Source Han Serif SC Bold}, ItalicFont=FZKai-Z03]
-\setCJKsansfont{FZHei-B01}[BoldFont={Source Han Sans SC Bold}]
+\setCJKmainfont{FZShuSong-Z01}
+  [
+    BoldFont={Source Han Serif SC Bold},
+    ItalicFont=FZKai-Z03
+  ]
+\setCJKsansfont{FZHei-B01}
+  [
+    BoldFont={Source Han Sans SC Bold}
+  ]
 \setCJKmonofont{FZFangSong-Z02}
 
-\setCJKfamilyfont{zhsong}{FZShuSong-Z01}
-\setCJKfamilyfont{zhxbs}{Source Han Serif SC Bold}
-\setCJKfamilyfont{zhdbs}{Source Han Serif SC Heavy}
-\setCJKfamilyfont{zhhei}{FZHei-B01}
-\setCJKfamilyfont{zhdh}{Source Han Sans SC Bold}
-\setCJKfamilyfont{zhfs}{FZFangSong-Z02}
-\setCJKfamilyfont{zhkai}{FZKai-Z03}
+\newCJKfontfamily{\songti}{FZShuSong-Z01}
+\newCJKfontfamily{\xbsong}{Source Han Serif SC SemiBold}
+\newCJKfontfamily{\dbsong}{Source Han Serif SC Bold}
+\newCJKfontfamily{\heiti}{FZHei-B01}
+\newCJKfontfamily{\dahei}{Source Han Sans SC Bold}
+\newCJKfontfamily{\fangsong}{FZFangSong-Z02}
+\newCJKfontfamily{\kaishu}{FZKai-Z03}
 
-\newcommand{\songti}{\CJKfamily{zhsong}}
-\newcommand{\xbsong}{\CJKfamily{zhxbs}}
-\newcommand{\dbsong}{\CJKfamily{zhdbs}}
-\newcommand{\heiti}{\CJKfamily{zhhei}}
-\newcommand{\dahei}{\CJKfamily{zhdh}}
-\newcommand{\fangsong}{\CJKfamily{zhfs}}
-\newcommand{\kaishu}{\CJKfamily{zhkai}}
+% 数理书籍实心句号
+\catcode`\。=13
+\def 。{．}  % {\symbol{65294}}
 
 % 汉字效果，着重号等
 \RequirePackage{CJKfntef}
@@ -58,51 +63,58 @@
 \RequirePackage{fancyhdr}
 
 % plain 版式，章标题页
-\fancypagestyle{plain}{
-  \fancyhf{}
-  \fancyhead[RO,LE]{\zihao{-5}\thepage}
-  \renewcommand{\headrulewidth}{0pt}
-  \renewcommand{\footrulewidth}{0pt}
-}
+\fancypagestyle{plain}
+  {
+    \fancyhf{}
+    \fancyhead[RO,LE]{\zihao{-5}\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0pt}
+  }
 % heading 版式，正文普通页
-\fancypagestyle{heading}{
-  \fancyhf{}
-  \fancyhead[LO]{\zihao{6}\underline{力学概论}}
-  \fancyhead[RE]{\zihao{6}\underline{\leftmark}}
-  \fancyhead[RO,LE]{\zihao{-5}\thepage}
-  \renewcommand{\headrulewidth}{0pt}
-  \renewcommand{\footrulewidth}{0pt}
-}
+\fancypagestyle{heading}
+  {
+    \fancyhf{}
+    \fancyhead[LO]{\zihao{6}\underline{力学概论}}
+    \fancyhead[RE]{\zihao{6}\underline{\leftmark}}
+    \fancyhead[RO,LE]{\zihao{-5}\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0pt}
+  }
 % foreword 版式，前言、目录、序等页
-\fancypagestyle{foreword}{
-  \fancyhf{}
-  \fancyfoot[RO,LE]{\zihao{-5}\thepage}
-  \renewcommand{\headrulewidth}{0pt}
-  \renewcommand{\footrulewidth}{0pt}
-}
+\fancypagestyle{foreword}
+  {
+    \fancyhf{}
+    \fancyfoot[RO,LE]{\zihao{-5}\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0pt}
+  }
 
 % 章节标题
-\ctexset{
-  %contentsname=~\vspace{-2em}\\\makebox[5][s]{目录}\vspace{-1em},
-  chapter={
-    nameformat=\zihao{4}\fangsong,
-    aftername=\vspace{0.7em}\break,
-    titleformat=\zihao{-3},
-    beforeskip=1em,
-    afterskip=2em,
-   },
-  section={
-    %number={\arabic{chapter}$\cdot$\arabic{section}},
-    format=\zihao{4}\kaishu,
-    beforeskip=1.2em,
-    afterskip=1em,
-   }
-}
+\ctexset
+  {
+    %contentsname=~\vspace{-2em}\\\makebox[5][s]{目录}\vspace{-1em},
+    chapter=
+      {
+        nameformat=\zihao{4}\fangsong,
+        aftername=\vspace{0.7em}\break,
+        titleformat=\zihao{-3},
+        beforeskip=1em,
+        afterskip=2em,
+       },
+    section=
+      {
+        %number={\arabic{chapter}$\cdot$\arabic{section}},
+        format=\zihao{4}\kaishu,
+        beforeskip=1.2em,
+        afterskip=1em,
+       }
+  }
 
 % 目录
 \RequirePackage[subfigure]{tocloft}
 \tocloftpagestyle{foreword}
-\renewcommand{\contentsname}{\bfseries\zihao{-3}\hfill\makebox[5em][s]{目录}\hfill\vspace{-1em}}
+\renewcommand{\contentsname}
+  { \bfseries\zihao{-3}\hfill\makebox[5em][s]{目录}\hfill\vspace{-1em} }
 \renewcommand{\cftchapfont}{\heiti\zihao{-5}}
 \renewcommand{\cftsecfont}{\zihao{-5}}
 \renewcommand{\cftdot}{\ensuremath{\cdots}}
@@ -116,24 +128,28 @@
 % 思考题，按节处理
 \newcounter{question}[chapter]
 \newcommand{\question}{\stepcounter{question}\par\thequestion .}
-\newenvironment{questions}{
-  \refstepcounter{section}
-  \addcontentsline{toc}{section}{思考题}
-  \setcounter{question}{0}
-  \begin{center}\textsf{\makebox[5em][s]{思考题}}\end{center}
-  \fangsong
-}{\normalfont}
+\newenvironment{questions}
+  {
+    \refstepcounter{section}
+    \addcontentsline{toc}{section}{思考题}
+    \setcounter{question}{0}
+    \begin{center}\textsf{\makebox[5em][s]{思考题}}\end{center}
+    \fangsong
+  }
+  { \normalfont }
 
 % 习题，按节处理
 \newcounter{exercise}[chapter]
 \newcommand{\exercise}{\stepcounter{exercise}\par\theexercise .}
-\newenvironment{exercises}{%
-  \refstepcounter{section}
-  \addcontentsline{toc}{section}{习题}
-  \setcounter{exercise}{0}
-  \begin{center}\textsf{\makebox[5em][s]{习题}} \end{center}
-  \fangsong
-}{\normalfont}
+\newenvironment{exercises}
+  {%
+    \refstepcounter{section}
+    \addcontentsline{toc}{section}{习题}
+    \setcounter{exercise}{0}
+    \begin{center}\textsf{\makebox[5em][s]{习题}} \end{center}
+    \fangsong
+  }
+  { \normalfont }
 
 % ----------------------------------------------------------
 % 数学排版
@@ -158,74 +174,80 @@
 
 \RequirePackage{etoolbox}
 % 公式前导文本， align 环境
-\makeatletter
 \newif\if@gather@prefix
-\preto\place@tag@gather{%
-  \if@gather@prefix
-    \iftagsleft@
-      \kern-\gdisplaywidth@
-      \rlap{\gather@prefix}%
-      \kern\gdisplaywidth@
+\preto\place@tag@gather
+  {%
+    \if@gather@prefix
+      \iftagsleft@
+        \kern-\gdisplaywidth@
+        \rlap{\gather@prefix}%
+        \kern\gdisplaywidth@
+      \fi
     \fi
-  \fi
-}
-\appto\place@tag@gather{%
-  \if@gather@prefix
-    \iftagsleft@\else
-      \kern-\displaywidth
-      \rlap{\gather@prefix}%
-      \kern\displaywidth
+  }
+\appto\place@tag@gather
+  {%
+    \if@gather@prefix
+      \iftagsleft@\else
+        \kern-\displaywidth
+        \rlap{\gather@prefix}%
+        \kern\displaywidth
+      \fi
     \fi
-  \fi
-  \global\@gather@prefixfalse
-}
-\preto\place@tag{%
-  \if@gather@prefix
-    \iftagsleft@
-      \kern-\gdisplaywidth@
-      \rlap{\gather@prefix}%
-      \kern\displaywidth@
+    \global\@gather@prefixfalse
+  }
+\preto\place@tag
+  {%
+    \if@gather@prefix
+      \iftagsleft@
+        \kern-\gdisplaywidth@
+        \rlap{\gather@prefix}%
+        \kern\displaywidth@
+      \fi
     \fi
-  \fi
-}
-\appto\place@tag{%
-  \if@gather@prefix
-    \iftagsleft@\else
-      \kern-\displaywidth
-      \rlap{\gather@prefix}%
-      \kern\displaywidth
+  }
+\appto\place@tag
+  {%
+    \if@gather@prefix
+      \iftagsleft@\else
+        \kern-\displaywidth
+        \rlap{\gather@prefix}%
+        \kern\displaywidth
+      \fi
     \fi
-  \fi
-  \global\@gather@prefixfalse
-}
-\def\math@cr@@@align{%
-  \ifst@rred\nonumber\fi
-  \if@eqnsw \global\tag@true \fi
-  \global\advance\row@\@ne
-  \add@amps\maxfields@
-  \omit
-  \kern-\alignsep@
-  \if@gather@prefix\tag@true\fi
-  \iftag@
-    \setboxz@h{\@lign\strut@{\make@display@tag}}%
-    \place@tag
-  \fi
-  \ifst@rred\else\global\@eqnswtrue\fi
-  \global\lineht@\z@
-  \cr
-}
-\newcommand*{\beforetext}[1]{%
-  \ifmeasuring@\else
-    \gdef\gather@prefix{#1}%
-    \global\@gather@prefixtrue
-  \fi
-}
-\makeatother
+    \global\@gather@prefixfalse
+  }
+\def\math@cr@@@align
+  {%
+    \ifst@rred\nonumber\fi
+    \if@eqnsw \global\tag@true \fi
+    \global\advance\row@\@ne
+    \add@amps\maxfields@
+    \omit
+    \kern-\alignsep@
+    \if@gather@prefix\tag@true\fi
+    \iftag@
+      \setboxz@h{\@lign\strut@{\make@display@tag}}%
+      \place@tag
+    \fi
+    \ifst@rred\else\global\@eqnswtrue\fi
+    \global\lineht@\z@
+    \cr
+  }
+\newcommand*{\beforetext}[1]
+  {%
+    \ifmeasuring@\else
+      \gdef\gather@prefix{#1}%
+      \global\@gather@prefixtrue
+    \fi
+  }
 
 % 向量格式
 \renewcommand{\vec}[1]{{\symbfsf {#1}}}
 % 求导符号
+%\RequirePackage{fixdif}
 \newcommand{\dif}{\mathop{}\!\symrm{d}}
+%\newcommand{\dif}{\d}
 % 数学模式连字符
 \mathchardef\mathdash="2D
 
@@ -245,25 +267,28 @@
 
 % 书签、链接
 \RequirePackage{hyperref}
-\hypersetup{
-  hidelinks,
-  colorlinks=true,
-  allcolors=black,
-  pdfstartview=Fit,
-  breaklinks=true,
-  bookmarksnumbered=true,
-  pdftitle=力学概论,
-  %pdfpagelabels=true
-}
+\hypersetup
+  {
+    hidelinks,
+    colorlinks=true,
+    allcolors=black,
+    pdfstartview=Fit,
+    breaklinks=true,
+    bookmarksnumbered=true,
+    pdftitle=力学概论,
+    %pdfpagelabels=true
+  }
 \RequirePackage{bookmark}
 
 % 摘录
-\RequirePackage[
-  leftmargin=2em,
-  rightmargin=2em,
-  font={fangsong},
-  vskip=0pt
-]{quoting}
+\RequirePackage
+  [
+    leftmargin=2em,
+    rightmargin=2em,
+    font={fangsong},
+    vskip=0pt
+  ]
+  {quoting}
 
 % 图形
 \RequirePackage{graphicx}
@@ -281,19 +306,21 @@
 % 图表标题
 \RequirePackage{caption}
 \DeclareCaptionFormat{table}{\heiti\zihao{-5}#1#2#3}
-\captionsetup[table]{%
-  position=above,
-  format=table,
-  skip=0.2em,
-  labelsep=quad
-}
-\captionsetup[figure]{%
-  position=below,
-  format=hang,
-  font=small,
-  skip=0.5em,
-  labelsep=quad
-}
+\captionsetup[table]
+  {%
+    position=above,
+    format=table,
+    skip=0.2em,
+    labelsep=space
+  }
+\captionsetup[figure]
+  {%
+    position=below,
+    format=hang,
+    font=small,
+    skip=0.5em,
+    labelsep=space
+  }
 
 % ----------------------------------------------------------
 % 注释
@@ -305,6 +332,17 @@
   \footnote{#1}%
   \addtocounter{footnote}{-1}%
   \endgroup
+}
+
+% 重排校注
+\RequirePackage{endnotes}
+\renewcommand{\notesname}{\makebox[6em][s]{重排校注}}
+\renewcommand{\theenmark}{[\theendnote]}
+\newcommand{\errnote}[2]{%
+  \stepcounter{endnote}\label{err:\theendnote}%
+  \addtoendnotes{\makebox[2em][r]{\theenmark}~ #1： #2（第\!\,\pageref{err:\theendnote}页）}%
+  \marginpar{$^{\theenmark}$}%
+  #1%
 }
 
 % ----------------------------------------------------------
