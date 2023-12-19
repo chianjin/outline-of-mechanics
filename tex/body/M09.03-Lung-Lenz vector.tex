@@ -8,10 +8,10 @@
 \begin{equation}\label{eqn:09.03.01}
   \vec{F} = - \frac { G M m } { r ^ { 2 } } \cdot \frac { \vec{r} } { r }
 \end{equation}
-其中$ M $及$ m $分别表示太阳及行星的质量$ - \frac { \vec{r} } { r }$表示力$\vec{F}$总是指向
+其中$ M $及$ m $分别表示太阳及行星的质量；$ - \frac { \vec{r} } { r }$表示力$\vec{F}$总是指向
 太阳的。由牛顿第二定律，行星的运动方程应为
 \begin{equation}\label{eqn:09.03.02}
-  \frac { \dif ^ { 2 } r } { \dif t ^ { 2 } } = - \frac { G M } { r ^ { 2 } } \cdot \frac { \vec{r} } { r }
+  \frac { \dif ^ { 2 } \vec{r} } { \dif t ^ { 2 } } = - \frac { G M } { r ^ { 2 } } \cdot \frac { \vec{r} } { r }
 \end{equation}
 
 第六章中已讨论过，行星运动中机械能是守恒的，即
@@ -57,13 +57,13 @@
 \end{equation}
 上式可改写成为
 \begin{equation*}
-  \frac { \dif } { \dif } \left( \frac { \dif \vec{r} } { \dif t } \times \vec{l} \right)
+  \frac { \dif } { \dif t } \left( \frac { \dif \vec{r} } { \dif t } \times \vec{l} \right)
 \end{equation*}
 % 264.jpg
 \begin{equation}\label{eqn:09.03.09}
   \begin{split}
     &= - \frac { G M m } { r ^ { 2 } } \left( \vec{r} \cdot \frac { \dif \vec{r} } { \dif t } \right) \frac { \vec{r} } { r } + \frac { G M m } { r ^ { 3 } } \left( \vec{r} \cdot \vec{r} \right) \frac { \dif \vec{r} } { \dif t } \\
-    &= - \frac { G M m } { r ^ { 2 } } \left( r \frac { \dif \vec{r} } { \dif t } \right) \frac { \vec{r} } { r } + \frac { G M m } { r } \cdot \frac { \dif \vec{r} } { \dif t } \\
+    &= - \frac { G M m } { r ^ { 2 } } \left( r \frac { \dif r } { \dif t } \right) \frac { \vec{r} } { r } + \frac { G M m } { r } \cdot \frac { \dif \vec{r} } { \dif t } \\
     &= - \frac { G M m } { r ^ { 2 } } \cdot \frac { \dif r } { \dif t } \vec{r} + \frac { G M m } { r } \cdot \frac { \dif \vec{r} } { \dif t } \\
     &= \frac { \dif } { \dif t } \left( G M m \frac { \vec{r} } { r } \right)
   \end{split}
@@ -71,7 +71,7 @@
 在上述推导中已经利用了下式
 \begin{equation*}
   \begin{split}
-    \vec{r} \cdot \frac { \dif \vec{r} } { \dif i } &= \frac { 1 } { 2 } \cdot \frac { \dif } { \dif t } \left( \vec{r} \cdot \vec{r} \right) \\
+    \vec{r} \cdot \frac { \dif \vec{r} } { \dif t } &= \frac { 1 } { 2 } \cdot \frac { \dif } { \dif t } \left( \vec{r} \cdot \vec{r} \right) \\
     &= \frac { 1 } { 2 } \cdot \frac { \dif } { \dif t } r ^ { 2 } \\
     &= r \frac { \dif r } { \dif t }
   \end{split}
@@ -121,7 +121,7 @@
   \frac { 1 } { m } \vec{l} ^ { 2 } = r B \cos \varphi + G M m r
 \end{equation*}
 \begin{align}\label{eqn:09.03.13}
-  \beforetext{或者} r = \frac { \vec{l} / G M m ^ 2 } { 1 + \dfrac { B } { G M m } \cos \varphi }
+  \beforetext{或者} r = \frac { \vec{l} ^ 2 / G M m ^ 2 } { 1 + \dfrac { B } { G M m } \cos \varphi }
 \end{align}
 \begin{wrapfigure}[11]{r}{17em}
   \centering
@@ -135,7 +135,7 @@
 的极坐标中的圆锥曲线
 方程。根据图\ref{fig:09.07}，我们
 来回忆一下有关圆锥曲
-线的基本性质。图中$ B $
+线的基本性质。图中$ \vec{B} $
 沿极轴方向，$ \varphi $角为从
 极轴计起的方位角。以
 $ O $为焦点的圆锥曲线的
