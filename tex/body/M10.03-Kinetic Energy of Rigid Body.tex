@@ -34,7 +34,7 @@ $ \vec{r}'_i $是第$ i $个质点相对于质心的位置矢量，所以
 
 ~\vspace{-1.5em}
 \begin{equation*}
-  \sum _ { i = 0 } ^ { n } m _ { i } \vec{v}' _ { i } = \dfrac { \dif } { \dif t } \sum_{ i = 1 }^ n m _ i \vec{r}_i
+  \sum _ { i = 1 } ^ { n } m _ { i } \vec{v}' _ { i } = \dfrac { \dif } { \dif t } \sum_{ i = 1 }^ n m _ i \vec{r}_i
 \end{equation*}
 按质心的定义，应有
 \begin{equation*}
@@ -43,21 +43,21 @@ $ \vec{r}'_i $是第$ i $个质点相对于质心的位置矢量，所以
 所以，式\eqref{eqn:10.03.02}中最后一项总为零，故有
 \begin{equation}\label{eqn:10.03.03}
   \begin{split}
-    T &= \dfrac { 1 } { 2 } \Big( \sum _ { i = 1 } ^ { n } \Big) v _ { c } ^ { 2 } + \dfrac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ n ^ { \prime 2 } \\
-    &= \dfrac { 1 } { 2 } m v _ c ^ { 2 } + \dfrac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ n ^ { \prime 2 }
+    T &= \dfrac { 1 } { 2 } \Big( \sum _ { i = 1 } ^ { n } m _ i \Big) v _ { c } ^ { 2 } + \dfrac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ i ^ { \prime 2 } \\
+    &= \dfrac { 1 } { 2 } m v _ c ^ { 2 } + \dfrac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ i ^ { \prime 2 }
   \end{split}
 \end{equation}
 其中$ m = \sum\limits_{ i = 1 } ^ n m _ i $是刚体的总质量。上式表示刚体的动能的确可以看
-成两部分的和，即以质心为基点的平动动能$ \dfrac { 1 } { 2 } - m v _ c ^ { 2 } $及相对于质心
+成两部分的和，即以质心为基点的平动动能$ \dfrac { 1 } { 2 } m v _ c ^ { 2 } $及相对于质心
 的转动能
 \begin{equation}\label{eqn:10.03.04}
-  T _ \text{转} = \frac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ n ^ { \prime 2 }
+  T _ \text{转} = \frac { 1 } { 2 } \sum_{ i = 1 } ^ n m _ i v _ i ^ { \prime 2 }
 \end{equation}
 如果转动角速度为$ \omega $，则
 \begin{equation}\label{eqn:10.03.05}
-  v ^ { \prime } = r _ i \omega
+  v _ i ^ { \prime } = r _ i \omega
 \end{equation}
-其中$ r _ i $是第$ i $个质点与转动轴的距离。将式\eqref{eqn:10.03.05}代入式\eqref{eqn:10.03.05}，得到
+其中$ r _ i $是第$ i $个质点与转动轴的距离。将式\eqref{eqn:10.03.05}代入式\eqref{eqn:10.03.04}，得到
 \begin{equation}\label{eqn:10.03.06}
   \begin{split}
     T _ \text{转} &= \dfrac { 1 } { 2 } \Big( \sum_{ i = 1 } ^ n m _ i r _ i ^ 2 \Big) \omega ^ { 2 } \\
@@ -85,7 +85,7 @@ $ \vec{r}'_i $是第$ i $个质点相对于质心的位置矢量，所以
   \vec{v} _ i = \vec{v} _ { A } + \vec{v}' _ i
 \end{equation*}
 式中$ \vec{v}' _ i $是质点$ m _ i $相对于基点$ A $的速度；$ \vec{v} _ A $是基点$ A $相对于地面的速
-度。上节已证明车轮与地面接触处相对地面的速度为零，即$ v _ { A } =
+度。上节已证明车轮与地面接触处相对地面的速度为零，即$ \vec{v} _ { A } =
   0$， 所以
 \begin{equation*}
   \begin{split}
@@ -117,5 +117,5 @@ $ \vec{r}'_i $是第$ i $个质点相对于质心的位置矢量，所以
 式\eqref{eqn:10.03.10}表明，\!车轮绕过$ A $点的轴的转动惯量$ I' $与绕过质心
 的、\!与之平行的轴的转动惯量$ I _ c $之间有一个简单关系式。\!可以证
 明，\!上述关系是普遍成立的，\!即对于任何刚体，\!绕任意转轴的转
-动惯量，\!式\eqref{eqn:10.03.10}都成立，其中$ r _ c $是质心与该转轴之间的距离。
+动惯量，\!式\eqref{eqn:10.03.10}都成立，其中$ r _ 0 $是质心与该转轴之间的距离。
 
