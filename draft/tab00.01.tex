@@ -1,0 +1,89 @@
+\documentclass{standalone}
+\usepackage{ctex}
+\usepackage{tikz}
+\usetikzlibrary{positioning,calc,decorations.pathreplacing}
+
+\setmainfont{XITS}
+\setCJKmainfont{FZShuSong-Z01}
+  [
+    BoldFont={Source Han Serif SC Bold},
+    ItalicFont=FZKai-Z03
+  ]
+
+\newcommand{\pbox}[2][4em]{\parbox{#1}{\baselineskip=0pt\centering #2}}
+
+\begin{document}
+\begin{tikzpicture}[x=1em,y=1em,anchor=west,line width=0.8pt,inner sep=0.5em,outer sep=0]
+\node (sky)    at (0,22) {天空};
+\node (ground) at (0,20) {地面};
+\node (time)   at (0,18) {时间};
+\node (space)  at (0,16) {空间};
+\node (elec)   [text width=2em] at (0,14) {电};
+\node (magn)   [text width=2em] at (0,12) {磁};
+\node (light)  [text width=2em] at (0,10) {光};
+\node (atom)   at (0,8) {原子};
+\node (nucl)   at (0,6) {核子};
+\node (quark)  at (0,3) {夸克};
+\node (prim)   at (0,0) {物原？};
+\coordinate (prim2) at ($(prim.west)+(3,0)$);
+
+\draw [decorate,decoration=brace]
+  (sky.east) -- (ground.east);
+\node (newt)
+  at ($(sky.east)!0.5!(ground.east)$)
+  {\pbox{牛顿力学(1687)}};
+\draw [decorate,decoration=brace]
+  (elec.east) -- (light.east);
+\node (elecdyna)
+  at ($(elec.east)!0.5!(light.east)$)
+  {\pbox{电动力学(1867)}};
+
+\draw [decorate,decoration=brace]
+  (newt.east) -- (elecdyna.east);
+\node (specrela)
+  at ($(newt.east)!0.5!(elecdyna.east)$)
+  {\pbox{狭义相对论\,(1905)}};
+\node (quanmech)
+  at ($(atom.east)!0.5!(nucl.east)+(5,0)$)
+  {\pbox{量子力学(1925)}};
+
+\coordinate (newt2) at ($(newt.east)+(5,0)$);
+\draw [decorate,decoration=brace]
+  (newt2.east) -- (specrela.east);
+\node (generela)
+  at ($(newt2.east)!0.5!(specrela.east)$)
+  {\pbox{广义相对论\,(1916)}};
+\draw [decorate,decoration=brace]
+  (specrela.east) -- (quanmech.east);
+\node (quanelec)
+  at ($(specrela.east)!0.5!(quanmech.east)$)
+  {\pbox{量子电动力学(1948)}};
+\node (weak)
+  at ($(nucl.east)!0.5!(quark.east)+(10,0)$)
+  {\pbox{弱相互作用\,(1958)}};
+\node (strong) [text width=4em]
+  at ($(quark.east)!0.5!(prim2.east)+(10,0)$)
+  {\pbox[5em]{强相互作用(1934\textasciitilde ?)}};
+
+\draw [decorate,decoration=brace]
+  (quanelec.east) -- (weak.east);
+\node (weakelec)
+  at ($(quanelec.east)!0.5!(weak.east)$)
+  {\pbox{弱电统一理论(1967)}};
+
+\coordinate (strong2) at ($(strong.east)+(5,0)$);
+\draw [decorate,decoration=brace]
+  (weakelec.east) -- (strong2.east);
+\coordinate (generela2) at ($(generela.east)+(10.5,0)$);
+\node (great)
+  at ($(weakelec.east)!0.5!(strong2.east)$)
+  {\pbox{大统一理论\,(1970\textasciitilde ?)}};
+
+\coordinate (great2) at ($(great.east)+(0.5,0)$);
+\draw [decorate,decoration=brace]
+  (generela2.east) -- (great2.east);
+\node (super)
+  at ($(generela2.east)!0.5!(great2.east)$)
+  {\pbox[5em]{超统一理论超引力~~(?)}};
+\end{tikzpicture}
+\end{document}
