@@ -5,11 +5,34 @@
    viewBox="0 0 50.535416 30.932819"
    version="1.1"
    id="svg8447"
+   sodipodi:docname="fig03.12.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="13.18947"
+     inkscape:cx="130.82406"
+     inkscape:cy="58.796903"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8447" />
   <defs
      id="defs8441">
     <marker
@@ -513,5 +536,21 @@
            id="id-5cff37a0-61b1-4a19-a056-36bd701cd29c-2" />
       </g>
     </g>
+  </g>
+  <g
+     id="g1"
+     transform="translate(4.2928338e-5,0.09957298)">
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.238125;stroke-linecap:round;stroke-dasharray:none"
+       id="path1"
+       cx="44.263885"
+       cy="14.938355"
+       r="0.62186593" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.238125;stroke-linecap:round;stroke-dasharray:none"
+       id="path1-4"
+       cx="44.263885"
+       cy="17.766962"
+       r="0.62186593" />
   </g>
 </svg>
