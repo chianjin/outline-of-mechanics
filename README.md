@@ -18,9 +18,11 @@ https://github.com/chianjin/outline-of-mechanics
 
 GitHub : [Releases · chianjin/outline-of-mechanics · GitHub](https://github.com/chianjin/outline-of-mechanics/releases)
 
+夸克网盘 : https://pan.quark.cn/s/764d35b42fc9
+
 百度网盘 : https://pan.baidu.com/s/1NrHRigBab635aR77eTGOyQ?pwd=q817 
 
-阿里云盘 : https://www.aliyundrive.com/s/B7fhNm7JmwL
+阿里云盘 : https://www.alipan.com/s/6mW9BEj2wnq
 
 ## 字体设置
 
